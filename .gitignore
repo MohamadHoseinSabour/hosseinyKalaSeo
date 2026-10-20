@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and checkpoint temp files
+*.tmp
+*.temp
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS metadata
+Thumbs.db
+.DS_Store

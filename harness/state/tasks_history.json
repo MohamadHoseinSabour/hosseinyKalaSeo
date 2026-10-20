@@ -1,0 +1,105 @@
+[
+  {
+    "id": "TASK-HIST-001",
+    "title": "تدوین محتوای پیلار و سئو عمیق دسته‌بندی کولر آبی",
+    "category": "content",
+    "priority": "HIGH",
+    "status": "COMPLETED",
+    "tags": ["water-cooler", "pillar", "category-seo"],
+    "required_skills": ["seo-optimization", "content-writing", "content-humanizer", "technical-seo"],
+    "current_step_index": 4,
+    "created_at": "2026-09-25T14:30:00+03:30",
+    "updated_at": "2026-09-25T14:47:00+03:30",
+    "completed_at": "2026-09-25T14:47:00+03:30",
+    "completed_by_node": "primary_seo_workstation",
+    "session_id": "SESS-20260925-WC",
+    "result_summary": "محتوای پیلار جامع با ساختار ۴ مرحله‌ای تولید و در ووکامرس اعمال شد.",
+    "artifacts": [
+      "pipeline/categories/water-cooler/v1_architect_draft.md",
+      "pipeline/categories/water-cooler/v2_humanized.md",
+      "pipeline/categories/water-cooler/v3_seo_audited.md",
+      "pipeline/categories/water-cooler/v4_deployment_report.md"
+    ]
+  },
+  {
+    "id": "TASK-HIST-002",
+    "title": "تدوین محتوای پیلار و سئو عمیق دسته‌بندی تصفیه آب خانگی",
+    "category": "content",
+    "priority": "HIGH",
+    "status": "COMPLETED",
+    "tags": ["water-purifier", "pillar", "category-seo"],
+    "required_skills": ["seo-optimization", "content-writing", "content-humanizer", "technical-seo"],
+    "current_step_index": 4,
+    "created_at": "2026-09-25T14:50:00+03:30",
+    "updated_at": "2026-09-25T15:07:00+03:30",
+    "completed_at": "2026-09-25T15:07:00+03:30",
+    "completed_by_node": "primary_seo_workstation",
+    "session_id": "SESS-20260925-WP",
+    "result_summary": "محتوای پیلار تصفیه آب با تاکید بر سختی آب اهواز تکمیل و بر روی دسته مربوطه قرار گرفت.",
+    "artifacts": [
+      "pipeline/categories/water-purifier/v1_architect_draft.md",
+      "pipeline/categories/water-purifier/v2_humanized.md",
+      "pipeline/categories/water-purifier/v3_seo_audited.md",
+      "pipeline/categories/water-purifier/v4_deployment_report.md"
+    ]
+  },
+  {
+    "id": "TASK-HIST-003",
+    "title": "نگارش و انتشار زمان‌بندی‌شده مقالات کلاستر خرید اقساطی لوازم خانگی",
+    "category": "content",
+    "priority": "CRITICAL",
+    "status": "COMPLETED",
+    "tags": ["installments", "cluster", "bnpl", "sayadi-cheque"],
+    "required_skills": ["content-writing", "seo-optimization", "image", "wordpress-content-agent-api"],
+    "current_step_index": 6,
+    "created_at": "2026-09-28T10:00:00+03:30",
+    "updated_at": "2026-10-01T19:30:00+03:30",
+    "completed_at": "2026-10-01T19:30:00+03:30",
+    "completed_by_node": "primary_seo_workstation",
+    "session_id": "SESS-20261001-INST",
+    "result_summary": "مقالات ۳۸۵۹ و ۳۸۶۱ به صورت زمان‌بندی شده برای ساعت ۱۹:۳۰ در سایت تنظیم گردیدند.",
+    "artifacts": [
+      "data/all_posts_summary.json"
+    ]
+  },
+  {
+    "id": "TASK-HIST-004",
+    "title": "یکپارچه‌سازی املای برند «هاورسن» در کل دیتابیس، سایت و اکسل",
+    "category": "catalog",
+    "priority": "HIGH",
+    "status": "COMPLETED",
+    "tags": ["branding", "haversen", "catalog-sync"],
+    "required_skills": ["ecommerce-seo", "technical-seo", "wordpress-content-agent-api"],
+    "current_step_index": 4,
+    "created_at": "2026-10-10T11:00:00+03:30",
+    "updated_at": "2026-10-10T14:20:00+03:30",
+    "completed_at": "2026-10-10T14:20:00+03:30",
+    "completed_by_node": "primary_seo_workstation",
+    "session_id": "SESS-20261010-HAV",
+    "result_summary": "املای اشتباه «آورسون» به شکل استاندارد «هاورسن» در سایت و اکسل اصلاح و بازنویسی شد.",
+    "artifacts": [
+      "scripts/update_averson_to_haversen_on_site.py",
+      "data/id_mappings.json"
+    ]
+  },
+  {
+    "id": "TASK-HIST-005",
+    "title": "پیاده‌سازی ساختار ۱۸ ستونه کاتالوگ با فرمول درصد تغییر و فرمت‌بندی شرطی",
+    "category": "catalog",
+    "priority": "CRITICAL",
+    "status": "COMPLETED",
+    "tags": ["excel", "catalog", "pricing-rules"],
+    "required_skills": ["technical-seo", "ecommerce-seo"],
+    "current_step_index": 4,
+    "created_at": "2026-10-12T18:00:00+03:30",
+    "updated_at": "2026-10-13T00:52:00+03:30",
+    "completed_at": "2026-10-13T00:52:00+03:30",
+    "completed_by_node": "primary_seo_workstation",
+    "session_id": "SESS-20261013-CAT",
+    "result_summary": "کاتالوگ با ۱۸ ستون، فرمول =(B-D)/D و هایلایت نارنجی تغییرات بالای ۵۰ درصد نهایی شد.",
+    "artifacts": [
+      "hosseiny_kala_catalog.xlsx",
+      "scripts/verify_dynamic_catalog_rules.py"
+    ]
+  }
+]

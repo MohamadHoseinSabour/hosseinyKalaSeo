@@ -1,0 +1,44 @@
+{
+  "MHSabour_mmhhs_windows": {
+    "node_id": "MHSabour_mmhhs_windows",
+    "hostname": "MHSabour",
+    "username": "mmhhs",
+    "os": "Windows 11",
+    "python_version": "3.12.10",
+    "capabilities": [
+      "seo",
+      "content",
+      "catalog",
+      "wordpress_api"
+    ],
+    "last_heartbeat": "2026-10-20T22:45:33.478696+00:00"
+  },
+  "office_desktop": {
+    "node_id": "office_desktop",
+    "hostname": "MHSabour",
+    "username": "mmhhs",
+    "os": "Windows 11",
+    "python_version": "3.12.10",
+    "capabilities": [
+      "seo",
+      "content",
+      "catalog",
+      "wordpress_api"
+    ],
+    "last_heartbeat": "2026-10-20T22:43:29.635104+00:00"
+  },
+  "laptop_node": {
+    "node_id": "laptop_node",
+    "hostname": "MHSabour",
+    "username": "mmhhs",
+    "os": "Windows 11",
+    "python_version": "3.12.10",
+    "capabilities": [
+      "seo",
+      "content",
+      "catalog",
+      "wordpress_api"
+    ],
+    "last_heartbeat": "2026-10-20T22:43:40.510202+00:00"
+  }
+}

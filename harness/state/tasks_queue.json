@@ -1,0 +1,211 @@
+[
+  {
+    "id": "TASK-QUEUE-001",
+    "title": "تدوین و انتشار راهنمای خرید جامع انواع یخچال و فریزر (دوقلو، ساید و کمبی) در اهواز",
+    "category": "content",
+    "priority": "CRITICAL",
+    "status": "PENDING",
+    "tags": [
+      "refrigerator",
+      "pillar",
+      "buying-guide",
+      "ahvaz"
+    ],
+    "required_skills": [
+      "seo-optimization",
+      "content-writing",
+      "content-humanizer",
+      "technical-seo",
+      "image",
+      "wordpress-content-agent-api"
+    ],
+    "steps": [
+      {
+        "step_index": 0,
+        "name": "تحقیق کلمات کلیدی، عناوین مقایسه‌ای و تحلیل نیاز بازار اهواز",
+        "status": "completed"
+      },
+      {
+        "step_index": 1,
+        "name": "نگارش پیش‌نویس جامع، مقایسه برندهای دیپوینت، الکترواستیل و کلور",
+        "status": "in_progress"
+      },
+      {
+        "step_index": 2,
+        "name": "روان‌سازی محتوا، لحن صمیمانه و حذف عبارات کلیشه‌ای هوش مصنوعی",
+        "status": "pending"
+      },
+      {
+        "step_index": 3,
+        "name": "اعتبارسنجی لینک‌های کاننیکال به /product-category/refrigerator-freezer/ و محصولات",
+        "status": "pending"
+      },
+      {
+        "step_index": 4,
+        "name": "آماده‌سازی تصویر شاخص 1599x900 بدون هیچ‌گونه متن و با حجم حدود 100KB",
+        "status": "pending"
+      },
+      {
+        "step_index": 5,
+        "name": "زمان‌بندی انتشار در وردپرس برای ساعت ۱۹:۳۰ با فوکوس کیورد و متاتگ‌های کامل",
+        "status": "pending"
+      }
+    ],
+    "current_step_index": 1,
+    "claimed_by": null,
+    "claimed_at": null,
+    "lease_expires_at": null,
+    "created_at": "2026-10-21T02:00:00+03:30",
+    "updated_at": "2026-10-20T22:43:37.240386+00:00",
+    "completed_at": null,
+    "created_by": "system",
+    "metadata": {
+      "target_category_slug": "refrigerator-freezer",
+      "target_category_url": "https://hosseinykala.ir/product-category/refrigerator-freezer/",
+      "focus_keyword": "راهنمای خرید یخچال فریزر در اهواز"
+    },
+    "artifacts": [],
+    "last_error": null,
+    "progress_percent": 16,
+    "current_step_name": "نگارش پیش‌نویس جامع، مقایسه برندهای دیپوینت، الکترواستیل و کلور"
+  },
+  {
+    "id": "TASK-QUEUE-002",
+    "title": "تدوین راهنمای خرید تخصصی ماشین لباسشویی متناسب با اقلیم خوزستان و سختی آب",
+    "category": "content",
+    "priority": "HIGH",
+    "status": "PENDING",
+    "tags": [
+      "washing-machine",
+      "pillar",
+      "buying-guide"
+    ],
+    "required_skills": [
+      "seo-optimization",
+      "content-writing",
+      "content-humanizer",
+      "technical-seo",
+      "image",
+      "wordpress-content-agent-api"
+    ],
+    "steps": [
+      {
+        "step_index": 0,
+        "name": "تحقیق کلمات کلیدی ماشین لباسشویی و برندهای بست، دوو و پاکشوما",
+        "status": "pending"
+      },
+      {
+        "step_index": 1,
+        "name": "نگارش راهنمای موتور دایرکت درایو و مقاومت در برابر رسوب آب",
+        "status": "pending"
+      },
+      {
+        "step_index": 2,
+        "name": "ویرایش لحن انسانی و درج تجارب خرید مشتریان اهواز",
+        "status": "pending"
+      },
+      {
+        "step_index": 3,
+        "name": "چک کردن لینک کاننیکال به /product-category/washing-machine/",
+        "status": "pending"
+      },
+      {
+        "step_index": 4,
+        "name": "تولید تصویر بدون متن 1599x900 با رفرنس لباسشویی حسینی کالا",
+        "status": "pending"
+      },
+      {
+        "step_index": 5,
+        "name": "زمان‌بندی پست برای روز سه‌شنبه ساعت ۱۹:۳۰",
+        "status": "pending"
+      }
+    ],
+    "current_step_index": 0,
+    "created_at": "2026-10-21T02:00:00+03:30",
+    "updated_at": "2026-10-21T02:00:00+03:30",
+    "metadata": {
+      "target_category_slug": "washing-machine",
+      "target_category_url": "https://hosseinykala.ir/product-category/washing-machine/",
+      "focus_keyword": "بهترین ماشین لباسشویی برای خوزستان"
+    }
+  },
+  {
+    "id": "TASK-QUEUE-003",
+    "title": "غنی‌سازی مشخصات و سئو محصولات دسته‌بندی جاروبرقی و بخارشو",
+    "category": "catalog",
+    "priority": "MEDIUM",
+    "status": "PENDING",
+    "tags": [
+      "vacuum-cleaner",
+      "steamer",
+      "enrichment"
+    ],
+    "required_skills": [
+      "ecommerce-seo",
+      "technical-seo",
+      "wordpress-content-agent-api"
+    ],
+    "steps": [
+      {
+        "step_index": 0,
+        "name": "استخراج لیست محصولات جنرال فیت، باخ و زیکو از کاتالوگ",
+        "status": "pending"
+      },
+      {
+        "step_index": 1,
+        "name": "تولید توضیحات کوتاه سئوشده و اسلاگ انگلیسی استاندارد",
+        "status": "pending"
+      },
+      {
+        "step_index": 2,
+        "name": "ارسال بروزرسانی فیلدهای ووکامرس از طریق REST API",
+        "status": "pending"
+      }
+    ],
+    "current_step_index": 0,
+    "created_at": "2026-10-21T02:00:00+03:30",
+    "updated_at": "2026-10-21T02:00:00+03:30",
+    "metadata": {
+      "target_category_slug": "vacuum-cleaner"
+    }
+  },
+  {
+    "id": "TASK-QUEUE-004",
+    "title": "پایش خودکار خطاهای ۴۰۴ و ریدایرکت‌های کاننیکال سایت",
+    "category": "audit",
+    "priority": "HIGH",
+    "status": "PENDING",
+    "tags": [
+      "404-audit",
+      "technical-seo",
+      "canonical-check"
+    ],
+    "required_skills": [
+      "seo-audit",
+      "technical-seo"
+    ],
+    "steps": [
+      {
+        "step_index": 0,
+        "name": "بررسی مقالات و صفحات برای جلوگیری از وجود پارامترهای عددی ?p= یا ?product_cat=",
+        "status": "pending"
+      },
+      {
+        "step_index": 1,
+        "name": "تست پاسخ زنده سرور برای ۳۰ لینک پربازدید",
+        "status": "pending"
+      },
+      {
+        "step_index": 2,
+        "name": "ثبت نقشه ریدایرکت‌های رنک‌مث در صورت وجود تغییر آدرس",
+        "status": "pending"
+      }
+    ],
+    "current_step_index": 0,
+    "created_at": "2026-10-21T02:00:00+03:30",
+    "updated_at": "2026-10-21T02:00:00+03:30",
+    "metadata": {
+      "scope": "site-wide"
+    }
+  }
+]

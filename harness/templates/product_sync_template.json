@@ -1,0 +1,38 @@
+{
+  "name": "standard_product_sync",
+  "title": "فرآیند همگام‌سازی و اعتبارسنجی کاتالوگ با سایت",
+  "description": "بررسی ۱۸ ستون اکسل، اعتبارسنجی تغییرات قیمت و اعمال در ووکامرس با نقش ویرایشگر",
+  "category": "catalog",
+  "priority": "HIGH",
+  "required_skills": [
+    "ecommerce-seo",
+    "technical-seo",
+    "wordpress-content-agent-api"
+  ],
+  "steps": [
+    {
+      "step_index": 0,
+      "name": "آدیت فرمول‌ها و املای هاورسن در کاتالوگ اکسل",
+      "required_skill": "technical-seo",
+      "status": "pending"
+    },
+    {
+      "step_index": 1,
+      "name": "تطبیق تنوع‌ها و فیلتر اقلام با وضعیت دست نگه دار",
+      "required_skill": "ecommerce-seo",
+      "status": "pending"
+    },
+    {
+      "step_index": 2,
+      "name": "ارسال بروزرسانی‌ها به REST API رسمی وردپرس",
+      "required_skill": "wordpress-content-agent-api",
+      "status": "pending"
+    },
+    {
+      "step_index": 3,
+      "name": "بررسی زنده قیمت‌ها و ذخیره در data/products.json",
+      "required_skill": "technical-seo",
+      "status": "pending"
+    }
+  ]
+}

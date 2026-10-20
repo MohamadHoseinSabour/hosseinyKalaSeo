@@ -1,0 +1,47 @@
+[
+  {
+    "category": "beverage_makers",
+    "slug": "donalex-dn355-hand-mixer",
+    "target_name": "همزن دستی دونالکس مدل 355",
+    "query": "همزن دستی دونالکس DN-355",
+    "cand_title": "همزن مدل دستی DN کد 00",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\beverage_makers\\donalex-dn355-hand-mixer.jpg",
+    "dimensions": "1024x1024"
+  },
+  {
+    "category": "beverage_makers",
+    "slug": "donalex-dn380-espresso-maker",
+    "target_name": "اسپرسوساز دونالکس 380",
+    "query": "اسپرسوساز دونالکس DN-380",
+    "cand_title": "اسپرسو ساز ۱۸ میلی لیتر دونالکس مدل DN475",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\beverage_makers\\donalex-dn380-espresso-maker.jpg",
+    "dimensions": "1667x1667"
+  },
+  {
+    "category": "beauty_health",
+    "slug": "promaron-rl706-shaver",
+    "target_name": "ریش تراش چرخشی پرومارون مدل 706",
+    "query": "ریش تراش پرومارون RL-706",
+    "cand_title": "ریش تراش سه تیغ پرومارون مدل RL_727 با تیغه استیل ضد زنگ، طراحی ارگونومیک، قابلیت اصلاح خشک و مرطوب، سری خط زن، باتری 2000 میلی‌آمپر ساعت و نمایشگر LED",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\beauty_health\\promaron-rl706-shaver.jpg",
+    "dimensions": "2500x2500"
+  },
+  {
+    "category": "cooking_appliances",
+    "slug": "alton-h312-hood",
+    "target_name": "هود آشپزخانه آلتون مدل H312",
+    "query": "هود آلتون H312",
+    "cand_title": "هود مخفی آلتون مدل H700S سایز 70",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\cooking_appliances\\alton-h312-hood.jpg",
+    "dimensions": "600x600"
+  },
+  {
+    "category": "cooking_appliances",
+    "slug": "alton-h315b-hood",
+    "target_name": "هود آشپزخانه آلتون مدل H315B",
+    "query": "هود آلتون H315B",
+    "cand_title": "هود مخفی آلتون مدل H850B سایز 80",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\cooking_appliances\\alton-h315b-hood.jpg",
+    "dimensions": "600x600"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "category": "washing_and_cleaning",
+    "slug": "daewoo-dwk-990s-washing-machine-silver",
+    "target_name": "ماشین لباسشویی 9 کیلوگرم اتوماتیک دوو سری سینیور DWK-990 رنگ: سیلور (990S)",
+    "query": "ماشین لباسشویی دوو LM-990S",
+    "cand_title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک دوو مدل LM-990S",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\washing_and_cleaning\\daewoo-dwk-990s-washing-machine-silver.jpg",
+    "dimensions": "1001x1001"
+  },
+  {
+    "category": "washing_and_cleaning",
+    "slug": "pakshoma-15kg-twin-tub-washer",
+    "target_name": "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما ظرفیت: 15 کیلوگرم",
+    "query": "لباسشویی دوقلو پاکشوما FA15",
+    "cand_title": "ماشین لباسشویی دو قلو 15.5 کیلوگرم نیمه‌اتوماتیک پاکشوما مدل FA15",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\washing_and_cleaning\\pakshoma-15kg-twin-tub-washer.jpg",
+    "dimensions": "1024x1024"
+  },
+  {
+    "category": "washing_and_cleaning",
+    "slug": "pakshoma-21kg-twin-tub-washer",
+    "target_name": "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما ظرفیت: 21 کیلوگرم",
+    "query": "لباسشویی دوقلو پاکشوما FA21",
+    "cand_title": "ماشین لباسشویی دو قلو 15.5 کیلوگرم نیمه‌اتوماتیک پاکشوما مدل FA15",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\washing_and_cleaning\\pakshoma-21kg-twin-tub-washer.jpg",
+    "dimensions": "1024x1024"
+  },
+  {
+    "category": "refrigerators",
+    "slug": "niksan-rf8410-combi-fridge-steel",
+    "target_name": "یخچال و فریزر کمبی نیکسان مدل RF84102E2 رنگ: استیل",
+    "query": "یخچال نیکسان 8410 استیل",
+    "cand_title": "یخچال فریزر طرح فریزر پایین 30 فوت نیکسان مدل 8410",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\refrigerators\\niksan-rf8410-combi-fridge-steel.jpg",
+    "dimensions": "2500x2500"
+  },
+  {
+    "category": "refrigerators",
+    "slug": "clover-mini-refrigerator-snopi",
+    "target_name": "مینی یخچال 10 فوت کلور مدل طرح دار فانتزی",
+    "query": "یخچال کلور Snopi",
+    "cand_title": "یخچال 7 فوت کلور مدل   Mini Refrigerator Snopi",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\refrigerators\\clover-mini-refrigerator-snopi.jpg",
+    "dimensions": "1000x1000"
+  }
+]

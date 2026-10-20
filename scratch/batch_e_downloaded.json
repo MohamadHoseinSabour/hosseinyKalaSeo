@@ -1,0 +1,66 @@
+[
+  {
+    "target": {
+      "category": "cooling_heating",
+      "slug": "onax-b35-water-cooler",
+      "query": "کولر آبی اوناکس B35",
+      "sig": "اوناکس"
+    },
+    "source": "digikala",
+    "title": "کولر آبی 18000 مدل اوناکس",
+    "file": "scratch/candidates_batch_e/onax-b35-water-cooler_dk.jpg",
+    "dimensions": [
+      600,
+      600
+    ],
+    "pid": 22097868
+  },
+  {
+    "target": {
+      "category": "cooling_heating",
+      "slug": "onax-h50-water-cooler",
+      "query": "کولر آبی اوناکس 50",
+      "sig": "اوناکس"
+    },
+    "source": "digikala",
+    "title": "کولر آبی 18000 مدل اوناکس",
+    "file": "scratch/candidates_batch_e/onax-h50-water-cooler_dk.jpg",
+    "dimensions": [
+      600,
+      600
+    ],
+    "pid": 22097868
+  },
+  {
+    "target": {
+      "category": "beverage_makers",
+      "slug": "volga-f164-kettle",
+      "query": "کتری برقی ولگا 64",
+      "sig": "ولگا"
+    },
+    "source": "digikala",
+    "title": "کتری برقی ولگا مدل 64-F1",
+    "file": "scratch/candidates_batch_e/volga-f164-kettle_dk.jpg",
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "pid": 15775615
+  },
+  {
+    "target": {
+      "category": "beverage_makers",
+      "slug": "willez-2015-tea-maker",
+      "query": "چای ساز ویلز 2015",
+      "sig": "ویلز"
+    },
+    "source": "digikala",
+    "title": "چای ساز روی هم ویلز مدل VL2010",
+    "file": "scratch/candidates_batch_e/willez-2015-tea-maker_dk.jpg",
+    "dimensions": [
+      2500,
+      2500
+    ],
+    "pid": 20096399
+  }
+]

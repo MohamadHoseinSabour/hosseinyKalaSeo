@@ -1,0 +1,768 @@
+{
+  "همزن برقی کنوود مدل HM430": {
+    "product_id": 3988,
+    "slug": "kenwood-hm430-hand-mixer",
+    "type": "simple",
+    "variations": [],
+    "live_verified": true
+  },
+  "کتری برقی ساپر مدل 1031": {
+    "product_id": 3990,
+    "slug": "saper-1031-electric-kettle",
+    "type": "variable",
+    "variations": [
+      {
+        "name": "رنگ: سبز",
+        "variation_id": 3991
+      },
+      {
+        "name": "رنگ: کرم",
+        "variation_id": 3992
+      }
+    ],
+    "live_verified": true
+  },
+  "یخچال و فریزر دوقلو هیمالیا مدل آیس پول 60MW": {
+    "product_id": 3994,
+    "slug": "himalia-ice-pool-60mw-twin-refrigerator",
+    "type": "variable",
+    "media_ids": [
+      3993
+    ],
+    "variations": [
+      {
+        "name": "↳ رنگ: استیل",
+        "variation_id": 3995
+      },
+      {
+        "name": "↳ رنگ: سفید چرمی",
+        "variation_id": 3996
+      }
+    ],
+    "live_verified": true
+  },
+  "یخچال و فریزر دوقلو 27 فوت کلور مدل اکونومی": {
+    "product_id": 3999,
+    "slug": "clover-economy-27ft-twin-refrigerator",
+    "type": "variable",
+    "media_ids": [
+      3997,
+      3998
+    ],
+    "variations": [
+      {
+        "name": "↳ رنگ: استیل",
+        "variation_id": 4000
+      },
+      {
+        "name": "↳ رنگ: سفید",
+        "variation_id": 4001
+      }
+    ],
+    "live_verified": true
+  },
+  "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو هوم بار": {
+    "product_id": 4012,
+    "slug": "clover-rosso-homebar-70cm-twin-refrigerator",
+    "type": "variable",
+    "media_ids": [
+      4009,
+      4010,
+      4011
+    ],
+    "variations": [
+      {
+        "name": "↳ رنگ: استیل",
+        "variation_id": 4013
+      },
+      {
+        "name": "↳ رنگ: سفید",
+        "variation_id": 4014
+      }
+    ],
+    "live_verified": true
+  },
+  "مینی یخچال 10 فوت کلور مدل طرح دار فانتزی": {
+    "product_id": 4018,
+    "slug": "clover-fantasy-patterned-10ft-mini-refrigerator",
+    "type": "variable",
+    "media_ids": [
+      4015,
+      4016,
+      4017
+    ],
+    "variations": [
+      {
+        "name": "↳ طرح: آبی طرح دار",
+        "variation_id": 4019
+      },
+      {
+        "name": "↳ طرح: سبز طرح دار",
+        "variation_id": 4020
+      },
+      {
+        "name": "↳ طرح: سفید طرح دار",
+        "variation_id": 4021
+      },
+      {
+        "name": "↳ طرح: مشکی طرح دار",
+        "variation_id": 4022
+      }
+    ],
+    "live_verified": true
+  },
+  "فریزر صندوقی تکنوسان مدل سفید بزرگ": {
+    "product_id": 4024,
+    "slug": "technosan-large-chest-freezer-white",
+    "type": "simple",
+    "media_ids": [
+      4023
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "یخچال و فریزر کمبی نیکسان مدل RF84102E2": {
+    "product_id": 4027,
+    "slug": "niksan-rf84102e2-combi-refrigerator",
+    "type": "variable",
+    "media_ids": [
+      4025,
+      4026
+    ],
+    "variations": [
+      {
+        "name": "↳ رنگ: استیل",
+        "variation_id": 4028
+      },
+      {
+        "name": "↳ رنگ: سفید چرمی",
+        "variation_id": 4029
+      }
+    ],
+    "live_verified": true
+  },
+  "ماشین لباسشویی 10 کیلوگرم اینورتر هیمالیا مدل تسلا پرو": {
+    "product_id": 4032,
+    "slug": "himalia-tesla-pro-10kg-inverter-washing-machine",
+    "type": "variable",
+    "media_ids": [
+      4030,
+      4031
+    ],
+    "variations": [
+      {
+        "name": "↳ رنگ: استیل",
+        "variation_id": 4033
+      },
+      {
+        "name": "↳ رنگ: سفید",
+        "variation_id": 4034
+      }
+    ],
+    "live_verified": true
+  },
+  "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما": {
+    "product_id": 4037,
+    "slug": "pakshoma-twin-tub-semi-automatic-washing-machine",
+    "type": "variable",
+    "media_ids": [
+      4035,
+      4036
+    ],
+    "variations": [
+      {
+        "name": "↳ ظرفیت: 9 کیلوگرم",
+        "variation_id": 4038
+      },
+      {
+        "name": "↳ ظرفیت: 15 کیلوگرم",
+        "variation_id": 4039
+      },
+      {
+        "name": "↳ ظرفیت: 21 کیلوگرم",
+        "variation_id": 4040
+      }
+    ],
+    "live_verified": true
+  },
+  "جاروبرقی سطلی کلور": {
+    "product_id": 4042,
+    "slug": "clover-bucket-vacuum-cleaner",
+    "type": "simple",
+    "media_ids": [
+      4041
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "جاروبرقی سطلی آراز 40 لیتر": {
+    "product_id": 4044,
+    "slug": "araz-40l-bucket-vacuum-cleaner",
+    "type": "simple",
+    "media_ids": [
+      4043
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "اتوبخار رانکو": {
+    "product_id": 4046,
+    "slug": "runko-steam-iron",
+    "type": "simple",
+    "media_ids": [
+      4045
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "لباسشویی دوقلو 17 کیلویی ریتون": {
+    "product_id": 4048,
+    "slug": "reyton-17kg-twin-tub-washing-machine",
+    "type": "simple",
+    "media_ids": [
+      4047
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "اتوبخار ساپر کف سرامیک مدل 4025": {
+    "product_id": 4050,
+    "slug": "saper-4025-ceramic-steam-iron",
+    "type": "simple",
+    "media_ids": [
+      4049
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "اتوبخار ساپر کف سرامیک مدل 4035": {
+    "product_id": 4053,
+    "slug": "saper-4035-ceramic-steam-iron",
+    "type": "simple",
+    "media_ids": [
+      4051
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "جاروبرقی سطلی 21 لیتری سران مدل آب و خاک": {
+    "product_id": 4055,
+    "slug": "soran-21l-wet-dry-vacuum-cleaner",
+    "type": "variable",
+    "media_ids": [
+      4054
+    ],
+    "variations": [
+      {
+        "name": "↳ رنگ: زرد",
+        "variation_id": 4056
+      },
+      {
+        "name": "↳ رنگ: مشکی",
+        "variation_id": 4057
+      }
+    ],
+    "live_verified": true
+  },
+  "مینی واش فریدولین 3.5 کیلوگرم مدل تک درب": {
+    "product_id": 4061,
+    "slug": "feridolin-sw35-single-door-mini-washer",
+    "type": "simple",
+    "media_ids": [
+      4060
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "اتوبخار مونزا مدل VR3000W": {
+    "product_id": 4063,
+    "slug": "monza-vr3000w-steam-iron",
+    "type": "simple",
+    "media_ids": [
+      4062
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "جاروبرقی سطلی صنعتی آب و خاک پاندا 80 لیتر": {
+    "product_id": 4065,
+    "slug": "panda-80l-wet-dry-industrial-vacuum-cleaner",
+    "type": "simple",
+    "media_ids": [
+      4064
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "پتوشور صنعتی و خانگی پاکیزان": {
+    "product_id": 4068,
+    "slug": "pakizan-heavy-duty-blanket-washer",
+    "type": "variable",
+    "media_ids": [
+      4066,
+      4067
+    ],
+    "variations": [
+      {
+        "name": "↳ ظرفیت: 30 کیلوگرم",
+        "variation_id": 4069
+      },
+      {
+        "name": "↳ ظرفیت: 40 کیلوگرم",
+        "variation_id": 4070
+      }
+    ],
+    "live_verified": true
+  },
+  "تابه گرانیتی مشکی اویز (سایزهای 22 تا 32)": {
+    "product_id": 4073,
+    "slug": "aviz-granite-frying-pan-black",
+    "type": "variable",
+    "media_ids": [
+      4071,
+      4072
+    ],
+    "variations": [
+      {
+        "name": "↳ سایز: 22 سانتیمتر",
+        "variation_id": 4074
+      },
+      {
+        "name": "↳ سایز: 24 سانتیمتر مشکی",
+        "variation_id": 4075
+      },
+      {
+        "name": "↳ سایز: 26 سانتیمتر",
+        "variation_id": 4076
+      },
+      {
+        "name": "↳ سایز: 28 سانتیمتر درب دار",
+        "variation_id": 4077
+      },
+      {
+        "name": "↳ سایز: 30 سانتیمتر",
+        "variation_id": 4078
+      },
+      {
+        "name": "↳ سایز: 32 سانتیمتر فوج مشکی درب دار",
+        "variation_id": 4079
+      }
+    ],
+    "live_verified": true
+  },
+  "گاز صفحه ای استیل آلتون مدل SG518": {
+    "product_id": 4081,
+    "slug": "alton-sg518-steel-built-in-gas-stove",
+    "type": "simple",
+    "media_ids": [
+      4080
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "فر توکار آلتون مدل 7303": {
+    "product_id": 4083,
+    "slug": "alton-7303-built-in-oven",
+    "type": "simple",
+    "media_ids": [
+      4082
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "فر گاز فردار آلتون مدل MDS": {
+    "product_id": 4085,
+    "slug": "alton-mds-freestanding-gas-cooker",
+    "type": "simple",
+    "media_ids": [
+      4084
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "هود آشپزخانه آلتون مدل H312": {
+    "product_id": 4087,
+    "slug": "alton-h312-kitchen-range-hood",
+    "type": "simple",
+    "media_ids": [
+      4086
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "هود آشپزخانه آلتون مدل H315B": {
+    "product_id": 4088,
+    "slug": "alton-h315b-kitchen-range-hood",
+    "type": "simple",
+    "media_ids": [
+      4170
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "سرویس قابلمه 11 پارچه اویزپلاس مدل السا سبز": {
+    "product_id": 4091,
+    "slug": "avizplus-elsa-11pcs-cookware-set-green",
+    "type": "simple",
+    "media_ids": [
+      4090
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "قابلمه مرغ خوری اویزپلاس مشکی": {
+    "product_id": 4093,
+    "slug": "avizplus-poultry-pot-black",
+    "type": "simple",
+    "media_ids": [
+      4092
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "هواپز ساپر 7.2 لیتر مدل 1710": {
+    "product_id": 4095,
+    "slug": "saper-saf1710-air-fryer-7-2l",
+    "type": "simple",
+    "media_ids": [
+      4094
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "قابلمه تک سایز 14 لاوان": {
+    "product_id": 4097,
+    "slug": "lavan-single-pot-size-14",
+    "type": "simple",
+    "media_ids": [
+      4096
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "سبزی خردکن KENRA": {
+    "product_id": 4099,
+    "slug": "kenra-vegetable-chopper",
+    "type": "simple",
+    "media_ids": [
+      4098
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "سرویس قابلمه استیل 10 پارچه": {
+    "product_id": 4101,
+    "slug": "stainless-steel-10pcs-cookware-set",
+    "type": "simple",
+    "media_ids": [
+      4100
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "سبزی خردکن خانگی نیاک 3 کیلوگرم": {
+    "product_id": 4103,
+    "slug": "niak-3kg-home-vegetable-chopper",
+    "type": "simple",
+    "media_ids": [
+      4102
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "خردکن برقی کاسه دار ویلز": {
+    "product_id": 4106,
+    "slug": "willez-electric-bowl-chopper",
+    "type": "variable",
+    "media_ids": [
+      4104,
+      4105
+    ],
+    "variations": [
+      {
+        "name": "↳ مدل: 6031 استیل",
+        "variation_id": 4107
+      },
+      {
+        "name": "↳ مدل: 6032 سه لیتری",
+        "variation_id": 4108
+      }
+    ],
+    "live_verified": true
+  },
+  "سرخ کن بدون روغن ویلز مدل 5062": {
+    "product_id": 4110,
+    "slug": "willez-5062-air-fryer",
+    "type": "simple",
+    "media_ids": [
+      4109
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "چرخ گوشت برقی ویلز": {
+    "product_id": 4112,
+    "slug": "willez-electric-meat-grinder",
+    "type": "simple",
+    "media_ids": [
+      4111
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "پلوپز پارس خزر مدل 361": {
+    "product_id": 4113,
+    "slug": "parskhazar-ts361-rice-cooker",
+    "type": "simple",
+    "media_ids": [
+      4171
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "کتری برقی تفال 2 لیتر": {
+    "product_id": 4115,
+    "slug": "tefal-2l-electric-kettle",
+    "type": "simple",
+    "media_ids": [
+      4114
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "آبمیوه گیری چندکاره جنرال مدل 607 غذاساز": {
+    "product_id": 4119,
+    "slug": "general-607-multi-function-juicer-food-processor",
+    "type": "simple",
+    "media_ids": [
+      4116,
+      4117,
+      4118
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "اسپرسوساز حرفه ای رانکو": {
+    "product_id": 4121,
+    "slug": "runko-professional-espresso-maker",
+    "type": "simple",
+    "media_ids": [
+      4120
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "کتری برقی ساپر استیل مدل 1011": {
+    "product_id": 4123,
+    "slug": "saper-1011-steel-electric-kettle",
+    "type": "simple",
+    "media_ids": [
+      4122
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "کتری برقی سیماران استیل مدل 750": {
+    "product_id": 4125,
+    "slug": "simaran-750-steel-electric-kettle",
+    "type": "simple",
+    "media_ids": [
+      4124
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "آسیاب برقی ونتو": {
+    "product_id": 4127,
+    "slug": "vento-electric-grinder",
+    "type": "simple",
+    "media_ids": [
+      4126
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "کتری برقی وولگا": {
+    "product_id": 4129,
+    "slug": "volga-electric-kettle",
+    "type": "simple",
+    "media_ids": [
+      4128
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "آسیاب برقی کاستلو مدل 470": {
+    "product_id": 4133,
+    "slug": "castello-470-electric-grinder",
+    "type": "simple",
+    "media_ids": [
+      4132
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "چای ساز کورکماز مدل A331": {
+    "product_id": 4135,
+    "slug": "korkmaz-a331-tea-maker",
+    "type": "simple",
+    "media_ids": [
+      4134
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "آبگرمکن مخزندار دیواری الکترواستیل": {
+    "product_id": 4137,
+    "slug": "electrosteel-wall-mounted-water-heater",
+    "type": "simple",
+    "media_ids": [
+      4136
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "کولر پنجره ای اوجنرال 18 هزار": {
+    "product_id": 4139,
+    "slug": "ogeneral-18000-window-air-conditioner",
+    "type": "simple",
+    "media_ids": [
+      4138
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "بخاری پارس خزر فن دار مدل FH-2000P": {
+    "product_id": 4141,
+    "slug": "parskhazar-fh2000p-fan-heater",
+    "type": "simple",
+    "media_ids": [
+      4140
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "پنکه پایه بلند پارس خزر": {
+    "product_id": 4143,
+    "slug": "parskhazar-standing-pedestal-fan",
+    "type": "simple",
+    "media_ids": [
+      4142
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "پنکه پاناسونیک 2 حالته": {
+    "product_id": 4145,
+    "slug": "panasonic-2-in-1-fan",
+    "type": "simple",
+    "media_ids": [
+      4144
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "بخاری پلار مدل 3PN-NEW ماشینی": {
+    "product_id": 4147,
+    "slug": "polar-3pn-new-gas-heater",
+    "type": "simple",
+    "media_ids": [
+      4146
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "بخاری گلدن لوکس": {
+    "product_id": 4149,
+    "slug": "golden-luxe-gas-heater",
+    "type": "simple",
+    "media_ids": [
+      4148
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "اتو مو مسافرتی پاناسونیک مدل HV11": {
+    "product_id": 4152,
+    "slug": "panasonic-eh-hv11-travel-hair-straightener",
+    "type": "simple",
+    "media_ids": [
+      4150,
+      4151
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "ریش تراش چرخشی پرومارون مدل 706": {
+    "product_id": 4154,
+    "slug": "promaron-706-rotary-shaver",
+    "type": "simple",
+    "media_ids": [
+      4153
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "دستگاه پیرایش سیمی سر و صورت پرومارون مدل 731": {
+    "product_id": 4156,
+    "slug": "promaron-731-corded-hair-clipper",
+    "type": "simple",
+    "media_ids": [
+      4155
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "فر کننده مو پرومارون مدل 9909": {
+    "product_id": 4158,
+    "slug": "promaron-9909-hair-curler",
+    "type": "simple",
+    "media_ids": [
+      4157
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو آبریزدار": {
+    "product_id": 4163,
+    "slug": "clover-rosso-dispenser-70cm-twin-refrigerator",
+    "type": "variable",
+    "media_ids": [
+      4159,
+      4160,
+      4161,
+      4162
+    ],
+    "variations": [
+      {
+        "name": "↳ رنگ: استیل",
+        "variation_id": 4164
+      },
+      {
+        "name": "↳ رنگ: سفید",
+        "variation_id": 4165
+      }
+    ],
+    "live_verified": true
+  },
+  "اتوبخار سیماران مدل 8002 زرد": {
+    "product_id": 4167,
+    "slug": "simaran-8002-steam-iron-yellow",
+    "type": "simple",
+    "media_ids": [
+      4166
+    ],
+    "variations": [],
+    "live_verified": true
+  },
+  "چای ساز ویلز مدل 2015": {
+    "product_id": 4169,
+    "slug": "willez-2015-tea-maker",
+    "type": "simple",
+    "media_ids": [
+      4168
+    ],
+    "variations": [],
+    "live_verified": true
+  }
+}

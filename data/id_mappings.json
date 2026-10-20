@@ -1,0 +1,3281 @@
+{
+  "4302": {
+    "name": "یخچال و فریزر کمبی دیپوینت مدل دیسنت (Decent)",
+    "slug": "depoint-decent-combi-refrigerator-freezer",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4302",
+    "price": 0
+  },
+  "4304": {
+    "name": "یخچال و فریزر کمبی دیپوینت مدل دیسنت (Decent) - رنگ: استیل",
+    "parent_id": 4302,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4304",
+    "price": 0
+  },
+  "4303": {
+    "name": "یخچال و فریزر کمبی دیپوینت مدل دیسنت (Decent) - رنگ: سفید",
+    "parent_id": 4302,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4303",
+    "price": 0
+  },
+  "4297": {
+    "name": "یخچال و فریزر دوقلو دیپوینت مدل اکسپلور (Explore)",
+    "slug": "depoint-explore-twin-refrigerator-freezer",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4297",
+    "price": 0
+  },
+  "4299": {
+    "name": "یخچال و فریزر دوقلو دیپوینت مدل اکسپلور (Explore) - رنگ: سیلور (نقره ای)",
+    "parent_id": 4297,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4299",
+    "price": 0
+  },
+  "4298": {
+    "name": "یخچال و فریزر دوقلو دیپوینت مدل اکسپلور (Explore) - رنگ: سفید",
+    "parent_id": 4297,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4298",
+    "price": 0
+  },
+  "4294": {
+    "name": "یخچال و فریزر 34 فوت هوم بار الکترواستیل سفید",
+    "slug": "electrosteel-es34-home-bar-34ft-refrigerator-freezer-white",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4294",
+    "price": 0
+  },
+  "4292": {
+    "name": "یخچال و فریزر 27 فوت الکترواستیل تیتانیوم",
+    "slug": "electrosteel-es27-27ft-refrigerator-freezer-titanium",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4292",
+    "price": 0
+  },
+  "4290": {
+    "name": "یخچال و فریزر الکترواستیل مدل کمپکت سفید",
+    "slug": "electrosteel-es7-compact-mini-refrigerator-white",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4290",
+    "price": 0
+  },
+  "4288": {
+    "name": "یخچال و فریزر 14 فوت الکترواستیل سفید",
+    "slug": "electrosteel-es14-star-14ft-refrigerator-freezer-white",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4288",
+    "price": 0
+  },
+  "4286": {
+    "name": "یخچال و فریزر دوقلو الکترواستیل سری 10 نوفراست سفید چرمی",
+    "slug": "electrosteel-series-10-twin-refrigerator-freezer-white-leather",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4286",
+    "price": 0
+  },
+  "4284": {
+    "name": "بخارگر دستی چندکاره مدل BUVCK-1266",
+    "slug": "buvck-1266-handheld-garment-steamer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4284",
+    "price": 0
+  },
+  "4282": {
+    "name": "جارو شارژی باخ مدل 1454",
+    "slug": "bach-1454-foldable-cordless-stick-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4282",
+    "price": 0
+  },
+  "4280": {
+    "name": "جاروبرقی سطلی جنرال فیت مدل کیوتی 4300",
+    "slug": "generalfit-cutie-4300-canister-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4280",
+    "price": 0
+  },
+  "4278": {
+    "name": "جاروبرقی سطلی جنرال فیت مدل تاچ استار 4800",
+    "slug": "generalfit-touch-star-4800-canister-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4278",
+    "price": 0
+  },
+  "4276": {
+    "name": "جاروبرقی سطلی جنرال فیت مدل پروانه 5500",
+    "slug": "generalfit-parvaneh-5500-canister-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4276",
+    "price": 0
+  },
+  "4274": {
+    "name": "جاروبرقی سطلی جنرال فیت مدل پرستو 5300",
+    "slug": "generalfit-parastoo-5300-canister-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4274",
+    "price": 0
+  },
+  "4272": {
+    "name": "جاروبرقی سطلی جنرال فیت مدل اسکای پلاس 4500",
+    "slug": "generalfit-sky-plus-4500-canister-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4272",
+    "price": 0
+  },
+  "4270": {
+    "name": "اتو بخار پاناسونیک مدل 650",
+    "slug": "panasonic-ni-w650t-steam-iron",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4270",
+    "price": 0
+  },
+  "4268": {
+    "name": "میوه خشک کن مایر مدل 5959",
+    "slug": "maier-mr5959-digital-food-dehydrator",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4268",
+    "price": 0
+  },
+  "4266": {
+    "name": "خردکن برقی کاسه پیرکس بوش",
+    "slug": "bosch-glass-bowl-electric-food-chopper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4266",
+    "price": 0
+  },
+  "4264": {
+    "name": "خردکن برقی ۲ کاسه زیکو مدل 70028",
+    "slug": "ziko-zc7028-double-bowl-electric-chopper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4264",
+    "price": 0
+  },
+  "4262": {
+    "name": "گوشت کوب برقی رترو وستینگهاوس قرمز",
+    "slug": "westinghouse-retro-hand-blender-red",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4262",
+    "price": 0
+  },
+  "4258": {
+    "name": "آب مرکبات گیری برقی کنوود مدل JE290",
+    "slug": "kenwood-je290-electric-citrus-juicer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4258",
+    "price": 0
+  },
+  "4257": {
+    "name": "اسپرسوساز نیمه صنعتی مباشی با نمایشگر دیجیتال دما",
+    "slug": "mebashi-semi-industrial-digital-espresso-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4257",
+    "price": 0
+  },
+  "4255": {
+    "name": "آبمیوه گیری زیکو مدل 4038",
+    "slug": "ziko-zc4038-digital-electric-juicer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4255",
+    "price": 0
+  },
+  "4253": {
+    "name": "آسیاب قهوه زیکو مدل 6502",
+    "slug": "ziko-zc6502-digital-coffee-grinder",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4253",
+    "price": 0
+  },
+  "4251": {
+    "name": "آسیاب قهوه زیکو مدل 6501",
+    "slug": "ziko-zc6501-digital-coffee-grinder",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4251",
+    "price": 0
+  },
+  "4249": {
+    "name": "آسیاب قهوه مایر مدل MR-4099",
+    "slug": "maier-mr4099-digital-conical-burr-coffee-grinder",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4249",
+    "price": 0
+  },
+  "4245": {
+    "name": "اسپرسوساز رترو وستینگهاوس مدل 1663",
+    "slug": "westinghouse-wkcmh1663-retro-espresso-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4245",
+    "price": 0
+  },
+  "4241": {
+    "name": "بخاری گازی کابینتی آبسال مدل 405",
+    "slug": "absal-405-flueless-radiant-gas-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4241",
+    "price": 0
+  },
+  "4239": {
+    "name": "آبگرمکن دیواری شمعک دار ایران شرق مدل 3020",
+    "slug": "iran-shargh-3020-kiana-gas-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4239",
+    "price": 0
+  },
+  "4237": {
+    "name": "تلویزیون ال ای دی ۵۵ اینچ هوشمند دوو مدل 7000",
+    "slug": "daewoo-dsl55-s7000eum-55inch-smart-4k-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4237",
+    "price": 0
+  },
+  "4235": {
+    "name": "سشوار حرفه ای زیکو مدل ZC-5020",
+    "slug": "ziko-zc5020-professional-hair-dryer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4235",
+    "price": 0
+  },
+  "4169": {
+    "name": "چای ساز ویلز مدل 2015",
+    "slug": "willez-2015-tea-maker-2",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4169",
+    "price": 23275000
+  },
+  "4167": {
+    "name": "اتوبخار سیماران مدل 8002 زرد",
+    "slug": "simaran-8002-steam-iron-yellow-2",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4167",
+    "price": 12350000
+  },
+  "4163": {
+    "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو آبریزدار",
+    "slug": "clover-rosso-dispenser-70cm-twin-refrigerator-2",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4163",
+    "price": 323000000
+  },
+  "4165": {
+    "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو آبریزدار - رنگ: سفید",
+    "parent_id": 4163,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4165",
+    "price": 323000000
+  },
+  "4164": {
+    "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو آبریزدار - رنگ: استیل",
+    "parent_id": 4163,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4164",
+    "price": 327750000
+  },
+  "4158": {
+    "name": "فر کننده مو پرومارون مدل 9909",
+    "slug": "promaron-9909-hair-curler",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4158",
+    "price": 8265000
+  },
+  "4156": {
+    "name": "دستگاه پیرایش سیمی سر و صورت پرومارون مدل 731",
+    "slug": "promaron-731-corded-hair-clipper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4156",
+    "price": 0
+  },
+  "4154": {
+    "name": "ریش تراش چرخشی پرومارون مدل 706",
+    "slug": "promaron-706-rotary-shaver",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4154",
+    "price": 0
+  },
+  "4152": {
+    "name": "اتو مو مسافرتی پاناسونیک مدل HV11",
+    "slug": "panasonic-eh-hv11-travel-hair-straightener",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4152",
+    "price": 0
+  },
+  "4149": {
+    "name": "بخاری گلدن لوکس",
+    "slug": "golden-luxe-gas-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4149",
+    "price": 9500000
+  },
+  "4147": {
+    "name": "بخاری پلار مدل 3PN-NEW ماشینی",
+    "slug": "polar-3pn-new-gas-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4147",
+    "price": 0
+  },
+  "4145": {
+    "name": "پنکه پاناسونیک 2 حالته",
+    "slug": "panasonic-2-in-1-fan",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4145",
+    "price": 0
+  },
+  "4143": {
+    "name": "پنکه پایه بلند پارس خزر",
+    "slug": "parskhazar-standing-pedestal-fan",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4143",
+    "price": 10450000
+  },
+  "4141": {
+    "name": "بخاری پارس خزر فن دار مدل FH-2000P",
+    "slug": "parskhazar-fh2000p-fan-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4141",
+    "price": 0
+  },
+  "4139": {
+    "name": "کولر پنجره ای اوجنرال 18 هزار",
+    "slug": "ogeneral-18000-window-air-conditioner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4139",
+    "price": 0
+  },
+  "4137": {
+    "name": "آبگرمکن مخزندار دیواری الکترواستیل",
+    "slug": "electrosteel-wall-mounted-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4137",
+    "price": 26600000
+  },
+  "4135": {
+    "name": "چای ساز کورکماز مدل A331",
+    "slug": "korkmaz-a331-tea-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4135",
+    "price": 0
+  },
+  "4133": {
+    "name": "آسیاب برقی کاستلو مدل 470",
+    "slug": "castello-470-electric-grinder",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4133",
+    "price": 0
+  },
+  "4131": {
+    "name": "چای ساز ویلز مدل 2015",
+    "slug": "willez-2015-tea-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4131",
+    "price": 0
+  },
+  "4129": {
+    "name": "کتری برقی وولگا",
+    "slug": "volga-electric-kettle",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4129",
+    "price": 12350000
+  },
+  "4127": {
+    "name": "آسیاب برقی ونتو",
+    "slug": "vento-electric-grinder",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4127",
+    "price": 0
+  },
+  "4125": {
+    "name": "کتری برقی سیماران استیل مدل 750",
+    "slug": "simaran-750-steel-electric-kettle",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4125",
+    "price": 8455000
+  },
+  "4123": {
+    "name": "کتری برقی ساپر استیل مدل 1011",
+    "slug": "saper-1011-steel-electric-kettle",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4123",
+    "price": 12350000
+  },
+  "4121": {
+    "name": "اسپرسوساز حرفه ای رانکو",
+    "slug": "runko-professional-espresso-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4121",
+    "price": 0
+  },
+  "4119": {
+    "name": "آبمیوه گیری چندکاره جنرال مدل 607 غذاساز",
+    "slug": "general-607-multi-function-juicer-food-processor",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4119",
+    "price": 0
+  },
+  "4115": {
+    "name": "کتری برقی تفال 2 لیتر",
+    "slug": "tefal-2l-electric-kettle",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4115",
+    "price": 11400000
+  },
+  "4113": {
+    "name": "پلوپز پارس خزر مدل 361",
+    "slug": "parskhazar-ts361-rice-cooker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4113",
+    "price": 12825000
+  },
+  "4112": {
+    "name": "چرخ گوشت برقی ویلز",
+    "slug": "willez-electric-meat-grinder",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4112",
+    "price": 26125000
+  },
+  "4110": {
+    "name": "سرخ کن بدون روغن ویلز مدل 5062",
+    "slug": "willez-5062-air-fryer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4110",
+    "price": 0
+  },
+  "4106": {
+    "name": "خردکن برقی کاسه دار ویلز",
+    "slug": "willez-electric-bowl-chopper",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4106",
+    "price": 7315000
+  },
+  "4260": {
+    "name": "خردکن برقی کاسه دار ویلز - مدل: 6033 سه لیتری",
+    "parent_id": 4106,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4260",
+    "price": 0
+  },
+  "4108": {
+    "name": "خردکن برقی کاسه دار ویلز - مدل: 6032 سه لیتری",
+    "parent_id": 4106,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4108",
+    "price": 7315000
+  },
+  "4107": {
+    "name": "خردکن برقی کاسه دار ویلز - مدل: 6031 استیل",
+    "parent_id": 4106,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4107",
+    "price": 10925000
+  },
+  "4103": {
+    "name": "سبزی خردکن خانگی نیاک 3 کیلوگرم",
+    "slug": "niak-3kg-home-vegetable-chopper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4103",
+    "price": 3800000
+  },
+  "4099": {
+    "name": "سبزی خردکن خانگی کنرا مدل KENRA",
+    "slug": "kenra-vegetable-chopper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4099",
+    "price": 3800000
+  },
+  "4097": {
+    "name": "قابلمه تک سایز 14 لاوان",
+    "slug": "lavan-single-pot-size-14",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4097",
+    "price": 1900000
+  },
+  "4095": {
+    "name": "سرخ‌کن بدون روغن ساپر 7.2 لیتر مدل SAF-1710",
+    "slug": "saper-saf1710-air-fryer-7-2l",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4095",
+    "price": 0
+  },
+  "4093": {
+    "name": "قابلمه مرغ خوری اویزپلاس مشکی",
+    "slug": "avizplus-poultry-pot-black",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4093",
+    "price": 9025000
+  },
+  "4091": {
+    "name": "سرویس قابلمه 11 پارچه اویزپلاس مدل السا سبز",
+    "slug": "avizplus-elsa-11pcs-cookware-set-green",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4091",
+    "price": 37525000
+  },
+  "4088": {
+    "name": "هود آشپزخانه آلتون مدل H315B",
+    "slug": "alton-h315b-kitchen-range-hood",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4088",
+    "price": 0
+  },
+  "4087": {
+    "name": "هود آشپزخانه آلتون مدل H312",
+    "slug": "alton-h312-kitchen-range-hood",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4087",
+    "price": 0
+  },
+  "4085": {
+    "name": "فر گاز فردار آلتون مدل MDS",
+    "slug": "alton-mds-freestanding-gas-cooker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4085",
+    "price": 0
+  },
+  "4083": {
+    "name": "فر توکار آلتون مدل 7303",
+    "slug": "alton-7303-built-in-oven",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4083",
+    "price": 0
+  },
+  "4081": {
+    "name": "گاز صفحه ای استیل آلتون مدل SG518",
+    "slug": "alton-sg518-steel-built-in-gas-stove",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4081",
+    "price": 0
+  },
+  "4073": {
+    "name": "تابه گرانیتی مشکی اویز (سایزهای 22 تا 32)",
+    "slug": "aviz-granite-frying-pan-black",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4073",
+    "price": 3040000
+  },
+  "4079": {
+    "name": "تابه گرانیتی مشکی اویز (سایزهای 22 تا 32) - سایز: 32 سانتیمتر فوج",
+    "parent_id": 4073,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4079",
+    "price": 8265000
+  },
+  "4078": {
+    "name": "تابه گرانیتی مشکی اویز (سایزهای 22 تا 32) - سایز: 30 سانتیمتر",
+    "parent_id": 4073,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4078",
+    "price": 5700000
+  },
+  "4077": {
+    "name": "تابه گرانیتی مشکی اویز (سایزهای 22 تا 32) - سایز: 28 سانتیمتر درب دار",
+    "parent_id": 4073,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4077",
+    "price": 4655000
+  },
+  "4076": {
+    "name": "تابه گرانیتی مشکی اویز (سایزهای 22 تا 32) - سایز: 26 سانتیمتر",
+    "parent_id": 4073,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4076",
+    "price": 4465000
+  },
+  "4075": {
+    "name": "تابه گرانیتی مشکی اویز (سایزهای 22 تا 32) - سایز: 24 سانتیمتر",
+    "parent_id": 4073,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4075",
+    "price": 3040000
+  },
+  "4074": {
+    "name": "تابه گرانیتی مشکی اویز (سایزهای 22 تا 32) - سایز: 22 سانتیمتر",
+    "parent_id": 4073,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4074",
+    "price": 0
+  },
+  "4068": {
+    "name": "پتوشور صنعتی و خانگی پاکیزان",
+    "slug": "pakizan-heavy-duty-blanket-washer",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4068",
+    "price": 26600000
+  },
+  "4070": {
+    "name": "پتوشور صنعتی و خانگی پاکیزان - ظرفیت: 40 کیلوگرم",
+    "parent_id": 4068,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4070",
+    "price": 26600000
+  },
+  "4069": {
+    "name": "پتوشور صنعتی و خانگی پاکیزان - ظرفیت: 30 کیلوگرم",
+    "parent_id": 4068,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4069",
+    "price": 26600000
+  },
+  "4065": {
+    "name": "جاروبرقی سطلی صنعتی آب و خاک پاندا 80 لیتر",
+    "slug": "panda-80l-wet-dry-industrial-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4065",
+    "price": 52250000
+  },
+  "4063": {
+    "name": "اتوبخار مونزا مدل VR3000W",
+    "slug": "monza-vr3000w-steam-iron",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4063",
+    "price": 10925000
+  },
+  "4061": {
+    "name": "مینی واش فریدولین 3.5 کیلوگرم مدل تک درب",
+    "slug": "feridolin-sw35-single-door-mini-washer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4061",
+    "price": 13775000
+  },
+  "4059": {
+    "name": "اتوبخار سیماران مدل 8002 زرد",
+    "slug": "simaran-8002-steam-iron-yellow",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4059",
+    "price": 0
+  },
+  "4055": {
+    "name": "جاروبرقی سطلی 21 لیتری سران مدل آب و خاک",
+    "slug": "soran-21l-wet-dry-vacuum-cleaner",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4055",
+    "price": 44650000
+  },
+  "4057": {
+    "name": "جاروبرقی سطلی 21 لیتری سران مدل آب و خاک - رنگ: مشکی",
+    "parent_id": 4055,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4057",
+    "price": 44650000
+  },
+  "4056": {
+    "name": "جاروبرقی سطلی 21 لیتری سران مدل آب و خاک - رنگ: زرد",
+    "parent_id": 4055,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4056",
+    "price": 44650000
+  },
+  "4053": {
+    "name": "اتوبخار ساپر کف سرامیک مدل 4035",
+    "slug": "saper-4035-ceramic-steam-iron",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4053",
+    "price": 11400000
+  },
+  "4050": {
+    "name": "اتوبخار ساپر کف سرامیک مدل 4025",
+    "slug": "saper-4025-ceramic-steam-iron",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4050",
+    "price": 11400000
+  },
+  "4048": {
+    "name": "لباسشویی دوقلو 17 کیلویی ریتون",
+    "slug": "reyton-17kg-twin-tub-washing-machine",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4048",
+    "price": 0
+  },
+  "4046": {
+    "name": "اتوبخار رانکو",
+    "slug": "runko-steam-iron",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4046",
+    "price": 9975000
+  },
+  "4044": {
+    "name": "جاروبرقی سطلی آراز 40 لیتر",
+    "slug": "araz-40l-bucket-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4044",
+    "price": 0
+  },
+  "4042": {
+    "name": "جاروبرقی سطلی کلور",
+    "slug": "clover-bucket-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4042",
+    "price": 22800000
+  },
+  "4037": {
+    "name": "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما",
+    "slug": "pakshoma-twin-tub-semi-automatic-washing-machine",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4037",
+    "price": 30400000
+  },
+  "4040": {
+    "name": "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما - ظرفیت: 21 کیلوگرم",
+    "parent_id": 4037,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4040",
+    "price": 35150000
+  },
+  "4039": {
+    "name": "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما - ظرفیت: 15 کیلوگرم",
+    "parent_id": 4037,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4039",
+    "price": 30400000
+  },
+  "4038": {
+    "name": "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما - ظرفیت: 9 کیلوگرم",
+    "parent_id": 4037,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4038",
+    "price": 0
+  },
+  "4032": {
+    "name": "ماشین لباسشویی 10 کیلوگرم اینورتر هیمالیا مدل تسلا پرو",
+    "slug": "himalia-tesla-pro-10kg-inverter-washing-machine",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4032",
+    "price": 114000000
+  },
+  "4034": {
+    "name": "ماشین لباسشویی 10 کیلوگرم اینورتر هیمالیا مدل تسلا پرو - رنگ: سفید",
+    "parent_id": 4032,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4034",
+    "price": 114000000
+  },
+  "4033": {
+    "name": "ماشین لباسشویی 10 کیلوگرم اینورتر هیمالیا مدل تسلا پرو - رنگ: استیل",
+    "parent_id": 4032,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4033",
+    "price": 118750000
+  },
+  "4027": {
+    "name": "یخچال و فریزر کمبی نیکسان مدل RF84102E2",
+    "slug": "niksan-rf84102e2-combi-refrigerator",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4027",
+    "price": 133000000
+  },
+  "4029": {
+    "name": "یخچال و فریزر کمبی نیکسان مدل RF84102E2 - رنگ: سفید چرمی",
+    "parent_id": 4027,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4029",
+    "price": 133000000
+  },
+  "4028": {
+    "name": "یخچال و فریزر کمبی نیکسان مدل RF84102E2 - رنگ: استیل",
+    "parent_id": 4027,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4028",
+    "price": 137750000
+  },
+  "4024": {
+    "name": "فریزر صندوقی تکنوسان مدل سفید بزرگ",
+    "slug": "technosan-large-chest-freezer-white",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=4024",
+    "price": 0
+  },
+  "4018": {
+    "name": "مینی یخچال 10 فوت کلور مدل طرح دار فانتزی",
+    "slug": "clover-fantasy-patterned-10ft-mini-refrigerator",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4018",
+    "price": 72200000
+  },
+  "4022": {
+    "name": "مینی یخچال 10 فوت کلور مدل طرح دار فانتزی - طرح: مشکی طرح دار",
+    "parent_id": 4018,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4022",
+    "price": 72200000
+  },
+  "4021": {
+    "name": "مینی یخچال 10 فوت کلور مدل طرح دار فانتزی - طرح: سفید طرح دار",
+    "parent_id": 4018,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4021",
+    "price": 72200000
+  },
+  "4020": {
+    "name": "مینی یخچال 10 فوت کلور مدل طرح دار فانتزی - طرح: سبز طرح دار",
+    "parent_id": 4018,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4020",
+    "price": 72200000
+  },
+  "4019": {
+    "name": "مینی یخچال 10 فوت کلور مدل طرح دار فانتزی - طرح: آبی طرح دار",
+    "parent_id": 4018,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4019",
+    "price": 72200000
+  },
+  "4012": {
+    "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو هوم بار",
+    "slug": "clover-rosso-homebar-70cm-twin-refrigerator",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4012",
+    "price": 294500000
+  },
+  "4014": {
+    "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو هوم بار - رنگ: سفید",
+    "parent_id": 4012,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4014",
+    "price": 294500000
+  },
+  "4013": {
+    "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو هوم بار - رنگ: استیل",
+    "parent_id": 4012,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4013",
+    "price": 299250000
+  },
+  "4006": {
+    "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو آبریزدار",
+    "slug": "clover-rosso-dispenser-70cm-twin-refrigerator",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=4006",
+    "price": 0
+  },
+  "4008": {
+    "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو آبریزدار - رنگ: سفید",
+    "parent_id": 4006,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4008",
+    "price": 0
+  },
+  "4007": {
+    "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو آبریزدار - رنگ: استیل",
+    "parent_id": 4006,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4007",
+    "price": 0
+  },
+  "3999": {
+    "name": "یخچال و فریزر دوقلو 27 فوت کلور مدل اکونومی",
+    "slug": "clover-economy-27ft-twin-refrigerator",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3999",
+    "price": 256500000
+  },
+  "4001": {
+    "name": "یخچال و فریزر دوقلو 27 فوت کلور مدل اکونومی - رنگ: سفید",
+    "parent_id": 3999,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4001",
+    "price": 256500000
+  },
+  "4000": {
+    "name": "یخچال و فریزر دوقلو 27 فوت کلور مدل اکونومی - رنگ: استیل",
+    "parent_id": 3999,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4000",
+    "price": 261250000
+  },
+  "3994": {
+    "name": "یخچال و فریزر دوقلو هیمالیا مدل آیس پول 60MW",
+    "slug": "himalia-ice-pool-60mw-twin-refrigerator",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3994",
+    "price": 218500000
+  },
+  "3996": {
+    "name": "یخچال و فریزر دوقلو هیمالیا مدل آیس پول 60MW - رنگ: سفید چرمی",
+    "parent_id": 3994,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3996",
+    "price": 218500000
+  },
+  "3995": {
+    "name": "یخچال و فریزر دوقلو هیمالیا مدل آیس پول 60MW - رنگ: استیل",
+    "parent_id": 3994,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3995",
+    "price": 223250000
+  },
+  "3990": {
+    "name": "کتری برقی ساپر مدل 1031",
+    "slug": "saper-1031-electric-kettle",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3990",
+    "price": 9310000
+  },
+  "3992": {
+    "name": "کتری برقی ساپر مدل 1031 - رنگ: کرم",
+    "parent_id": 3990,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3992",
+    "price": 9310000
+  },
+  "3991": {
+    "name": "کتری برقی ساپر مدل 1031 - رنگ: سبز",
+    "parent_id": 3990,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3991",
+    "price": 9310000
+  },
+  "3988": {
+    "name": "همزن برقی کنوود مدل HM430",
+    "slug": "kenwood-hm430-hand-mixer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3988",
+    "price": 0
+  },
+  "3711": {
+    "name": "آبمیوه‌گیری تک‌کاره ۸۰۰ وات دونالکس مدل DN-120",
+    "slug": "donalex-dn120-single-juicer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3711",
+    "price": 27550000
+  },
+  "3709": {
+    "name": "پتوشور صنعتی و خانگی کد 40 تمام استیل پاکیزان",
+    "slug": "pakizan-40kg-heavy-duty-washer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3709",
+    "price": 26600000
+  },
+  "3707": {
+    "name": "ماشین لباسشویی دوقلو ۲۱ کیلوگرم نیمه‌اتوماتیک پاکشوما مدل PWT-2154AJ",
+    "slug": "pakshoma-21kg-twin-tub-washer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3707",
+    "price": 35150000
+  },
+  "3681": {
+    "name": "سماور برقی پیرکس ۳.۲ لیتری گرنویک مدل GST-883",
+    "slug": "gosonic-gst883-electric-samovar",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3681",
+    "price": 21850000
+  },
+  "3679": {
+    "name": "اسپرسوساز ۲۰ بار گرنویک مدل رترو آنالوگ",
+    "slug": "gronweg-retro-20bar-espresso-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3679",
+    "price": 27550000
+  },
+  "3673": {
+    "name": "چای‌ساز تمام استیل کورکماز مدل A331 چای‌تما",
+    "slug": "korkmaz-a331-caytema-tea-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3673",
+    "price": 18050000
+  },
+  "3668": {
+    "name": "کتری برقی ۱.۸ لیتری وگاتی مدل توپی",
+    "slug": "vogati-ball-electric-kettle",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3668",
+    "price": 7125000
+  },
+  "3664": {
+    "name": "کتری برقی رترو ۲۲۰۰ وات وستینگهاوس مدل WKKE210",
+    "slug": "westinghouse-wkke210-retro-kettle",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3664",
+    "price": 35150000
+  },
+  "4243": {
+    "name": "کتری برقی رترو ۲۲۰۰ وات وستینگهاوس مدل WKKE210 - رنگ: قرمز",
+    "parent_id": 3664,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=4243",
+    "price": 0
+  },
+  "3691": {
+    "name": "کتری برقی رترو ۲۲۰۰ وات وستینگهاوس مدل WKKE210 - رنگ: کرم",
+    "parent_id": 3664,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3691",
+    "price": 35150000
+  },
+  "3690": {
+    "name": "کتری برقی رترو ۲۲۰۰ وات وستینگهاوس مدل WKKE210 - رنگ: آبی",
+    "parent_id": 3664,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3690",
+    "price": 35150000
+  },
+  "3662": {
+    "name": "کتری و قوری روگازی هرمی ۵ لیتری کی اس تی مدل 604 استیل طلا",
+    "slug": "kst-604-pyramid-gold-kettle-teapot",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3662",
+    "price": 13300000
+  },
+  "3660": {
+    "name": "کتری برقی رترو ۱.۷ لیتری زامروتی مدل عقربه‌ای کرم",
+    "slug": "zamroti-retro-kettle-cream",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3660",
+    "price": 20900000
+  },
+  "3657": {
+    "name": "سماور برقی ۳ لیتری دیجیتال پیرکس زامروتی",
+    "slug": "zamroti-electric-samovar-tea-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3657",
+    "price": 30875000
+  },
+  "3655": {
+    "name": "مخلوط‌کن رترو ۱.۵ لیتری ۶۰۰ وات زامروتی مدل 10038",
+    "slug": "zamroti-10038-cream-retro-blender",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3655",
+    "price": 25935000
+  },
+  "3653": {
+    "name": "کتری برقی استیل ۲۰۰۰ وات اریکسون مدل ۱.۸ لیتری",
+    "slug": "ericsson-1-8l-electric-kettle",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3653",
+    "price": 6175000
+  },
+  "3647": {
+    "name": "سرخ‌کن بدون روغن ۸ لیتری گرنویک مدل ProMar",
+    "slug": "gronweg-promar-8l-air-fryer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3647",
+    "price": 25175000
+  },
+  "3645": {
+    "name": "همزن دستی ۳۵۰ وات رترو وستینگهاوس",
+    "slug": "westinghouse-retro-hand-mixer",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3645",
+    "price": 31350000
+  },
+  "3700": {
+    "name": "همزن دستی ۳۵۰ وات رترو وستینگهاوس - رنگ: کرم",
+    "parent_id": 3645,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3700",
+    "price": 31350000
+  },
+  "3699": {
+    "name": "همزن دستی ۳۵۰ وات رترو وستینگهاوس - رنگ: آبی",
+    "parent_id": 3645,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3699",
+    "price": 31350000
+  },
+  "3640": {
+    "name": "مخلوط‌کن رترو ۶۰۰ وات وستینگهاوس مدل WKBEB221",
+    "slug": "westinghouse-wkbeb221-retro-blender",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3640",
+    "price": 34200000
+  },
+  "3698": {
+    "name": "مخلوط‌کن رترو ۶۰۰ وات وستینگهاوس مدل WKBEB221 - رنگ: قرمز",
+    "parent_id": 3640,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3698",
+    "price": 36100000
+  },
+  "3697": {
+    "name": "مخلوط‌کن رترو ۶۰۰ وات وستینگهاوس مدل WKBEB221 - رنگ: کرم",
+    "parent_id": 3640,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3697",
+    "price": 34200000
+  },
+  "3696": {
+    "name": "مخلوط‌کن رترو ۶۰۰ وات وستینگهاوس مدل WKBEB221 - رنگ: آبی",
+    "parent_id": 3640,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3696",
+    "price": 34200000
+  },
+  "3637": {
+    "name": "توستر نان ۲ شیار رترو وستینگهاوس",
+    "slug": "westinghouse-retro-2slice-toaster",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3637",
+    "price": 32300000
+  },
+  "3695": {
+    "name": "توستر نان ۲ شیار رترو وستینگهاوس - رنگ: قرمز",
+    "parent_id": 3637,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3695",
+    "price": 35150000
+  },
+  "3694": {
+    "name": "توستر نان ۲ شیار رترو وستینگهاوس - رنگ: کرم",
+    "parent_id": 3637,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3694",
+    "price": 32300000
+  },
+  "3693": {
+    "name": "توستر نان ۲ شیار رترو وستینگهاوس - رنگ: آبی",
+    "parent_id": 3637,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3693",
+    "price": 32300000
+  },
+  "3631": {
+    "name": "آون توستر ۶۰ لیتری کانوکشن نان دلمونتی مدل DN-580",
+    "slug": "delmonti-dn580-toaster-oven",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3631",
+    "price": 17290000
+  },
+  "3629": {
+    "name": "غذاساز حرفه‌ای ۱۳۰۰ وات فیلیپس مدل HR7778",
+    "slug": "philips-hr7778-food-processor",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3629",
+    "price": 59280000
+  },
+  "3626": {
+    "name": "آبمیوه‌گیری ۴ کاره دونالکس مدل DN-290",
+    "slug": "donalex-dn290-4in1-juicer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3626",
+    "price": 35625000
+  },
+  "3622": {
+    "name": "همزن دستی ۴۰۰ وات توربو دونالکس مدل DN-355",
+    "slug": "donalex-dn355-hand-mixer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3622",
+    "price": 11400000
+  },
+  "3617": {
+    "name": "ساندویچ‌ساز و گریل ۱۴۰۰ وات دونالکس مدل DN-940 سفید",
+    "slug": "donalex-dn940-sandwich-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3617",
+    "price": 12825000
+  },
+  "3612": {
+    "name": "شیرجوش ۱۴ سانتی‌متر اویزپلاس مشکی",
+    "slug": "oviz-plus-14cm-granite-milk-pot",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3612",
+    "price": 2593500
+  },
+  "3610": {
+    "name": "سرویس قابلمه ۱۲ پارچه گرانیتی اویزپلاس مدل مشکی رزگلد",
+    "slug": "oviz-plus-black-12pcs-cookware-set",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3610",
+    "price": 36575000
+  },
+  "3608": {
+    "name": "سرویس قابلمه ۲۴ پارچه گرانیتی اویزپلاس مدل سبز لایف",
+    "slug": "oviz-plus-green-24pcs-cookware-set",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3608",
+    "price": 56050000
+  },
+  "3606": {
+    "name": "سرویس زودپز دوقلو ۵ و ۷ لیتری کلیپسی اویزپلاس مشکی رزگلد",
+    "slug": "oviz-plus-twin-clipso-pressure-cooker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3606",
+    "price": 19760000
+  },
+  "3602": {
+    "name": "زودپز کلیپسی ۷ لیتری اویزپلاس مشکی رزگلد",
+    "slug": "oviz-plus-single-clipso-7l-pressure-cooker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3602",
+    "price": 18050000
+  },
+  "3596": {
+    "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶)",
+    "slug": "oviz-black-granite-pots",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3596",
+    "price": 3705000
+  },
+  "3783": {
+    "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶) - سایز (سانتی‌متر): سایز 32",
+    "parent_id": 3596,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3783",
+    "price": 7533500
+  },
+  "3781": {
+    "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶) - سایز (سانتی‌متر): سایز 30",
+    "parent_id": 3596,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3781",
+    "price": 6792500
+  },
+  "3689": {
+    "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶) - سایز (سانتی‌متر): سایز ۲۶",
+    "parent_id": 3596,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3689",
+    "price": 5804500
+  },
+  "3688": {
+    "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶) - سایز (سانتی‌متر): سایز ۲۴",
+    "parent_id": 3596,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3688",
+    "price": 4940000
+  },
+  "3687": {
+    "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶) - سایز (سانتی‌متر): سایز ۲۲",
+    "parent_id": 3596,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3687",
+    "price": 4569500
+  },
+  "3686": {
+    "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶) - سایز (سانتی‌متر): سایز ۲۰",
+    "parent_id": 3596,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3686",
+    "price": 4322500
+  },
+  "3685": {
+    "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶) - سایز (سانتی‌متر): سایز ۱۸",
+    "parent_id": 3596,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3685",
+    "price": 4075500
+  },
+  "3684": {
+    "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶) - سایز (سانتی‌متر): سایز ۱۶",
+    "parent_id": 3596,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3684",
+    "price": 3705000
+  },
+  "3592": {
+    "name": "سرویس قابلمه ۱۰ پارچه خمره‌ای اویز مدل سلین کرم",
+    "slug": "oviz-celine-cream-10pcs-cookware-set",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3592",
+    "price": 23465000
+  },
+  "3573": {
+    "name": "ماشین لباسشویی ۱۰ کیلوگرم اینورتر کلور مدل دایرکت درایو کرم",
+    "slug": "clover-10kg-inverter-bldc-washer",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3573",
+    "price": 152000000
+  },
+  "3789": {
+    "name": "ماشین لباسشویی ۱۰ کیلوگرم اینورتر کلور مدل دایرکت درایو کرم - رنگ: کرم",
+    "parent_id": 3573,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3789",
+    "price": 152000000
+  },
+  "3788": {
+    "name": "ماشین لباسشویی ۱۰ کیلوگرم اینورتر کلور مدل دایرکت درایو کرم - رنگ: سبز پاستیلی",
+    "parent_id": 3573,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3788",
+    "price": 152000000
+  },
+  "3563": {
+    "name": "ماشین لباسشویی دوقلو ۱۵ کیلوگرم نیمه‌اتوماتیک پاکشوما",
+    "slug": "pakshoma-15kg-twin-tub-washer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3563",
+    "price": 30400000
+  },
+  "3557": {
+    "name": "ماشین لباسشویی ۱۲ کیلوگرم درب از بالا اتوماتیک پاکشوما",
+    "slug": "pakshoma-12kg-top-loader-washer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3557",
+    "price": 59280000
+  },
+  "3551": {
+    "name": "ماشین لباسشویی ۱۷ کیلوگرم دوقلو ریتون مدل دو موتوره",
+    "slug": "riton-17kg-twin-tub-washer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3551",
+    "price": 33962500
+  },
+  "3546": {
+    "name": "ماشین ظرفشویی ۱۶ نفره کلور مدل لمسی استیل ۳ سبد",
+    "slug": "clover-16-person-touch-inox-dishwasher",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3546",
+    "price": 123500000
+  },
+  "3540": {
+    "name": "پنکه ایستاده ریموت‌دار سانی مدل DWS-2600",
+    "slug": "sunny-dws2600-standing-fan",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3540",
+    "price": 12825000
+  },
+  "3534": {
+    "name": "تلویزیون ال ای دی ۸۵ اینچ هوشمند 4K هاورسن مدل Ultra HD",
+    "slug": "haverson-85-inch-4k-smart-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3534",
+    "price": 266000000
+  },
+  "3531": {
+    "name": "تلویزیون ال ای دی ۷۵ اینچ هوشمند 4K هاورسن مدل Cinema HDR",
+    "slug": "haverson-75-inch-4k-smart-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3531",
+    "price": 247000000
+  },
+  "3523": {
+    "name": "تلویزیون ال ای دی ۶۵ اینچ هوشمند 4K هاورسن مدل Frameless IPS",
+    "slug": "haverson-65-inch-4k-smart-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3523",
+    "price": 166725000
+  },
+  "3520": {
+    "name": "تلویزیون ال ای دی ۵۵ اینچ هوشمند 4K هاورسن مدل Smart Android",
+    "slug": "haverson-55-inch-4k-smart-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3520",
+    "price": 0
+  },
+  "3516": {
+    "name": "تلویزیون ال ای دی ۳۲ اینچ هاورسن مدل HD",
+    "slug": "haverson-32-inch-hd-led-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3516",
+    "price": 42750000
+  },
+  "3513": {
+    "name": "فریزر صندوقی الکتروسان مدل کم‌مصرف سوپر سایلنت",
+    "slug": "electrosan-345-chest-freezer",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3513",
+    "price": 55100000
+  },
+  "3807": {
+    "name": "فریزر صندوقی الکتروسان مدل کم‌مصرف سوپر سایلنت - طول: 140 سانتیمتر",
+    "parent_id": 3513,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3807",
+    "price": 80275000
+  },
+  "3806": {
+    "name": "فریزر صندوقی الکتروسان مدل کم‌مصرف سوپر سایلنت - طول: 110 سانتیمتر",
+    "parent_id": 3513,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3806",
+    "price": 60800000
+  },
+  "3805": {
+    "name": "فریزر صندوقی الکتروسان مدل کم‌مصرف سوپر سایلنت - طول: 90 سانتیمتر",
+    "parent_id": 3513,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3805",
+    "price": 55100000
+  },
+  "3510": {
+    "name": "جاروبرقی ۲۴۰۰ وات دونالکس مدل DN-750 سوپرسایلنت",
+    "slug": "donalex-dn750-vacuum-cleaner",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3510",
+    "price": 46550000
+  },
+  "3683": {
+    "name": "جاروبرقی ۲۴۰۰ وات دونالکس مدل DN-750 سوپرسایلنت - رنگ: طلایی",
+    "parent_id": 3510,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3683",
+    "price": 0
+  },
+  "3682": {
+    "name": "جاروبرقی ۲۴۰۰ وات دونالکس مدل DN-750 سوپرسایلنت - رنگ: سرمه‌ای",
+    "parent_id": 3510,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3682",
+    "price": 46550000
+  },
+  "3504": {
+    "name": "دستگاه تصفیه آب خانگی ۶ مرحله‌ای هومگلد مدل RO",
+    "slug": "homegold-6stage-ro-water-purifier",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3504",
+    "price": 0
+  },
+  "3500": {
+    "name": "برس حرارتی صاف‌کننده مو پرومارون مدل 1113 تورمالین",
+    "slug": "promaron-1113-thermal-brush",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3500",
+    "price": 6175000
+  },
+  "3494": {
+    "name": "شیور و ماشین اصلاح ۵ کاره پرومارون مدل RL-614 ضدآب",
+    "slug": "promaron-rl614-shaver-grooming-kit",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3494",
+    "price": 7125000
+  },
+  "3488": {
+    "name": "اتومو باریک سرامیکی پرومارون مدل 1116",
+    "slug": "promaron-1116-hair-straightener",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3488",
+    "price": 7125000
+  },
+  "3484": {
+    "name": "اتومو کراتینه سرامیک تیتانیوم پرومارون مدل 1115",
+    "slug": "promaron-1115-hair-straightener",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3484",
+    "price": 8075000
+  },
+  "3457": {
+    "name": "چای ساز لمسی دونالکس مدل DN-185 شیشه ای پیرکس",
+    "slug": "donalex-dn185-tea-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3457",
+    "price": 20900000
+  },
+  "3453": {
+    "name": "یخچال فریزر دوقلو 21 فوت الکترواستیل مدل فیوچر (Future)",
+    "slug": "electrosteel-future-twin-refrigerator-21ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3453",
+    "price": 296400000
+  },
+  "3455": {
+    "name": "یخچال فریزر دوقلو 21 فوت الکترواستیل مدل فیوچر (Future) - رنگ: تیتانیومی",
+    "parent_id": 3453,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3455",
+    "price": 296400000
+  },
+  "3454": {
+    "name": "یخچال فریزر دوقلو 21 فوت الکترواستیل مدل فیوچر (Future) - رنگ: سفید",
+    "parent_id": 3453,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3454",
+    "price": 302575000
+  },
+  "3395": {
+    "name": "یخچال و فریزر دوقلو 28 فوت هیمالیا مدل آلفا NF280a-NR440a",
+    "slug": "himalia-alpha-twin-refrigerator-28ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3395",
+    "price": 271700000
+  },
+  "3452": {
+    "name": "یخچال و فریزر دوقلو 28 فوت هیمالیا مدل آلفا NF280a-NR440a - رنگ: سفید چرمی",
+    "parent_id": 3395,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3452",
+    "price": 285285000
+  },
+  "3451": {
+    "name": "یخچال و فریزر دوقلو 28 فوت هیمالیا مدل آلفا NF280a-NR440a - رنگ: سفید متالیک",
+    "parent_id": 3395,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3451",
+    "price": 275281500
+  },
+  "3450": {
+    "name": "یخچال و فریزر دوقلو 28 فوت هیمالیا مدل آلفا NF280a-NR440a - رنگ: نقره ای",
+    "parent_id": 3395,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3450",
+    "price": 271700000
+  },
+  "3389": {
+    "name": "یخچال و فریزر 24 فوت بست مدل BRB241-10 نوفراست",
+    "slug": "bost-brb241-refrigerator-freezer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3389",
+    "price": 90250000
+  },
+  "3383": {
+    "name": "اجاق گاز صفحه ای توکار ۵ شعله آلتون مدل S517N استیل",
+    "slug": "alton-s517n-gas-hob",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3383",
+    "price": 39890500
+  },
+  "3380": {
+    "name": "اجاق گاز ۵ شعله فردار آلتون مدل MD5S تمام استیل",
+    "slug": "alton-md5s-gas-stove",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3380",
+    "price": 114000000
+  },
+  "3817": {
+    "name": "اجاق گاز ۵ شعله فردار آلتون مدل MD5S تمام استیل - رنگ: استیل",
+    "parent_id": 3380,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3817",
+    "price": 118750000
+  },
+  "3816": {
+    "name": "اجاق گاز ۵ شعله فردار آلتون مدل MD5S تمام استیل - رنگ: سفید",
+    "parent_id": 3380,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3816",
+    "price": 114000000
+  },
+  "3357": {
+    "name": "سرویس پخت و پز 10 پارچه اویز مدل سلین گرانیتی",
+    "slug": "oviz-celine-10pcs-cookware-set",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=3357",
+    "price": 25650000
+  },
+  "3705": {
+    "name": "سرویس پخت و پز 10 پارچه اویز مدل سلین گرانیتی - رنگ: اناری",
+    "parent_id": 3357,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3705",
+    "price": 31350000
+  },
+  "3704": {
+    "name": "سرویس پخت و پز 10 پارچه اویز مدل سلین گرانیتی - رنگ: سرمه‌ای",
+    "parent_id": 3357,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=3704",
+    "price": 25650000
+  },
+  "3354": {
+    "name": "سرویس پخت و پز ۱۰ پارچه تمام استیل دستی لوکس اینداکشن",
+    "slug": "stainless-steel-10pcs-cookware-set",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3354",
+    "price": 27170000
+  },
+  "3318": {
+    "name": "سرویس پخت و پز 11 پارچه اویز پلاس مدل ویولا گرانیتی",
+    "slug": "oviz-plus-viola-11pcs-cookware-set",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3318",
+    "price": 37525000
+  },
+  "3312": {
+    "name": "آبسردکن ایستاده نیکایی مدل NWD-1400R یخچال دار",
+    "slug": "nikai-nwd1400r-water-dispenser",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3312",
+    "price": 53722500
+  },
+  "3305": {
+    "name": "دستگاه تصفیه آب خانگی سی سی کا مدل RO-13",
+    "slug": "cck-ro13-water-purifier",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3305",
+    "price": 17537000
+  },
+  "3301": {
+    "name": "آبسردکن افترون مدل AFWD-5700",
+    "slug": "aftron-afwd5700-water-dispenser",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3301",
+    "price": 38285000
+  },
+  "3285": {
+    "name": "سشوار پرو امگا مدل 8805",
+    "slug": "omega-8805-hair-dryer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3285",
+    "price": 8027500
+  },
+  "3271": {
+    "name": "اتو بخار فیلیپس مدل DST5040",
+    "slug": "philips-dst5040-steam-iron",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3271",
+    "price": 8027500
+  },
+  "3266": {
+    "name": "کولر گازی اسپلیت دیواری 18000 دور ثابت پاکشوما مدل TPA-18CH",
+    "slug": "pakshoma-18000-split-air-conditioner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3266",
+    "price": 140790000
+  },
+  "3065": {
+    "name": "ماشین اصلاح موی سر و صورت پرو امگا مدل T7",
+    "slug": "pro-omega-t7-hair-clipper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3065",
+    "price": 7410000
+  },
+  "3056": {
+    "name": "ماشین اصلاح موی سر و صورت پرو امگا مدل T5 با تیغه کربن استیل",
+    "slug": "pro-omega-t5-hair-clipper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3056",
+    "price": 4940000
+  },
+  "3049": {
+    "name": "سشوار حرفه ای پرو امگا مدل 8806",
+    "slug": "pro-omega-8806-hair-dryer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3049",
+    "price": 8645000
+  },
+  "3035": {
+    "name": "مخلوط کن و آسیاب کن 1.5 لیتری دونالکس مدل DN-205",
+    "slug": "donallex-dn-205-blender",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3035",
+    "price": 21850000
+  },
+  "3032": {
+    "name": "گوشت کوب برقی دونالکس مدل DN-275",
+    "slug": "donallex-dn-275-hand-blender",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3032",
+    "price": 13775000
+  },
+  "3026": {
+    "name": "سرخ‌کن 8 لیتر دونالکس مدل DN-950",
+    "slug": "donallex-dn-950-air-fryer-8l",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3026",
+    "price": 33962500
+  },
+  "3019": {
+    "name": "آبمیوه‌گیری ۴ کاره ۱۰۰۰ وات دونالکس مدل DN-120 چندکاره",
+    "slug": "donalex-dn120-4in1-juicer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3019",
+    "price": 35625000
+  },
+  "3016": {
+    "name": "اسپرسو ساز ۱۸ میلی لیتر دونالکس مدل DN475",
+    "slug": "donallex-dn475-espresso-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3016",
+    "price": 39900000
+  },
+  "3013": {
+    "name": "اسپرسو ساز ۱۲ میلی لیتر دونالکس مدلDN480",
+    "slug": "donallex-dn480-espresso-maker",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3013",
+    "price": 46550000
+  },
+  "3007": {
+    "name": "اتو بخار ۲۵۰۰ وات دونالکس مدل 815",
+    "slug": "donallex-815-steam-iron-2500w",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=3007",
+    "price": 12825000
+  },
+  "2885": {
+    "name": "جاروبرقی بست مدل BVC-PC18B موتور ۱۴۰۰ وات (ضمانت انتخاب سرویس)",
+    "slug": "bost-bvc-pc18b-vacuum-cleaner",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2885",
+    "price": 22800000
+  },
+  "2901": {
+    "name": "جاروبرقی بست مدل BVC-PC18B موتور ۱۴۰۰ وات (ضمانت انتخاب سرویس) - رنگ: نقره ای",
+    "parent_id": 2885,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2901",
+    "price": 22800000
+  },
+  "2900": {
+    "name": "جاروبرقی بست مدل BVC-PC18B موتور ۱۴۰۰ وات (ضمانت انتخاب سرویس) - رنگ: قرمز",
+    "parent_id": 2885,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2900",
+    "price": 22800000
+  },
+  "2899": {
+    "name": "جاروبرقی بست مدل BVC-PC18B موتور ۱۴۰۰ وات (ضمانت انتخاب سرویس) - رنگ: مشکی",
+    "parent_id": 2885,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2899",
+    "price": 22800000
+  },
+  "2871": {
+    "name": "ماشین ظرفشویی 15 نفره کلور CDW-H15V",
+    "slug": "clover-cdw-h15v-dishwasher-15p",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2871",
+    "price": 109915000
+  },
+  "2881": {
+    "name": "ماشین ظرفشویی 15 نفره کلور CDW-H15V - رنگ: استیل تیره",
+    "parent_id": 2871,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2881",
+    "price": 118750000
+  },
+  "2880": {
+    "name": "ماشین ظرفشویی 15 نفره کلور CDW-H15V - رنگ: سفید",
+    "parent_id": 2871,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2880",
+    "price": 109915000
+  },
+  "2766": {
+    "name": "دستگاه تصفیه کننده آب سافت واتر مدل IR-06",
+    "slug": "soft-water-ir-06-purifier",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=2766",
+    "price": 19760000
+  },
+  "2745": {
+    "name": "یخچال فریزر دوقلو 34 فوت دیپوینت مدل MAX.DU _ مکس",
+    "slug": "depoint-max-du-twin-refrigerator-34ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2745",
+    "price": 240825000
+  },
+  "2755": {
+    "name": "یخچال فریزر دوقلو 34 فوت دیپوینت مدل MAX.DU _ مکس - رنگ: سفید",
+    "parent_id": 2745,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2755",
+    "price": 240825000
+  },
+  "2754": {
+    "name": "یخچال فریزر دوقلو 34 فوت دیپوینت مدل MAX.DU _ مکس - رنگ: نقره ای",
+    "parent_id": 2745,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2754",
+    "price": 227240000
+  },
+  "2704": {
+    "name": "یخچال 5 فوت ایستکول مدل 2835",
+    "slug": "eastcool-2835-refrigerator-5ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2704",
+    "price": 38285000
+  },
+  "2734": {
+    "name": "یخچال 5 فوت ایستکول مدل 2835 - رنگ: استیل",
+    "parent_id": 2704,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2734",
+    "price": 40755000
+  },
+  "2733": {
+    "name": "یخچال 5 فوت ایستکول مدل 2835 - رنگ: سفید",
+    "parent_id": 2704,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2733",
+    "price": 38285000
+  },
+  "2691": {
+    "name": "یخچال فریزر 9 فوت ایستکول مدل هتلی 2919، با ارتفاع 108، عمق 56 و پهنای 54 سانتی‌ متر، مصرف انرژی A، دارای 3 طبقه در یخچال و 1 طبقه در فریزر، دارای کندانسور مخفی",
+    "slug": "eastcool-2919-hotel-refrigerator-9ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2691",
+    "price": 44650000
+  },
+  "2702": {
+    "name": "یخچال فریزر 9 فوت ایستکول مدل هتلی 2919، با ارتفاع 108، عمق 56 و پهنای 54 سانتی‌ متر، مصرف انرژی A، دارای 3 طبقه در یخچال و 1 طبقه در فریزر، دارای کندانسور مخفی - رنگ: استیل",
+    "parent_id": 2691,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2702",
+    "price": 45600000
+  },
+  "2701": {
+    "name": "یخچال فریزر 9 فوت ایستکول مدل هتلی 2919، با ارتفاع 108، عمق 56 و پهنای 54 سانتی‌ متر، مصرف انرژی A، دارای 3 طبقه در یخچال و 1 طبقه در فریزر، دارای کندانسور مخفی - رنگ: سفید",
+    "parent_id": 2691,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2701",
+    "price": 44650000
+  },
+  "2661": {
+    "name": "جاروبرقی پاناسونیک مدل MC-CG715",
+    "slug": "panasonic-mc-cg715-vacuum-cleaner",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2661",
+    "price": 0
+  },
+  "2679": {
+    "name": "جاروبرقی پاناسونیک مدل MC-CG715 - رنگ: سفید",
+    "parent_id": 2661,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2679",
+    "price": 39520000
+  },
+  "2637": {
+    "name": "یخچال و فریزر دوقلو 36 فوت کلور مدل RNT101-FNT101",
+    "slug": "clover-rnt101-fnt101-twin-refrigerator-36ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2637",
+    "price": 246050000
+  },
+  "2659": {
+    "name": "یخچال و فریزر دوقلو 36 فوت کلور مدل RNT101-FNT101 - رنگ: سفید",
+    "parent_id": 2637,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2659",
+    "price": 246050000
+  },
+  "2658": {
+    "name": "یخچال و فریزر دوقلو 36 فوت کلور مدل RNT101-FNT101 - رنگ: استیل",
+    "parent_id": 2637,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2658",
+    "price": 250800000
+  },
+  "2594": {
+    "name": "یخچال فریزر 30 فوت دیپوینت مدل Boss Pro",
+    "slug": "depoint-boss-pro-refrigerator-30ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2594",
+    "price": 166250000
+  },
+  "2859": {
+    "name": "یخچال فریزر 30 فوت دیپوینت مدل Boss Pro - رنگ: استیل",
+    "parent_id": 2594,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2859",
+    "price": 171000000
+  },
+  "2858": {
+    "name": "یخچال فریزر 30 فوت دیپوینت مدل Boss Pro - رنگ: سفید",
+    "parent_id": 2594,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2858",
+    "price": 166250000
+  },
+  "2585": {
+    "name": "یخچال و فریزر 28 فوت دیپوینت مدل T7، بدون برفک، با ارتفاع 184، پهنای 86 و عمق 73 سانتی‌متر، میزان مصرف انرژی A، دارای 4 طبقه در یخچال و 2 طبقه در فریزر، دارای سیستم نوفراست",
+    "slug": "depoint-t7-refrigerator-28ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2585",
+    "price": 142500000
+  },
+  "2593": {
+    "name": "یخچال و فریزر 28 فوت دیپوینت مدل T7، بدون برفک، با ارتفاع 184، پهنای 86 و عمق 73 سانتی‌متر، میزان مصرف انرژی A، دارای 4 طبقه در یخچال و 2 طبقه در فریزر، دارای سیستم نوفراست - رنگ: سفید",
+    "parent_id": 2585,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2593",
+    "price": 142500000
+  },
+  "2592": {
+    "name": "یخچال و فریزر 28 فوت دیپوینت مدل T7، بدون برفک، با ارتفاع 184، پهنای 86 و عمق 73 سانتی‌متر، میزان مصرف انرژی A، دارای 4 طبقه در یخچال و 2 طبقه در فریزر، دارای سیستم نوفراست - رنگ: نقره ای",
+    "parent_id": 2585,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2592",
+    "price": 147250000
+  },
+  "2579": {
+    "name": "ماشین لباسشویی هوشمند 9 کیلوگرم اتوماتیک دوو مدل LM-9170",
+    "slug": "daewoo-lm-9170-washing-machine-9kg",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2579",
+    "price": 138320000
+  },
+  "2584": {
+    "name": "ماشین لباسشویی هوشمند 9 کیلوگرم اتوماتیک دوو مدل LM-9170 - رنگ: نقره ای",
+    "parent_id": 2579,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2584",
+    "price": 142025000
+  },
+  "2583": {
+    "name": "ماشین لباسشویی هوشمند 9 کیلوگرم اتوماتیک دوو مدل LM-9170 - رنگ: سفید",
+    "parent_id": 2579,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2583",
+    "price": 138320000
+  },
+  "2559": {
+    "name": "کولر آبی سلولزی 7000 ریتون مدل VENTO 7000",
+    "slug": "reyton-vento-7000-air-cooler",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=2559",
+    "price": 21850000
+  },
+  "2538": {
+    "name": "کولر آبی سلولزی پرتابل ۱۶۰۰۰ ریتون مدل VENTO (سرمایش فوق‌العاده)",
+    "slug": "reyton-vento-16000-portable-air-cooler",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=2538",
+    "price": 25650000
+  },
+  "2519": {
+    "name": "جاروبرقی سطلی هیتاچی مدل CV-950F.",
+    "slug": "hitachi-cv-950f-vacuum-cleaner",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2519",
+    "price": 30257500
+  },
+  "2532": {
+    "name": "جاروبرقی سطلی هیتاچی مدل CV-950F. - رنگ: قرمز",
+    "parent_id": 2519,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2532",
+    "price": 31122000
+  },
+  "2531": {
+    "name": "جاروبرقی سطلی هیتاچی مدل CV-950F. - رنگ: زرشکی",
+    "parent_id": 2519,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2531",
+    "price": 30257500
+  },
+  "2530": {
+    "name": "جاروبرقی سطلی هیتاچی مدل CV-950F. - رنگ: مشکی",
+    "parent_id": 2519,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2530",
+    "price": 30257500
+  },
+  "2510": {
+    "name": "ماشین لباسشویی 8 کیلوگرم اتوماتیک کلور مدل تاچ سری BMW T3",
+    "slug": "clover-bmw-t3-washing-machine-8kg",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2510",
+    "price": 113620000
+  },
+  "2518": {
+    "name": "ماشین لباسشویی 8 کیلوگرم اتوماتیک کلور مدل تاچ سری BMW T3 - رنگ: استیل",
+    "parent_id": 2510,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2518",
+    "price": 113620000
+  },
+  "2517": {
+    "name": "ماشین لباسشویی 8 کیلوگرم اتوماتیک کلور مدل تاچ سری BMW T3 - رنگ: سفید",
+    "parent_id": 2510,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2517",
+    "price": 114000000
+  },
+  "2505": {
+    "name": "ماشین لباسشویی 9 کیلوگرم اتوماتیک کلور مدل BMWT2",
+    "slug": "clover-bmw-t2-washing-machine-9kg",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2505",
+    "price": 123500000
+  },
+  "2509": {
+    "name": "ماشین لباسشویی 9 کیلوگرم اتوماتیک کلور مدل BMWT2 - رنگ: سفید",
+    "parent_id": 2505,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2509",
+    "price": 135850000
+  },
+  "2508": {
+    "name": "ماشین لباسشویی 9 کیلوگرم اتوماتیک کلور مدل BMWT2 - رنگ: استیل",
+    "parent_id": 2505,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2508",
+    "price": 123500000
+  },
+  "2497": {
+    "name": "یخچال و فریزر 27 فوت کلور مدل كمبي فريزر پايين مدل 101",
+    "slug": "clover-frnt-comby-101",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2497",
+    "price": 172900000
+  },
+  "2504": {
+    "name": "یخچال و فریزر 27 فوت کلور مدل كمبي فريزر پايين مدل 101 - رنگ: استیل",
+    "parent_id": 2497,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2504",
+    "price": 179075000
+  },
+  "2503": {
+    "name": "یخچال و فریزر 27 فوت کلور مدل كمبي فريزر پايين مدل 101 - رنگ: سفید",
+    "parent_id": 2497,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2503",
+    "price": 172900000
+  },
+  "2484": {
+    "name": "یخچال و فریزر 27 فوت کلور مدل كمبي هوم بار روسو",
+    "slug": "clover-rosso-homebar-refrigerator-27ft",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/?p=2484",
+    "price": 152000000
+  },
+  "2471": {
+    "name": "یخچال فریزر دوقلو 40 فوت کلور مدل گلوری عرض 60",
+    "slug": "clover-glory-w60-twin-refrigerator-40ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2471",
+    "price": 294500000
+  },
+  "2476": {
+    "name": "یخچال فریزر دوقلو 40 فوت کلور مدل گلوری عرض 60 - رنگ: استیل",
+    "parent_id": 2471,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2476",
+    "price": 299250000
+  },
+  "2475": {
+    "name": "یخچال فریزر دوقلو 40 فوت کلور مدل گلوری عرض 60 - رنگ: سفید",
+    "parent_id": 2471,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2475",
+    "price": 294500000
+  },
+  "2464": {
+    "name": "یخچال فریزر دوقلو کلور مدل 54 فوت glory plus-lm70",
+    "slug": "clover-glory-plus-lm70-twin-refrigerator",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2464",
+    "price": 342000000
+  },
+  "2470": {
+    "name": "یخچال فریزر دوقلو کلور مدل 54 فوت glory plus-lm70 - رنگ: سفید",
+    "parent_id": 2464,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2470",
+    "price": 342000000
+  },
+  "2469": {
+    "name": "یخچال فریزر دوقلو کلور مدل 54 فوت glory plus-lm70 - رنگ: استیل",
+    "parent_id": 2464,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2469",
+    "price": 351500000
+  },
+  "2457": {
+    "name": "یخچال فریزر دوقلو 40 فوت کلور مدل روسو پلاس (Rosso Plus) عرض 60",
+    "slug": "clover-rosso-plus-w60-twin-refrigerator-40ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2457",
+    "price": 294500000
+  },
+  "2463": {
+    "name": "یخچال فریزر دوقلو 40 فوت کلور مدل روسو پلاس (Rosso Plus) عرض 60 - رنگ: مشکی",
+    "parent_id": 2457,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2463",
+    "price": 342000000
+  },
+  "2462": {
+    "name": "یخچال فریزر دوقلو 40 فوت کلور مدل روسو پلاس (Rosso Plus) عرض 60 - رنگ: استیل",
+    "parent_id": 2457,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2462",
+    "price": 304000000
+  },
+  "2461": {
+    "name": "یخچال فریزر دوقلو 40 فوت کلور مدل روسو پلاس (Rosso Plus) عرض 60 - رنگ: سفید",
+    "parent_id": 2457,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2461",
+    "price": 294500000
+  },
+  "2431": {
+    "name": "یخچال 10 فوت کلور مدل مینی هتلی (Mini Refrigerator)",
+    "slug": "clover-mini-refrigerator-10ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2431",
+    "price": 72200000
+  },
+  "2444": {
+    "name": "یخچال 10 فوت کلور مدل مینی هتلی (Mini Refrigerator) - رنگ: مشکی",
+    "parent_id": 2431,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2444",
+    "price": 72200000
+  },
+  "2443": {
+    "name": "یخچال 10 فوت کلور مدل مینی هتلی (Mini Refrigerator) - رنگ: سبز پاستیلی",
+    "parent_id": 2431,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2443",
+    "price": 72200000
+  },
+  "2442": {
+    "name": "یخچال 10 فوت کلور مدل مینی هتلی (Mini Refrigerator) - رنگ: سفید",
+    "parent_id": 2431,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2442",
+    "price": 72200000
+  },
+  "2441": {
+    "name": "یخچال 10 فوت کلور مدل مینی هتلی (Mini Refrigerator) - رنگ: آبی پاستیلی",
+    "parent_id": 2431,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2441",
+    "price": 72200000
+  },
+  "2440": {
+    "name": "یخچال 10 فوت کلور مدل مینی هتلی (Mini Refrigerator) - رنگ: مشکی براق",
+    "parent_id": 2431,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2440",
+    "price": 72200000
+  },
+  "2439": {
+    "name": "یخچال 10 فوت کلور مدل مینی هتلی (Mini Refrigerator) - رنگ: قرمز",
+    "parent_id": 2431,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2439",
+    "price": 72200000
+  },
+  "2408": {
+    "name": "یخچال و فریزر 27 فوت کلور مدل FRNT101",
+    "slug": "clover-frnt101-refrigerator-27ft",
+    "type": "variable",
+    "url": "https://hosseinykala.ir/?p=2408",
+    "price": 142025000
+  },
+  "2419": {
+    "name": "یخچال و فریزر 27 فوت کلور مدل FRNT101 - رنگ: استیل",
+    "parent_id": 2408,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2419",
+    "price": 126093500
+  },
+  "2418": {
+    "name": "یخچال و فریزر 27 فوت کلور مدل FRNT101 - رنگ: سفید",
+    "parent_id": 2408,
+    "type": "variation",
+    "url": "https://hosseinykala.ir/?p=2418",
+    "price": 142025000
+  },
+  "products": [
+    {
+      "id": 4302,
+      "name": "یخچال و فریزر کمبی دیپوینت مدل دیسنت (Decent)",
+      "slug": "depoint-decent-combi-refrigerator-freezer",
+      "shortlink": "https://hosseinykala.ir/?p=4302"
+    },
+    {
+      "id": 4297,
+      "name": "یخچال و فریزر دوقلو دیپوینت مدل اکسپلور (Explore)",
+      "slug": "depoint-explore-twin-refrigerator-freezer",
+      "shortlink": "https://hosseinykala.ir/?p=4297"
+    },
+    {
+      "id": 4294,
+      "name": "یخچال و فریزر 34 فوت هوم بار الکترواستیل سفید",
+      "slug": "electrosteel-es34-home-bar-34ft-refrigerator-freezer-white",
+      "shortlink": "https://hosseinykala.ir/?p=4294"
+    },
+    {
+      "id": 4292,
+      "name": "یخچال و فریزر 27 فوت الکترواستیل تیتانیوم",
+      "slug": "electrosteel-es27-27ft-refrigerator-freezer-titanium",
+      "shortlink": "https://hosseinykala.ir/?p=4292"
+    },
+    {
+      "id": 4290,
+      "name": "یخچال و فریزر ۷ فوت الکترواستیل مدل کمپکت سفید",
+      "slug": "electrosteel-es7-compact-mini-refrigerator-white",
+      "shortlink": "https://hosseinykala.ir/?p=4290"
+    },
+    {
+      "id": 4288,
+      "name": "یخچال و فریزر 14 فوت الکترواستیل سفید",
+      "slug": "electrosteel-es14-star-14ft-refrigerator-freezer-white",
+      "shortlink": "https://hosseinykala.ir/?p=4288"
+    },
+    {
+      "id": 4286,
+      "name": "فریزر ۱۰ فوت تک الکترواستیل سری 10 نوفراست سفید چرمی",
+      "slug": "electrosteel-es10-10ft-single-freezer-white",
+      "shortlink": "https://hosseinykala.ir/?p=4286"
+    },
+    {
+      "id": 4284,
+      "name": "بخارگر دستی چندکاره باخ مدل BUVCK-1266",
+      "slug": "bach-buvck-1266-handheld-garment-steamer",
+      "shortlink": "https://hosseinykala.ir/?p=4284"
+    },
+    {
+      "id": 4282,
+      "name": "جارو شارژی باخ مدل 1454",
+      "slug": "bach-1454-foldable-cordless-stick-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4282"
+    },
+    {
+      "id": 4280,
+      "name": "جاروبرقی سطلی جنرال فیت مدل کیوتی 4300",
+      "slug": "generalfit-cutie-4300-canister-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4280"
+    },
+    {
+      "id": 4278,
+      "name": "جاروبرقی سطلی جنرال فیت مدل تاچ استار 4800",
+      "slug": "generalfit-touch-star-4800-canister-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4278"
+    },
+    {
+      "id": 4276,
+      "name": "جاروبرقی سطلی جنرال فیت مدل پروانه 5500",
+      "slug": "generalfit-parvaneh-5500-canister-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4276"
+    },
+    {
+      "id": 4274,
+      "name": "جاروبرقی سطلی جنرال فیت مدل پرستو 5300",
+      "slug": "generalfit-parastoo-5300-canister-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4274"
+    },
+    {
+      "id": 4272,
+      "name": "جاروبرقی سطلی جنرال فیت مدل اسکای پلاس 4500",
+      "slug": "generalfit-sky-plus-4500-canister-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4272"
+    },
+    {
+      "id": 4270,
+      "name": "اتو بخار پاناسونیک مدل 650",
+      "slug": "panasonic-ni-w650t-steam-iron",
+      "shortlink": "https://hosseinykala.ir/?p=4270"
+    },
+    {
+      "id": 4268,
+      "name": "میوه خشک کن مایر مدل 5959",
+      "slug": "maier-mr5959-digital-food-dehydrator",
+      "shortlink": "https://hosseinykala.ir/?p=4268"
+    },
+    {
+      "id": 4266,
+      "name": "خردکن برقی کاسه پیرکس بوش",
+      "slug": "bosch-glass-bowl-electric-food-chopper",
+      "shortlink": "https://hosseinykala.ir/?p=4266"
+    },
+    {
+      "id": 4264,
+      "name": "خردکن برقی ۲ کاسه زیکو مدل 70028",
+      "slug": "ziko-zc7028-double-bowl-electric-chopper",
+      "shortlink": "https://hosseinykala.ir/?p=4264"
+    },
+    {
+      "id": 4262,
+      "name": "گوشت کوب برقی رترو وستینگهاوس قرمز",
+      "slug": "westinghouse-retro-hand-blender-red",
+      "shortlink": "https://hosseinykala.ir/?p=4262"
+    },
+    {
+      "id": 4258,
+      "name": "آب مرکبات گیری برقی کنوود مدل JE290",
+      "slug": "kenwood-je290-electric-citrus-juicer",
+      "shortlink": "https://hosseinykala.ir/?p=4258"
+    },
+    {
+      "id": 4257,
+      "name": "اسپرسوساز نیمه صنعتی مباشی با نمایشگر دیجیتال دما",
+      "slug": "mebashi-semi-industrial-digital-espresso-maker",
+      "shortlink": "https://hosseinykala.ir/?p=4257"
+    },
+    {
+      "id": 4255,
+      "name": "آبمیوه گیری زیکو مدل 4038",
+      "slug": "ziko-zc4038-digital-electric-juicer",
+      "shortlink": "https://hosseinykala.ir/?p=4255"
+    },
+    {
+      "id": 4253,
+      "name": "آسیاب قهوه زیکو مدل 6502",
+      "slug": "ziko-zc6502-digital-coffee-grinder",
+      "shortlink": "https://hosseinykala.ir/?p=4253"
+    },
+    {
+      "id": 4251,
+      "name": "آسیاب قهوه زیکو مدل 6501",
+      "slug": "ziko-zc6501-digital-coffee-grinder",
+      "shortlink": "https://hosseinykala.ir/?p=4251"
+    },
+    {
+      "id": 4249,
+      "name": "آسیاب قهوه مایر مدل MR-4099",
+      "slug": "maier-mr4099-digital-conical-burr-coffee-grinder",
+      "shortlink": "https://hosseinykala.ir/?p=4249"
+    },
+    {
+      "id": 4245,
+      "name": "اسپرسوساز رترو وستینگهاوس مدل 1663",
+      "slug": "westinghouse-wkcmh1663-retro-espresso-maker",
+      "shortlink": "https://hosseinykala.ir/?p=4245"
+    },
+    {
+      "id": 4241,
+      "name": "بخاری گازی کابینتی آبسال مدل 405",
+      "slug": "absal-405-flueless-radiant-gas-heater",
+      "shortlink": "https://hosseinykala.ir/?p=4241"
+    },
+    {
+      "id": 4239,
+      "name": "آبگرمکن دیواری شمعک دار ایران شرق مدل 3020",
+      "slug": "iran-shargh-3020-kiana-gas-water-heater",
+      "shortlink": "https://hosseinykala.ir/?p=4239"
+    },
+    {
+      "id": 4237,
+      "name": "تلویزیون ال ای دی ۵۵ اینچ هوشمند دوو مدل 7000",
+      "slug": "daewoo-dsl55-s7000eum-55inch-smart-4k-tv",
+      "shortlink": "https://hosseinykala.ir/?p=4237"
+    },
+    {
+      "id": 4235,
+      "name": "سشوار حرفه ای زیکو مدل ZC-5020",
+      "slug": "ziko-zc5020-professional-hair-dryer",
+      "shortlink": "https://hosseinykala.ir/?p=4235"
+    },
+    {
+      "id": 4169,
+      "name": "چای ساز ویلز مدل 2015",
+      "slug": "willez-2015-tea-maker-2",
+      "shortlink": "https://hosseinykala.ir/?p=4169"
+    },
+    {
+      "id": 4167,
+      "name": "اتوبخار سیماران مدل 8002 زرد",
+      "slug": "simaran-8002-steam-iron-yellow-2",
+      "shortlink": "https://hosseinykala.ir/?p=4167"
+    },
+    {
+      "id": 4163,
+      "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو آبریزدار",
+      "slug": "clover-rosso-dispenser-70cm-twin-refrigerator-2",
+      "shortlink": "https://hosseinykala.ir/?p=4163"
+    },
+    {
+      "id": 4158,
+      "name": "فر کننده مو پرومارون مدل 9909",
+      "slug": "promaron-9909-hair-curler",
+      "shortlink": "https://hosseinykala.ir/?p=4158"
+    },
+    {
+      "id": 4156,
+      "name": "دستگاه پیرایش سیمی سر و صورت پرومارون مدل 731",
+      "slug": "promaron-731-corded-hair-clipper",
+      "shortlink": "https://hosseinykala.ir/?p=4156"
+    },
+    {
+      "id": 4154,
+      "name": "ریش تراش چرخشی پرومارون مدل 706",
+      "slug": "promaron-706-rotary-shaver",
+      "shortlink": "https://hosseinykala.ir/?p=4154"
+    },
+    {
+      "id": 4152,
+      "name": "اتو مو مسافرتی پاناسونیک مدل HV11",
+      "slug": "panasonic-eh-hv11-travel-hair-straightener",
+      "shortlink": "https://hosseinykala.ir/?p=4152"
+    },
+    {
+      "id": 4149,
+      "name": "بخاری گلدن لوکس",
+      "slug": "golden-luxe-gas-heater",
+      "shortlink": "https://hosseinykala.ir/?p=4149"
+    },
+    {
+      "id": 4147,
+      "name": "بخاری پلار مدل 3PN-NEW ماشینی",
+      "slug": "polar-3pn-new-gas-heater",
+      "shortlink": "https://hosseinykala.ir/?p=4147"
+    },
+    {
+      "id": 4145,
+      "name": "پنکه پاناسونیک 2 حالته",
+      "slug": "panasonic-2-in-1-fan",
+      "shortlink": "https://hosseinykala.ir/?p=4145"
+    },
+    {
+      "id": 4143,
+      "name": "پنکه پایه بلند پارس خزر",
+      "slug": "parskhazar-standing-pedestal-fan",
+      "shortlink": "https://hosseinykala.ir/?p=4143"
+    },
+    {
+      "id": 4141,
+      "name": "بخاری پارس خزر فن دار مدل FH-2000P",
+      "slug": "parskhazar-fh2000p-fan-heater",
+      "shortlink": "https://hosseinykala.ir/?p=4141"
+    },
+    {
+      "id": 4139,
+      "name": "کولر پنجره ای اوجنرال 18 هزار",
+      "slug": "ogeneral-18000-window-air-conditioner",
+      "shortlink": "https://hosseinykala.ir/?p=4139"
+    },
+    {
+      "id": 4137,
+      "name": "آبگرمکن مخزندار دیواری الکترواستیل",
+      "slug": "electrosteel-wall-mounted-water-heater",
+      "shortlink": "https://hosseinykala.ir/?p=4137"
+    },
+    {
+      "id": 4135,
+      "name": "چای ساز کورکماز مدل A331",
+      "slug": "korkmaz-a331-tea-maker",
+      "shortlink": "https://hosseinykala.ir/?p=4135"
+    },
+    {
+      "id": 4133,
+      "name": "آسیاب برقی کاستلو مدل 470",
+      "slug": "castello-470-electric-grinder",
+      "shortlink": "https://hosseinykala.ir/?p=4133"
+    },
+    {
+      "id": 4131,
+      "name": "چای ساز ویلز مدل 2015",
+      "slug": "willez-2015-tea-maker",
+      "shortlink": "https://hosseinykala.ir/?p=4131"
+    },
+    {
+      "id": 4129,
+      "name": "کتری برقی وولگا",
+      "slug": "volga-electric-kettle",
+      "shortlink": "https://hosseinykala.ir/?p=4129"
+    },
+    {
+      "id": 4127,
+      "name": "آسیاب برقی ونتو",
+      "slug": "vento-electric-grinder",
+      "shortlink": "https://hosseinykala.ir/?p=4127"
+    },
+    {
+      "id": 4125,
+      "name": "کتری برقی سیماران استیل مدل 750",
+      "slug": "simaran-750-steel-electric-kettle",
+      "shortlink": "https://hosseinykala.ir/?p=4125"
+    },
+    {
+      "id": 4123,
+      "name": "کتری برقی ساپر استیل مدل 1011",
+      "slug": "saper-1011-steel-electric-kettle",
+      "shortlink": "https://hosseinykala.ir/?p=4123"
+    },
+    {
+      "id": 4121,
+      "name": "اسپرسوساز حرفه ای رانکو",
+      "slug": "runko-professional-espresso-maker",
+      "shortlink": "https://hosseinykala.ir/?p=4121"
+    },
+    {
+      "id": 4119,
+      "name": "آبمیوه گیری چندکاره جنرال مدل 607 غذاساز",
+      "slug": "general-607-multi-function-juicer-food-processor",
+      "shortlink": "https://hosseinykala.ir/?p=4119"
+    },
+    {
+      "id": 4115,
+      "name": "کتری برقی تفال 2 لیتر",
+      "slug": "tefal-2l-electric-kettle",
+      "shortlink": "https://hosseinykala.ir/?p=4115"
+    },
+    {
+      "id": 4113,
+      "name": "پلوپز پارس خزر مدل 361",
+      "slug": "parskhazar-ts361-rice-cooker",
+      "shortlink": "https://hosseinykala.ir/?p=4113"
+    },
+    {
+      "id": 4112,
+      "name": "چرخ گوشت برقی ویلز",
+      "slug": "willez-electric-meat-grinder",
+      "shortlink": "https://hosseinykala.ir/?p=4112"
+    },
+    {
+      "id": 4110,
+      "name": "سرخ کن بدون روغن ویلز مدل 5062",
+      "slug": "willez-5062-air-fryer",
+      "shortlink": "https://hosseinykala.ir/?p=4110"
+    },
+    {
+      "id": 4106,
+      "name": "خردکن برقی کاسه دار ویلز",
+      "slug": "willez-electric-bowl-chopper",
+      "shortlink": "https://hosseinykala.ir/?p=4106"
+    },
+    {
+      "id": 4103,
+      "name": "سبزی خردکن خانگی نیاک 3 کیلوگرم",
+      "slug": "niak-3kg-home-vegetable-chopper",
+      "shortlink": "https://hosseinykala.ir/?p=4103"
+    },
+    {
+      "id": 4099,
+      "name": "سبزی خردکن خانگی کنرا مدل KENRA",
+      "slug": "kenra-vegetable-chopper",
+      "shortlink": "https://hosseinykala.ir/?p=4099"
+    },
+    {
+      "id": 4097,
+      "name": "قابلمه تک سایز 14 لاوان",
+      "slug": "lavan-single-pot-size-14",
+      "shortlink": "https://hosseinykala.ir/?p=4097"
+    },
+    {
+      "id": 4095,
+      "name": "سرخ‌کن بدون روغن ساپر 7.2 لیتر مدل SAF-1710",
+      "slug": "saper-saf1710-air-fryer-7-2l",
+      "shortlink": "https://hosseinykala.ir/?p=4095"
+    },
+    {
+      "id": 4093,
+      "name": "قابلمه مرغ خوری اویزپلاس مشکی",
+      "slug": "avizplus-poultry-pot-black",
+      "shortlink": "https://hosseinykala.ir/?p=4093"
+    },
+    {
+      "id": 4091,
+      "name": "سرویس قابلمه 11 پارچه اویزپلاس مدل السا سبز",
+      "slug": "avizplus-elsa-11pcs-cookware-set-green",
+      "shortlink": "https://hosseinykala.ir/?p=4091"
+    },
+    {
+      "id": 4088,
+      "name": "هود آشپزخانه آلتون مدل H315B",
+      "slug": "alton-h315b-kitchen-range-hood",
+      "shortlink": "https://hosseinykala.ir/?p=4088"
+    },
+    {
+      "id": 4087,
+      "name": "هود آشپزخانه آلتون مدل H312",
+      "slug": "alton-h312-kitchen-range-hood",
+      "shortlink": "https://hosseinykala.ir/?p=4087"
+    },
+    {
+      "id": 4085,
+      "name": "فر گاز فردار آلتون مدل MDS",
+      "slug": "alton-mds-freestanding-gas-cooker",
+      "shortlink": "https://hosseinykala.ir/?p=4085"
+    },
+    {
+      "id": 4083,
+      "name": "فر توکار آلتون مدل 7303",
+      "slug": "alton-7303-built-in-oven",
+      "shortlink": "https://hosseinykala.ir/?p=4083"
+    },
+    {
+      "id": 4081,
+      "name": "گاز صفحه ای استیل آلتون مدل SG518",
+      "slug": "alton-sg518-steel-built-in-gas-stove",
+      "shortlink": "https://hosseinykala.ir/?p=4081"
+    },
+    {
+      "id": 4073,
+      "name": "تابه گرانیتی مشکی اویز (سایزهای 22 تا 32)",
+      "slug": "aviz-granite-frying-pan-black",
+      "shortlink": "https://hosseinykala.ir/?p=4073"
+    },
+    {
+      "id": 4068,
+      "name": "پتوشور صنعتی و خانگی پاکیزان",
+      "slug": "pakizan-heavy-duty-blanket-washer",
+      "shortlink": "https://hosseinykala.ir/?p=4068"
+    },
+    {
+      "id": 4065,
+      "name": "جاروبرقی سطلی صنعتی آب و خاک پاندا 80 لیتر",
+      "slug": "panda-80l-wet-dry-industrial-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4065"
+    },
+    {
+      "id": 4063,
+      "name": "اتوبخار مونزا مدل VR3000W",
+      "slug": "monza-vr3000w-steam-iron",
+      "shortlink": "https://hosseinykala.ir/?p=4063"
+    },
+    {
+      "id": 4061,
+      "name": "مینی واش فریدولین 3.5 کیلوگرم مدل تک درب",
+      "slug": "feridolin-sw35-single-door-mini-washer",
+      "shortlink": "https://hosseinykala.ir/?p=4061"
+    },
+    {
+      "id": 4059,
+      "name": "اتوبخار سیماران مدل 8002 زرد",
+      "slug": "simaran-8002-steam-iron-yellow",
+      "shortlink": "https://hosseinykala.ir/?p=4059"
+    },
+    {
+      "id": 4055,
+      "name": "جاروبرقی سطلی 21 لیتری سران مدل آب و خاک",
+      "slug": "soran-21l-wet-dry-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4055"
+    },
+    {
+      "id": 4053,
+      "name": "اتوبخار ساپر کف سرامیک مدل 4035",
+      "slug": "saper-4035-ceramic-steam-iron",
+      "shortlink": "https://hosseinykala.ir/?p=4053"
+    },
+    {
+      "id": 4050,
+      "name": "اتوبخار ساپر کف سرامیک مدل 4025",
+      "slug": "saper-4025-ceramic-steam-iron",
+      "shortlink": "https://hosseinykala.ir/?p=4050"
+    },
+    {
+      "id": 4048,
+      "name": "لباسشویی دوقلو 17 کیلویی ریتون",
+      "slug": "reyton-17kg-twin-tub-washing-machine",
+      "shortlink": "https://hosseinykala.ir/?p=4048"
+    },
+    {
+      "id": 4046,
+      "name": "اتوبخار رانکو",
+      "slug": "runko-steam-iron",
+      "shortlink": "https://hosseinykala.ir/?p=4046"
+    },
+    {
+      "id": 4044,
+      "name": "جاروبرقی سطلی آراز 40 لیتر",
+      "slug": "araz-40l-bucket-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4044"
+    },
+    {
+      "id": 4042,
+      "name": "جاروبرقی سطلی کلور",
+      "slug": "clover-bucket-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=4042"
+    },
+    {
+      "id": 4037,
+      "name": "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما",
+      "slug": "pakshoma-twin-tub-semi-automatic-washing-machine",
+      "shortlink": "https://hosseinykala.ir/?p=4037"
+    },
+    {
+      "id": 4032,
+      "name": "ماشین لباسشویی 10 کیلوگرم اینورتر هیمالیا مدل تسلا پرو",
+      "slug": "himalia-tesla-pro-10kg-inverter-washing-machine",
+      "shortlink": "https://hosseinykala.ir/?p=4032"
+    },
+    {
+      "id": 4027,
+      "name": "یخچال و فریزر کمبی نیکسان مدل RF84102E2",
+      "slug": "niksan-rf84102e2-combi-refrigerator",
+      "shortlink": "https://hosseinykala.ir/?p=4027"
+    },
+    {
+      "id": 4024,
+      "name": "فریزر صندوقی تکنوسان مدل سفید بزرگ",
+      "slug": "technosan-large-chest-freezer-white",
+      "shortlink": "https://hosseinykala.ir/?p=4024"
+    },
+    {
+      "id": 4018,
+      "name": "مینی یخچال 10 فوت کلور مدل طرح دار فانتزی",
+      "slug": "clover-fantasy-patterned-10ft-mini-refrigerator",
+      "shortlink": "https://hosseinykala.ir/?p=4018"
+    },
+    {
+      "id": 4012,
+      "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو هوم بار",
+      "slug": "clover-rosso-homebar-70cm-twin-refrigerator",
+      "shortlink": "https://hosseinykala.ir/?p=4012"
+    },
+    {
+      "id": 4006,
+      "name": "یخچال و فریزر دوقلو کلور عرض 70 مدل روسو آبریزدار",
+      "slug": "clover-rosso-dispenser-70cm-twin-refrigerator",
+      "shortlink": "https://hosseinykala.ir/?p=4006"
+    },
+    {
+      "id": 3999,
+      "name": "یخچال و فریزر دوقلو 27 فوت کلور مدل اکونومی",
+      "slug": "clover-economy-27ft-twin-refrigerator",
+      "shortlink": "https://hosseinykala.ir/?p=3999"
+    },
+    {
+      "id": 3994,
+      "name": "یخچال و فریزر دوقلو هیمالیا مدل آیس پول 60MW",
+      "slug": "himalia-ice-pool-60mw-twin-refrigerator",
+      "shortlink": "https://hosseinykala.ir/?p=3994"
+    },
+    {
+      "id": 3990,
+      "name": "کتری برقی ساپر مدل 1031",
+      "slug": "saper-1031-electric-kettle",
+      "shortlink": "https://hosseinykala.ir/?p=3990"
+    },
+    {
+      "id": 3988,
+      "name": "همزن برقی کنوود مدل HM430",
+      "slug": "kenwood-hm430-hand-mixer",
+      "shortlink": "https://hosseinykala.ir/?p=3988"
+    },
+    {
+      "id": 3711,
+      "name": "آبمیوه‌گیری تک‌کاره ۸۰۰ وات دونالکس مدل DN-120",
+      "slug": "donalex-dn120-single-juicer",
+      "shortlink": "https://hosseinykala.ir/?p=3711"
+    },
+    {
+      "id": 3709,
+      "name": "پتوشور صنعتی و خانگی کد 40 تمام استیل پاکیزان",
+      "slug": "pakizan-40kg-heavy-duty-washer",
+      "shortlink": "https://hosseinykala.ir/?p=3709"
+    },
+    {
+      "id": 3707,
+      "name": "ماشین لباسشویی دوقلو ۲۱ کیلوگرم نیمه‌اتوماتیک پاکشوما مدل PWT-2154AJ",
+      "slug": "pakshoma-21kg-twin-tub-washer",
+      "shortlink": "https://hosseinykala.ir/?p=3707"
+    },
+    {
+      "id": 3681,
+      "name": "سماور برقی پیرکس ۳.۲ لیتری گرنویک مدل GST-883",
+      "slug": "gosonic-gst883-electric-samovar",
+      "shortlink": "https://hosseinykala.ir/?p=3681"
+    },
+    {
+      "id": 3679,
+      "name": "اسپرسوساز ۲۰ بار گرنویک مدل رترو آنالوگ",
+      "slug": "gronweg-retro-20bar-espresso-maker",
+      "shortlink": "https://hosseinykala.ir/?p=3679"
+    },
+    {
+      "id": 3673,
+      "name": "چای‌ساز تمام استیل کورکماز مدل A331 چای‌تما",
+      "slug": "korkmaz-a331-caytema-tea-maker",
+      "shortlink": "https://hosseinykala.ir/?p=3673"
+    },
+    {
+      "id": 3668,
+      "name": "کتری برقی ۱.۸ لیتری وگاتی مدل توپی",
+      "slug": "vogati-ball-electric-kettle",
+      "shortlink": "https://hosseinykala.ir/?p=3668"
+    },
+    {
+      "id": 3664,
+      "name": "کتری برقی رترو ۲۲۰۰ وات وستینگهاوس مدل WKKE210",
+      "slug": "westinghouse-wkke210-retro-kettle",
+      "shortlink": "https://hosseinykala.ir/?p=3664"
+    },
+    {
+      "id": 3662,
+      "name": "کتری و قوری روگازی هرمی ۵ لیتری کی اس تی مدل 604 استیل طلا",
+      "slug": "kst-604-pyramid-gold-kettle-teapot",
+      "shortlink": "https://hosseinykala.ir/?p=3662"
+    },
+    {
+      "id": 3660,
+      "name": "کتری برقی رترو ۱.۷ لیتری زامروتی مدل عقربه‌ای کرم",
+      "slug": "zamroti-retro-kettle-cream",
+      "shortlink": "https://hosseinykala.ir/?p=3660"
+    },
+    {
+      "id": 3657,
+      "name": "سماور برقی ۳ لیتری دیجیتال پیرکس زامروتی",
+      "slug": "zamroti-electric-samovar-tea-maker",
+      "shortlink": "https://hosseinykala.ir/?p=3657"
+    },
+    {
+      "id": 3655,
+      "name": "مخلوط‌کن رترو ۱.۵ لیتری ۶۰۰ وات زامروتی مدل 10038",
+      "slug": "zamroti-10038-cream-retro-blender",
+      "shortlink": "https://hosseinykala.ir/?p=3655"
+    },
+    {
+      "id": 3653,
+      "name": "کتری برقی استیل ۲۰۰۰ وات اریکسون مدل ۱.۸ لیتری",
+      "slug": "ericsson-1-8l-electric-kettle",
+      "shortlink": "https://hosseinykala.ir/?p=3653"
+    },
+    {
+      "id": 3647,
+      "name": "سرخ‌کن بدون روغن ۸ لیتری گرنویک مدل ProMar",
+      "slug": "gronweg-promar-8l-air-fryer",
+      "shortlink": "https://hosseinykala.ir/?p=3647"
+    },
+    {
+      "id": 3645,
+      "name": "همزن دستی ۳۵۰ وات رترو وستینگهاوس",
+      "slug": "westinghouse-retro-hand-mixer",
+      "shortlink": "https://hosseinykala.ir/?p=3645"
+    },
+    {
+      "id": 3640,
+      "name": "مخلوط‌کن رترو ۶۰۰ وات وستینگهاوس مدل WKBEB221",
+      "slug": "westinghouse-wkbeb221-retro-blender",
+      "shortlink": "https://hosseinykala.ir/?p=3640"
+    },
+    {
+      "id": 3637,
+      "name": "توستر نان ۲ شیار رترو وستینگهاوس",
+      "slug": "westinghouse-retro-2slice-toaster",
+      "shortlink": "https://hosseinykala.ir/?p=3637"
+    },
+    {
+      "id": 3631,
+      "name": "آون توستر ۶۰ لیتری کانوکشن نان دلمونتی مدل DN-580",
+      "slug": "delmonti-dn580-toaster-oven",
+      "shortlink": "https://hosseinykala.ir/?p=3631"
+    },
+    {
+      "id": 3629,
+      "name": "غذاساز حرفه‌ای ۱۳۰۰ وات فیلیپس مدل HR7778",
+      "slug": "philips-hr7778-food-processor",
+      "shortlink": "https://hosseinykala.ir/?p=3629"
+    },
+    {
+      "id": 3626,
+      "name": "آبمیوه‌گیری ۴ کاره دونالکس مدل DN-290",
+      "slug": "donalex-dn290-4in1-juicer",
+      "shortlink": "https://hosseinykala.ir/?p=3626"
+    },
+    {
+      "id": 3622,
+      "name": "همزن دستی ۴۰۰ وات توربو دونالکس مدل DN-355",
+      "slug": "donalex-dn355-hand-mixer",
+      "shortlink": "https://hosseinykala.ir/?p=3622"
+    },
+    {
+      "id": 3617,
+      "name": "ساندویچ‌ساز و گریل ۱۴۰۰ وات دونالکس مدل DN-940 سفید",
+      "slug": "donalex-dn940-sandwich-maker",
+      "shortlink": "https://hosseinykala.ir/?p=3617"
+    },
+    {
+      "id": 3612,
+      "name": "شیرجوش ۱۴ سانتی‌متر اویزپلاس مشکی",
+      "slug": "oviz-plus-14cm-granite-milk-pot",
+      "shortlink": "https://hosseinykala.ir/?p=3612"
+    },
+    {
+      "id": 3610,
+      "name": "سرویس قابلمه ۱۲ پارچه گرانیتی اویزپلاس مدل مشکی رزگلد",
+      "slug": "oviz-plus-black-12pcs-cookware-set",
+      "shortlink": "https://hosseinykala.ir/?p=3610"
+    },
+    {
+      "id": 3608,
+      "name": "سرویس قابلمه ۲۴ پارچه گرانیتی اویزپلاس مدل سبز لایف",
+      "slug": "oviz-plus-green-24pcs-cookware-set",
+      "shortlink": "https://hosseinykala.ir/?p=3608"
+    },
+    {
+      "id": 3606,
+      "name": "سرویس زودپز دوقلو ۵ و ۷ لیتری کلیپسی اویزپلاس مشکی رزگلد",
+      "slug": "oviz-plus-twin-clipso-pressure-cooker",
+      "shortlink": "https://hosseinykala.ir/?p=3606"
+    },
+    {
+      "id": 3602,
+      "name": "زودپز کلیپسی ۷ لیتری اویزپلاس مشکی رزگلد",
+      "slug": "oviz-plus-single-clipso-7l-pressure-cooker",
+      "shortlink": "https://hosseinykala.ir/?p=3602"
+    },
+    {
+      "id": 3596,
+      "name": "قابلمه گرانیتی مشکی اویز (سایزهای ۱۶ تا ۲۶)",
+      "slug": "oviz-black-granite-pots",
+      "shortlink": "https://hosseinykala.ir/?p=3596"
+    },
+    {
+      "id": 3592,
+      "name": "سرویس قابلمه ۱۰ پارچه خمره‌ای اویز مدل سلین کرم",
+      "slug": "oviz-celine-cream-10pcs-cookware-set",
+      "shortlink": "https://hosseinykala.ir/?p=3592"
+    },
+    {
+      "id": 3573,
+      "name": "ماشین لباسشویی ۱۰ کیلوگرم اینورتر کلور مدل دایرکت درایو کرم",
+      "slug": "clover-10kg-inverter-bldc-washer",
+      "shortlink": "https://hosseinykala.ir/?p=3573"
+    },
+    {
+      "id": 3563,
+      "name": "ماشین لباسشویی دوقلو ۱۵ کیلوگرم نیمه‌اتوماتیک پاکشوما",
+      "slug": "pakshoma-15kg-twin-tub-washer",
+      "shortlink": "https://hosseinykala.ir/?p=3563"
+    },
+    {
+      "id": 3557,
+      "name": "ماشین لباسشویی ۱۲ کیلوگرم درب از بالا اتوماتیک پاکشوما",
+      "slug": "pakshoma-12kg-top-loader-washer",
+      "shortlink": "https://hosseinykala.ir/?p=3557"
+    },
+    {
+      "id": 3551,
+      "name": "ماشین لباسشویی ۱۷ کیلوگرم دوقلو ریتون مدل دو موتوره",
+      "slug": "riton-17kg-twin-tub-washer",
+      "shortlink": "https://hosseinykala.ir/?p=3551"
+    },
+    {
+      "id": 3546,
+      "name": "ماشین ظرفشویی ۱۶ نفره کلور مدل لمسی استیل ۳ سبد",
+      "slug": "clover-16-person-touch-inox-dishwasher",
+      "shortlink": "https://hosseinykala.ir/?p=3546"
+    },
+    {
+      "id": 3540,
+      "name": "پنکه ایستاده ریموت‌دار سانی مدل DWS-2600",
+      "slug": "sunny-dws2600-standing-fan",
+      "shortlink": "https://hosseinykala.ir/?p=3540"
+    },
+    {
+      "id": 3534,
+      "name": "تلویزیون ال ای دی ۸۵ اینچ هوشمند 4K هاورسن مدل Ultra HD",
+      "slug": "haverson-85-inch-4k-smart-tv",
+      "shortlink": "https://hosseinykala.ir/?p=3534"
+    },
+    {
+      "id": 3531,
+      "name": "تلویزیون ال ای دی ۷۵ اینچ هوشمند 4K هاورسن مدل Cinema HDR",
+      "slug": "haverson-75-inch-4k-smart-tv",
+      "shortlink": "https://hosseinykala.ir/?p=3531"
+    },
+    {
+      "id": 3523,
+      "name": "تلویزیون ال ای دی ۶۵ اینچ هوشمند 4K هاورسن مدل Frameless IPS",
+      "slug": "haverson-65-inch-4k-smart-tv",
+      "shortlink": "https://hosseinykala.ir/?p=3523"
+    },
+    {
+      "id": 3520,
+      "name": "تلویزیون ال ای دی ۵۵ اینچ هوشمند 4K هاورسن مدل Smart Android",
+      "slug": "haverson-55-inch-4k-smart-tv",
+      "shortlink": "https://hosseinykala.ir/?p=3520"
+    },
+    {
+      "id": 3516,
+      "name": "تلویزیون ال ای دی ۳۲ اینچ هاورسن مدل HD",
+      "slug": "haverson-32-inch-hd-led-tv",
+      "shortlink": "https://hosseinykala.ir/?p=3516"
+    },
+    {
+      "id": 3513,
+      "name": "فریزر صندوقی الکتروسان مدل کم‌مصرف سوپر سایلنت",
+      "slug": "electrosan-345-chest-freezer",
+      "shortlink": "https://hosseinykala.ir/?p=3513"
+    },
+    {
+      "id": 3510,
+      "name": "جاروبرقی ۲۴۰۰ وات دونالکس مدل DN-750 سوپرسایلنت",
+      "slug": "donalex-dn750-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=3510"
+    },
+    {
+      "id": 3504,
+      "name": "دستگاه تصفیه آب خانگی ۶ مرحله‌ای هومگلد مدل RO",
+      "slug": "homegold-6stage-ro-water-purifier",
+      "shortlink": "https://hosseinykala.ir/?p=3504"
+    },
+    {
+      "id": 3500,
+      "name": "برس حرارتی صاف‌کننده مو پرومارون مدل 1113 تورمالین",
+      "slug": "promaron-1113-thermal-brush",
+      "shortlink": "https://hosseinykala.ir/?p=3500"
+    },
+    {
+      "id": 3494,
+      "name": "شیور و ماشین اصلاح ۵ کاره پرومارون مدل RL-614 ضدآب",
+      "slug": "promaron-rl614-shaver-grooming-kit",
+      "shortlink": "https://hosseinykala.ir/?p=3494"
+    },
+    {
+      "id": 3488,
+      "name": "اتومو باریک سرامیکی پرومارون مدل 1116",
+      "slug": "promaron-1116-hair-straightener",
+      "shortlink": "https://hosseinykala.ir/?p=3488"
+    },
+    {
+      "id": 3484,
+      "name": "اتومو کراتینه سرامیک تیتانیوم پرومارون مدل 1115",
+      "slug": "promaron-1115-hair-straightener",
+      "shortlink": "https://hosseinykala.ir/?p=3484"
+    },
+    {
+      "id": 3457,
+      "name": "چای ساز لمسی دونالکس مدل DN-185 شیشه ای پیرکس",
+      "slug": "donalex-dn185-tea-maker",
+      "shortlink": "https://hosseinykala.ir/?p=3457"
+    },
+    {
+      "id": 3453,
+      "name": "یخچال فریزر دوقلو 21 فوت الکترواستیل مدل فیوچر (Future)",
+      "slug": "electrosteel-future-twin-refrigerator-21ft",
+      "shortlink": "https://hosseinykala.ir/?p=3453"
+    },
+    {
+      "id": 3395,
+      "name": "یخچال و فریزر دوقلو 28 فوت هیمالیا مدل آلفا NF280a-NR440a",
+      "slug": "himalia-alpha-twin-refrigerator-28ft",
+      "shortlink": "https://hosseinykala.ir/?p=3395"
+    },
+    {
+      "id": 3389,
+      "name": "یخچال و فریزر 24 فوت بست مدل BRB241-10 نوفراست",
+      "slug": "bost-brb241-refrigerator-freezer",
+      "shortlink": "https://hosseinykala.ir/?p=3389"
+    },
+    {
+      "id": 3383,
+      "name": "اجاق گاز صفحه ای توکار ۵ شعله آلتون مدل S517N استیل",
+      "slug": "alton-s517n-gas-hob",
+      "shortlink": "https://hosseinykala.ir/?p=3383"
+    },
+    {
+      "id": 3380,
+      "name": "اجاق گاز ۵ شعله فردار آلتون مدل MD5S تمام استیل",
+      "slug": "alton-md5s-gas-stove",
+      "shortlink": "https://hosseinykala.ir/?p=3380"
+    },
+    {
+      "id": 3357,
+      "name": "سرویس پخت و پز 10 پارچه اویز مدل سلین گرانیتی",
+      "slug": "oviz-celine-10pcs-cookware-set",
+      "shortlink": "https://hosseinykala.ir/?p=3357"
+    },
+    {
+      "id": 3354,
+      "name": "سرویس پخت و پز ۱۰ پارچه تمام استیل دستی لوکس اینداکشن",
+      "slug": "stainless-steel-10pcs-cookware-set",
+      "shortlink": "https://hosseinykala.ir/?p=3354"
+    },
+    {
+      "id": 3318,
+      "name": "سرویس پخت و پز 11 پارچه اویز پلاس مدل ویولا گرانیتی",
+      "slug": "oviz-plus-viola-11pcs-cookware-set",
+      "shortlink": "https://hosseinykala.ir/?p=3318"
+    },
+    {
+      "id": 3312,
+      "name": "آبسردکن ایستاده نیکایی مدل NWD-1400R یخچال دار",
+      "slug": "nikai-nwd1400r-water-dispenser",
+      "shortlink": "https://hosseinykala.ir/?p=3312"
+    },
+    {
+      "id": 3305,
+      "name": "دستگاه تصفیه آب خانگی سی سی کا مدل RO-13",
+      "slug": "cck-ro13-water-purifier",
+      "shortlink": "https://hosseinykala.ir/?p=3305"
+    },
+    {
+      "id": 3301,
+      "name": "آبسردکن افترون مدل AFWD-5700",
+      "slug": "aftron-afwd5700-water-dispenser",
+      "shortlink": "https://hosseinykala.ir/?p=3301"
+    },
+    {
+      "id": 3285,
+      "name": "سشوار پرو امگا مدل 8805",
+      "slug": "omega-8805-hair-dryer",
+      "shortlink": "https://hosseinykala.ir/?p=3285"
+    },
+    {
+      "id": 3271,
+      "name": "اتو بخار فیلیپس مدل DST5040",
+      "slug": "philips-dst5040-steam-iron",
+      "shortlink": "https://hosseinykala.ir/?p=3271"
+    },
+    {
+      "id": 3266,
+      "name": "کولر گازی اسپلیت دیواری 18000 دور ثابت پاکشوما مدل TPA-18CH",
+      "slug": "pakshoma-18000-split-air-conditioner",
+      "shortlink": "https://hosseinykala.ir/?p=3266"
+    },
+    {
+      "id": 3065,
+      "name": "ماشین اصلاح موی سر و صورت پرو امگا مدل T7",
+      "slug": "pro-omega-t7-hair-clipper",
+      "shortlink": "https://hosseinykala.ir/?p=3065"
+    },
+    {
+      "id": 3056,
+      "name": "ماشین اصلاح موی سر و صورت پرو امگا مدل T5 با تیغه کربن استیل",
+      "slug": "pro-omega-t5-hair-clipper",
+      "shortlink": "https://hosseinykala.ir/?p=3056"
+    },
+    {
+      "id": 3049,
+      "name": "سشوار حرفه ای پرو امگا مدل 8806",
+      "slug": "pro-omega-8806-hair-dryer",
+      "shortlink": "https://hosseinykala.ir/?p=3049"
+    },
+    {
+      "id": 3035,
+      "name": "مخلوط کن و آسیاب کن 1.5 لیتری دونالکس مدل DN-205",
+      "slug": "donallex-dn-205-blender",
+      "shortlink": "https://hosseinykala.ir/?p=3035"
+    },
+    {
+      "id": 3032,
+      "name": "گوشت کوب برقی دونالکس مدل DN-275",
+      "slug": "donallex-dn-275-hand-blender",
+      "shortlink": "https://hosseinykala.ir/?p=3032"
+    },
+    {
+      "id": 3026,
+      "name": "سرخ‌کن 8 لیتر دونالکس مدل DN-950",
+      "slug": "donallex-dn-950-air-fryer-8l",
+      "shortlink": "https://hosseinykala.ir/?p=3026"
+    },
+    {
+      "id": 3019,
+      "name": "آبمیوه‌گیری ۴ کاره ۱۰۰۰ وات دونالکس مدل DN-120 چندکاره",
+      "slug": "donalex-dn120-4in1-juicer",
+      "shortlink": "https://hosseinykala.ir/?p=3019"
+    },
+    {
+      "id": 3016,
+      "name": "اسپرسو ساز ۱۸ میلی لیتر دونالکس مدل DN475",
+      "slug": "donallex-dn475-espresso-maker",
+      "shortlink": "https://hosseinykala.ir/?p=3016"
+    },
+    {
+      "id": 3013,
+      "name": "اسپرسو ساز ۱۲ میلی لیتر دونالکس مدلDN480",
+      "slug": "donallex-dn480-espresso-maker",
+      "shortlink": "https://hosseinykala.ir/?p=3013"
+    },
+    {
+      "id": 3007,
+      "name": "اتو بخار ۲۵۰۰ وات دونالکس مدل 815",
+      "slug": "donallex-815-steam-iron-2500w",
+      "shortlink": "https://hosseinykala.ir/?p=3007"
+    },
+    {
+      "id": 2885,
+      "name": "جاروبرقی بست مدل BVC-PC18B موتور ۱۴۰۰ وات (ضمانت انتخاب سرویس)",
+      "slug": "bost-bvc-pc18b-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=2885"
+    },
+    {
+      "id": 2871,
+      "name": "ماشین ظرفشویی 15 نفره کلور CDW-H15V",
+      "slug": "clover-cdw-h15v-dishwasher-15p",
+      "shortlink": "https://hosseinykala.ir/?p=2871"
+    },
+    {
+      "id": 2766,
+      "name": "دستگاه تصفیه کننده آب سافت واتر مدل IR-06",
+      "slug": "soft-water-ir-06-purifier",
+      "shortlink": "https://hosseinykala.ir/?p=2766"
+    },
+    {
+      "id": 2745,
+      "name": "یخچال فریزر دوقلو 34 فوت دیپوینت مدل MAX.DU _ مکس",
+      "slug": "depoint-max-du-twin-refrigerator-34ft",
+      "shortlink": "https://hosseinykala.ir/?p=2745"
+    },
+    {
+      "id": 2704,
+      "name": "یخچال 5 فوت ایستکول مدل 2835",
+      "slug": "eastcool-2835-refrigerator-5ft",
+      "shortlink": "https://hosseinykala.ir/?p=2704"
+    },
+    {
+      "id": 2691,
+      "name": "یخچال فریزر 9 فوت ایستکول مدل هتلی 2919، با ارتفاع 108، عمق 56 و پهنای 54 سانتی‌ متر، مصرف انرژی A، دارای 3 طبقه در یخچال و 1 طبقه در فریزر، دارای کندانسور مخفی",
+      "slug": "eastcool-2919-hotel-refrigerator-9ft",
+      "shortlink": "https://hosseinykala.ir/?p=2691"
+    },
+    {
+      "id": 2661,
+      "name": "جاروبرقی پاناسونیک مدل MC-CG715",
+      "slug": "panasonic-mc-cg715-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=2661"
+    },
+    {
+      "id": 2637,
+      "name": "یخچال و فریزر دوقلو 36 فوت کلور مدل RNT101-FNT101",
+      "slug": "clover-rnt101-fnt101-twin-refrigerator-36ft",
+      "shortlink": "https://hosseinykala.ir/?p=2637"
+    },
+    {
+      "id": 2594,
+      "name": "یخچال فریزر 30 فوت دیپوینت مدل Boss Pro",
+      "slug": "depoint-boss-pro-refrigerator-30ft",
+      "shortlink": "https://hosseinykala.ir/?p=2594"
+    },
+    {
+      "id": 2585,
+      "name": "یخچال و فریزر 28 فوت دیپوینت مدل T7، بدون برفک، با ارتفاع 184، پهنای 86 و عمق 73 سانتی‌متر، میزان مصرف انرژی A، دارای 4 طبقه در یخچال و 2 طبقه در فریزر، دارای سیستم نوفراست",
+      "slug": "depoint-t7-refrigerator-28ft",
+      "shortlink": "https://hosseinykala.ir/?p=2585"
+    },
+    {
+      "id": 2579,
+      "name": "ماشین لباسشویی هوشمند 9 کیلوگرم اتوماتیک دوو مدل LM-9170",
+      "slug": "daewoo-lm-9170-washing-machine-9kg",
+      "shortlink": "https://hosseinykala.ir/?p=2579"
+    },
+    {
+      "id": 2559,
+      "name": "کولر آبی سلولزی 7000 ریتون مدل VENTO 7000",
+      "slug": "reyton-vento-7000-air-cooler",
+      "shortlink": "https://hosseinykala.ir/?p=2559"
+    },
+    {
+      "id": 2538,
+      "name": "کولر آبی سلولزی پرتابل ۱۶۰۰۰ ریتون مدل VENTO (سرمایش فوق‌العاده)",
+      "slug": "reyton-vento-16000-portable-air-cooler",
+      "shortlink": "https://hosseinykala.ir/?p=2538"
+    },
+    {
+      "id": 2519,
+      "name": "جاروبرقی سطلی هیتاچی مدل CV-950F.",
+      "slug": "hitachi-cv-950f-vacuum-cleaner",
+      "shortlink": "https://hosseinykala.ir/?p=2519"
+    },
+    {
+      "id": 2510,
+      "name": "ماشین لباسشویی 8 کیلوگرم اتوماتیک کلور مدل تاچ سری BMW T3",
+      "slug": "clover-bmw-t3-washing-machine-8kg",
+      "shortlink": "https://hosseinykala.ir/?p=2510"
+    },
+    {
+      "id": 2505,
+      "name": "ماشین لباسشویی 9 کیلوگرم اتوماتیک کلور مدل BMWT2",
+      "slug": "clover-bmw-t2-washing-machine-9kg",
+      "shortlink": "https://hosseinykala.ir/?p=2505"
+    },
+    {
+      "id": 2497,
+      "name": "یخچال و فریزر 27 فوت کلور مدل كمبي فريزر پايين مدل 101",
+      "slug": "clover-frnt-comby-101",
+      "shortlink": "https://hosseinykala.ir/?p=2497"
+    },
+    {
+      "id": 2484,
+      "name": "یخچال و فریزر 27 فوت کلور مدل كمبي هوم بار روسو",
+      "slug": "clover-rosso-homebar-refrigerator-27ft",
+      "shortlink": "https://hosseinykala.ir/?p=2484"
+    },
+    {
+      "id": 2471,
+      "name": "یخچال فریزر دوقلو 40 فوت کلور مدل گلوری عرض 60",
+      "slug": "clover-glory-w60-twin-refrigerator-40ft",
+      "shortlink": "https://hosseinykala.ir/?p=2471"
+    },
+    {
+      "id": 2464,
+      "name": "یخچال فریزر دوقلو کلور مدل 54 فوت glory plus-lm70",
+      "slug": "clover-glory-plus-lm70-twin-refrigerator",
+      "shortlink": "https://hosseinykala.ir/?p=2464"
+    },
+    {
+      "id": 2457,
+      "name": "یخچال فریزر دوقلو 40 فوت کلور مدل روسو پلاس (Rosso Plus) عرض 60",
+      "slug": "clover-rosso-plus-w60-twin-refrigerator-40ft",
+      "shortlink": "https://hosseinykala.ir/?p=2457"
+    },
+    {
+      "id": 2431,
+      "name": "یخچال 10 فوت کلور مدل مینی هتلی (Mini Refrigerator)",
+      "slug": "clover-mini-refrigerator-10ft",
+      "shortlink": "https://hosseinykala.ir/?p=2431"
+    },
+    {
+      "id": 2408,
+      "name": "یخچال و فریزر 27 فوت کلور مدل FRNT101",
+      "slug": "clover-frnt101-refrigerator-27ft",
+      "shortlink": "https://hosseinykala.ir/?p=2408"
+    }
+  ]
+}

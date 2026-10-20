@@ -1,0 +1,47 @@
+[
+  {
+    "id": 55,
+    "name": "اخبار",
+    "slug": "%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1",
+    "url": "https://hosseinykala.ir/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/",
+    "parent": 0,
+    "count": 0,
+    "description": ""
+  },
+  {
+    "id": 56,
+    "name": "اطلاعیه",
+    "slug": "%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%db%8c%d9%87",
+    "url": "https://hosseinykala.ir/category/%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%db%8c%d9%87/",
+    "parent": 0,
+    "count": 0,
+    "description": ""
+  },
+  {
+    "id": 53,
+    "name": "ترفندها",
+    "slug": "%d8%aa%d8%b1%d9%81%d9%86%d8%af%d9%87%d8%a7",
+    "url": "https://hosseinykala.ir/category/%d8%aa%d8%b1%d9%81%d9%86%d8%af%d9%87%d8%a7/",
+    "parent": 0,
+    "count": 0,
+    "description": ""
+  },
+  {
+    "id": 52,
+    "name": "تکنولوژی",
+    "slug": "%d8%aa%da%a9%d9%86%d9%88%d9%84%d9%88%da%98%db%8c",
+    "url": "https://hosseinykala.ir/category/%d8%aa%da%a9%d9%86%d9%88%d9%84%d9%88%da%98%db%8c/",
+    "parent": 0,
+    "count": 1,
+    "description": ""
+  },
+  {
+    "id": 54,
+    "name": "راهنمای خرید",
+    "slug": "%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ae%d8%b1%db%8c%d8%af",
+    "url": "https://hosseinykala.ir/category/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ae%d8%b1%db%8c%d8%af/",
+    "parent": 0,
+    "count": 6,
+    "description": ""
+  }
+]

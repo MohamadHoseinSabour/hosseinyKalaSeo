@@ -1,0 +1,94 @@
+# ============================================================
+# 301 REDIRECT RULES FOR 46 GSC 404 URLs - HOSSEINY KALA
+# Add these rules to your .htaccess file above WordPress rules
+# ============================================================
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# --- 1. Fix ?product_cat=ID WooCommerce 404 Errors ---
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=157(?:&|$)
+RewriteRule ^$ /product-category/washing-cleaning/ماشین-لباسشویی/clover-washing-machines/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=154(?:&|$)
+RewriteRule ^$ /product-category/یخچال-فریزر/depoint-refrigerators/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=161(?:&|$)
+RewriteRule ^$ /product-category/washing-cleaning/جاروبرقی/panasonic-vacuum-cleaners/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=162(?:&|$)
+RewriteRule ^$ /product-category/washing-cleaning/جاروبرقی/hitachi-vacuum-cleaners/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=160(?:&|$)
+RewriteRule ^$ /product-category/washing-cleaning/جاروبرقی/bost-vacuum-cleaners/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=164(?:&|$)
+RewriteRule ^$ /product-category/تصفیه-کننده-آب/softwater-purifiers/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=159(?:&|$)
+RewriteRule ^$ /product-category/washing-cleaning/ماشین-ظرفشویی/clover-dishwashers/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=158(?:&|$)
+RewriteRule ^$ /product-category/washing-cleaning/ماشین-لباسشویی/daewoo-washing-machines/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=155(?:&|$)
+RewriteRule ^$ /product-category/یخچال-فریزر/eastcool-refrigerators/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=156(?:&|$)
+RewriteRule ^$ /product-category/یخچال-فریزر/electrosteel-refrigerators/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=153(?:&|$)
+RewriteRule ^$ /product-category/یخچال-فریزر/clover-refrigerators/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=163(?:&|$)
+RewriteRule ^$ /product-category/heating-cooling/کولر-آبی/rayton-water-coolers/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=93(?:&|$)
+RewriteRule ^$ /product-category/washing-cleaning/ماشین-لباسشویی/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=21(?:&|$)
+RewriteRule ^$ /product-category/washing-cleaning/جاروبرقی/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=97(?:&|$)
+RewriteRule ^$ /product-category/washing-cleaning/ماشین-ظرفشویی/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=96(?:&|$)
+RewriteRule ^$ /product-category/تصفیه-کننده-آب/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=95(?:&|$)
+RewriteRule ^$ /product-category/heating-cooling/کولر-آبی/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} (?:^|&)product_cat=92(?:&|$)
+RewriteRule ^$ /product-category/یخچال-فریزر/? [R=301,L]
+
+# --- 2. Fix Malformed / Relative Escape Bug URLs ---
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?shop/?/?$ /shop/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?$ / [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?علاقه-مندی-ها/?/?$ / [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?کولر-آبی-سلولزی-16000-ریتون-مدل-کولر-پرتابل/?/?$ /product/reyton-vento-16000-portable-air-cooler/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-و-فریزر-27-فوت-کلور-مدل-كمبي-فريزر-پ/?/?$ /product/clover-frnt-comby-101/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?ماشین-لباسشویی-8-کیلوگرم-اتوماتیک-کلور/?/?$ /product/clover-bmw-t3-washing-machine-8kg/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-و-فریزر-28-فوت-دیپوینت-مدل-t7،-بدون-بر/?/?$ /product/depoint-t7-refrigerator-28ft/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?کولر-آبی-سلولزی-7000-ریتون-مدل-vento-7000/?/?$ /product/reyton-vento-7000-air-cooler/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-فریزر-دوقلو-40-فوت-کلور-مدل-رسوپلا/?/?$ /product/clover-rosso-plus-w60-twin-refrigerator-40ft/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-فریزر-دوقلو-44-فوت-کلور-مدل-54-فوت-glory-plus-lm70/?/?$ /product/clover-glory-plus-lm70-twin-refrigerator/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-و-فریزر-27-فوت-کلور-مدل-كمبي-هوم-بار/?/?$ /product/clover-rosso-homebar-refrigerator-27ft/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-فریزر-دوقلو-40-فوت-کلور-مدل-گلوری-ع/?/?$ /product/clover-glory-w60-twin-refrigerator-40ft/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-فریزر-دوقلو-40-فوت-کلور-مدل-گلوری-پ/?/?$ /product/clover-glory-plus-54ft-twin-refrigerator/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-10-فوت-کلور-مدل-mini-refrigerator/?/?$ /product/clover-mini-refrigerator-10ft/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-و-فریزر-27-فوت-کلوِر-مدل-frnt101/?/?$ /product/clover-frnt101-refrigerator-27ft/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?جاروبرقی-سطلی-هیتاچی-مدل-cv-950f/?/?$ /product/hitachi-cv-950f-vacuum-cleaner/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?ماشین-لباسشویی-9-کیلوگرم-اتوماتیک-کلور/?/?$ /product/clover-bmw-t2-washing-machine-9kg/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-و-فریزر-دوقلو-36-فوت-کلوِر-مدل-rnt101-fnt101/?/?$ /product/clover-rnt101-fnt101-twin-refrigerator-36ft/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?یخچال-فریزر-30-فوت-دیپوینت-مدل-boss-pro/?/?$ /product/depoint-boss-pro-refrigerator-30ft/ [R=301,L]
+RewriteRule ^"?https:?/?/?hosseinykala\.ir/?/?product/?/?ماشین-لباسشویی-هوشمند-9-کیلوگرم-اتومات/?/?$ /product/daewoo-lm-9170-washing-machine-9kg/ [R=301,L]
+
+# --- 3. Fix Deleted Category (اصلاح موی صورت) ---
+RewriteRule ^product-category/اصلاح-موی-صورت/?.*$ /product-category/اصلاح-و-زیبایی/اصلاح-موی-سر/? [R=301,L]
+
+# --- 4. Fix Crawler Wildcard Artifacts ---
+RewriteRule ^wp-content/uploads/\*$ / [R=301,L]
+RewriteRule ^wp-content/\*$ / [R=301,L]
+RewriteRule ^wp-\*\.php$ / [R=301,L]
+RewriteRule ^\*$ / [R=301,L]
+</IfModule>

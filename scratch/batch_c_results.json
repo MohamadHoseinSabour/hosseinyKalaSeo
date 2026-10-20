@@ -1,0 +1,313 @@
+[
+  {
+    "target": {
+      "category": "cooking_appliances",
+      "slug": "parskhazar-rc361-rice-cooker",
+      "target_name": "پلوپز پارس خزر مدل 361",
+      "dk_query": "پلوپز پارس خزر 361",
+      "torob_query": "پلوپز پارس خزر 361",
+      "sig_code": "361"
+    },
+    "matched_count": 0,
+    "candidates": []
+  },
+  {
+    "target": {
+      "category": "cooking_appliances",
+      "slug": "alton-sg518-gas-hob",
+      "target_name": "گاز صفحه ای استیل آلتون مدل SG518",
+      "dk_query": "گاز صفحه ای آلتون SG518",
+      "torob_query": "گاز صفحه ای آلتون SG518",
+      "sig_code": "518"
+    },
+    "matched_count": 0,
+    "candidates": []
+  },
+  {
+    "target": {
+      "category": "cooking_appliances",
+      "slug": "alton-h312-hood",
+      "target_name": "هود آشپزخانه آلتون مدل H312",
+      "dk_query": "هود مخفی آلتون H312",
+      "torob_query": "هود آلتون H312",
+      "sig_code": "312"
+    },
+    "matched_count": 0,
+    "candidates": []
+  },
+  {
+    "target": {
+      "category": "cooking_appliances",
+      "slug": "alton-h315b-hood",
+      "target_name": "هود آشپزخانه آلتون مدل H315B",
+      "dk_query": "هود مخفی آلتون H315B",
+      "torob_query": "هود آلتون H315B",
+      "sig_code": "315"
+    },
+    "matched_count": 0,
+    "candidates": []
+  },
+  {
+    "target": {
+      "category": "washing_and_cleaning",
+      "slug": "pakshoma-21kg-twin-tub-washer",
+      "target_name": "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما 21 کیلوگرم",
+      "dk_query": "لباسشویی دوقلو پاکشوما 21",
+      "torob_query": "لباسشویی دوقلو پاکشوما 21",
+      "sig_code": "21"
+    },
+    "matched_count": 0,
+    "candidates": []
+  },
+  {
+    "target": {
+      "category": "washing_and_cleaning",
+      "slug": "pakshoma-9kg-twin-tub-washer",
+      "target_name": "ماشین لباسشویی دوقلو نیمه اتوماتیک پاکشوما 9 کیلوگرم",
+      "dk_query": "لباسشویی دوقلو پاکشوما 9",
+      "torob_query": "لباسشویی دوقلو پاکشوما 9",
+      "sig_code": "9"
+    },
+    "matched_count": 15,
+    "candidates": [
+      {
+        "type": "dk_gallery_1",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل U-9",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery1.jpg",
+        "dimensions": "1024x1024",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/6081c696f82981c2a11312979156822681b618b6_1788622798.jpg"
+      },
+      {
+        "type": "dk_gallery_2",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل U-9",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery2.jpg",
+        "dimensions": "1001x1001",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/d882c25a0d19fef83c12e851bdbe17b9eda6dd94_1780592669.jpg"
+      },
+      {
+        "type": "dk_gallery_3",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل U-9",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery3.jpg",
+        "dimensions": "2500x2500",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/67da5b352db6ded5f54bc09e72c2e89b9e3e5812_1755772060.jpg"
+      },
+      {
+        "type": "dk_gallery_4",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل U-9",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery4.jpg",
+        "dimensions": "2500x2500",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/70c865830a325e4af355570d40aef7601cd690bb_1765300550.jpg"
+      },
+      {
+        "type": "digikala_main",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل U-9",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_cand1.jpg",
+        "dimensions": "1024x1024",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/ad7ce9a82592285df41f74cb21c67c17c5db57ac_1787422395.jpg"
+      },
+      {
+        "type": "dk_gallery_1",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 W",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery1.jpg",
+        "dimensions": "1001x1001",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/ad2cd44cb322635c662d342022afc8a19de0f790_1780314921.jpg"
+      },
+      {
+        "type": "dk_gallery_2",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 W",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery2.jpg",
+        "dimensions": "1001x1001",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/a379e88b258e53ecdd518a2086754bdc637e366e_1764342664.jpg"
+      },
+      {
+        "type": "dk_gallery_3",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 W",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery3.jpg",
+        "dimensions": "2500x2500",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/118d93de57dbd223d7a5baa6525d20989e647624_1765300552.jpg"
+      },
+      {
+        "type": "dk_gallery_4",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 W",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery4.jpg",
+        "dimensions": "2500x2500",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/46983d1de41994557a1a4af14d799a02fe54c22c_1765299887.jpg"
+      },
+      {
+        "type": "digikala_main",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 W",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_cand2.jpg",
+        "dimensions": "1024x1024",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/831d95d95681d38cf1f227812799063346bf2fc7_1787422397.jpg"
+      },
+      {
+        "type": "dk_gallery_1",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 X",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery1.jpg",
+        "dimensions": "1024x1024",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/ca109c62cbb67ed62db5c167b5f101092cc5b2c1_1788622799.jpg"
+      },
+      {
+        "type": "dk_gallery_2",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 X",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery2.jpg",
+        "dimensions": "1001x1001",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/f09394f4e12ecca3fcfefa72a734e2e24a527ad8_1780314787.jpg"
+      },
+      {
+        "type": "dk_gallery_3",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 X",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery3.jpg",
+        "dimensions": "1000x1000",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/0357ea261f77ed5682ee7368982a051fa213d6ff_1750060762.jpg"
+      },
+      {
+        "type": "dk_gallery_4",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 X",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_gallery4.jpg",
+        "dimensions": "1001x1001",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/c5c240ea34c6f34d348401c1f2078a1b4b676df4_1764354850.jpg"
+      },
+      {
+        "type": "digikala_main",
+        "title": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل Q9 X",
+        "path": "scratch\\candidates_batch_c\\pakshoma-9kg-twin-tub-washer_cand3.jpg",
+        "dimensions": "1024x1024",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/611fa75e7bded3ad5ecdd4591d63a6190d1a4b14_1787422397.jpg"
+      }
+    ]
+  },
+  {
+    "target": {
+      "category": "washing_and_cleaning",
+      "slug": "simaran-ssi8002-iron",
+      "target_name": "اتوبخار سیماران مدل 8002 زرد",
+      "dk_query": "اتوبخار سیماران 8002",
+      "torob_query": "اتو بخار سیماران 8002",
+      "sig_code": "8002"
+    },
+    "matched_count": 0,
+    "candidates": []
+  },
+  {
+    "target": {
+      "category": "beverage_makers",
+      "slug": "saper-seb1031-kettle",
+      "target_name": "کتری برقی ساپر مدل 1031",
+      "dk_query": "کتری برقی ساپر 1031",
+      "torob_query": "کتری برقی ساپر 1031",
+      "sig_code": "1031"
+    },
+    "matched_count": 0,
+    "candidates": []
+  },
+  {
+    "target": {
+      "category": "beverage_makers",
+      "slug": "kenwood-hm430-hand-mixer",
+      "target_name": "همزن برقی کنوود مدل HM430",
+      "dk_query": "همزن کنوود HM430",
+      "torob_query": "همزن کنوود HM430",
+      "sig_code": "430"
+    },
+    "matched_count": 12,
+    "candidates": [
+      {
+        "type": "dk_gallery_1",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_gallery1.jpg",
+        "dimensions": "689x689",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/53f6fb229e715f3b76ea2721986e2edfc9ba4fe3_1607206062.jpg"
+      },
+      {
+        "type": "dk_gallery_2",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_gallery2.jpg",
+        "dimensions": "677x677",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/31e6a2c358e014b012bc74a5add209c7468fac51_1607206063.jpg"
+      },
+      {
+        "type": "dk_gallery_3",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_gallery3.jpg",
+        "dimensions": "700x700",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/13778f0c992206b545a40df624a9037c499b447c_1607204694.jpg"
+      },
+      {
+        "type": "dk_gallery_4",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_gallery4.jpg",
+        "dimensions": "700x700",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/183e4943bc5bc10a62a32ffd2129c5bfbfbb9fa2_1607204706.jpg"
+      },
+      {
+        "type": "digikala_main",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_cand1.jpg",
+        "dimensions": "698x698",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/a291c9f165c618c220100c94ec347cee8effea0d_1607365264.jpg"
+      },
+      {
+        "type": "dk_gallery_1",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_gallery1.jpg",
+        "dimensions": "1000x1000",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/9e1259f2c852376530f8a15dda49f1ce138f5bb2_1744804590.jpg"
+      },
+      {
+        "type": "digikala_main",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_cand2.jpg",
+        "dimensions": "1280x1280",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/1516382.jpg"
+      },
+      {
+        "type": "dk_gallery_1",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_gallery1.jpg",
+        "dimensions": "725x725",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/ceef2a4fdc49d5099c97e1461d572275beeba5fc_1744812711.jpg"
+      },
+      {
+        "type": "dk_gallery_2",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_gallery2.jpg",
+        "dimensions": "720x720",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/ccf6782d00db9784d31efa169ea2bd0c195e2e65_1744809742.jpg"
+      },
+      {
+        "type": "dk_gallery_3",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_gallery3.jpg",
+        "dimensions": "1000x1000",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/9e1259f2c852376530f8a15dda49f1ce138f5bb2_1744806627.jpg"
+      },
+      {
+        "type": "dk_gallery_4",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_gallery4.jpg",
+        "dimensions": "2500x2500",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/0c6aee40544e067cc98c37e79dedacfc274da740_1744803325.jpg"
+      },
+      {
+        "type": "digikala_main",
+        "title": "همزن کنوود مدل HM430",
+        "path": "scratch\\candidates_batch_c\\kenwood-hm430-hand-mixer_cand3.jpg",
+        "dimensions": "1280x1280",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/87df652f3337c9e5d54577d61852c49a870a26d0_1598445914.jpg"
+      }
+    ]
+  },
+  {
+    "target": {
+      "category": "beverage_makers",
+      "slug": "castello-cpg470-grinder",
+      "target_name": "آسیاب برقی کاستلو مدل 470",
+      "dk_query": "آسیاب کاستلو 470",
+      "torob_query": "آسیاب کاستلو 470",
+      "sig_code": "470"
+    },
+    "matched_count": 0,
+    "candidates": []
+  }
+]

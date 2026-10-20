@@ -1,0 +1,3068 @@
+[
+  {
+    "id": 3712,
+    "title": {
+      "rendered": "آبمیوه گیری"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a2%d8%a8%d9%85%db%8c%d9%88%d9%87-%da%af%db%8c%d8%b1%db%8c/",
+    "attr_title": "",
+    "description": "تهیه آبمیوه طبیعی و تازه در خانه، انرژی و شادابی روزانه را تضمین می‌کند. آبمیوه‌گیری‌های پرقدرت با تیغه‌های استیل ضد زنگ و دهانه عریض، گرفتن عصاره انواع میوه‌ها را بسیار سریع و لذت‌بخش می‌سازند. ویژگی‌های آبمیوه‌گیری دونالکس در حسینی کالا محصول آبمیوه‌گیری 1000 وات دونالکس مدل DN-120 با موتور پرقدرت ۱۰۰۰ وات، بدنه استیل مقاوم، دو سرعت تنظیم و صافی میکروسکوپی، بیشترین میزان عصاره‌گیری را بدون هدر رفت میوه ارائه می‌دهد. ارسال سریع و ضمانت اصالت کالا از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 120,
+    "parent": 0,
+    "menu_order": 1,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3712",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3712"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/120"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3713,
+    "title": {
+      "rendered": "آبمیوه گیری دونالکس"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a2%d8%a8%d9%85%db%8c%d9%88%d9%87-%da%af%db%8c%d8%b1%db%8c/donallex-juicers/",
+    "attr_title": "",
+    "description": "خرید آبمیوه گیری ۴ کاره و تک کاره دونالکس (Donallex) با قدرت ۱۰۰۰ وات و تیغه‌های تیتانیومی از فروشگاه لوازم خانگی حسینی. دونالکس برندی مدرن در تولید لوازم آشپزخانه است. امکانات آبمیوه‌گیری دونالکس دهانه عریض ورود میوه کامل، صافی استیل ضدزنگ و پارچ مجزا. ثبت سفارش از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 165,
+    "parent": 3712,
+    "menu_order": 2,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3713",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3713"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/165"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3714,
+    "title": {
+      "rendered": "اتو"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a7%d8%aa%d9%88/",
+    "attr_title": "",
+    "description": "آراستگی لباس‌ها در جلسات کاری و مهمانی‌ها نشان‌دهنده نظم و ظاهر حرفه‌ای شماست. یک اتو بخار پرقدرت با کفی سرامیکی روان، سرسخت‌ترین چروک‌های پارچه را بدون آسیب به بافت لباس صاف می‌کند. معرفی اتو بخار دونالکس مدل 815 دستگاه اتو بخار ۲۵۰۰ وات دونالکس مدل 815 با توان ۲۵۰۰ وات، کفی سرامیکی ضد خط و خش، بخاردهی عمودی و سیستم ضد رسوب و ضد چکه، اتوکشی بسیار سریع و آسانی را ممکن می‌سازد. خرید آنلاین با بهترین قیمت از فروشگاه لوازم خانگی حسینی اهواز.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 118,
+    "parent": 0,
+    "menu_order": 3,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3714",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3714"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/118"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3715,
+    "title": {
+      "rendered": "اتو بخار دونالکس"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a7%d8%aa%d9%88/donallex-irons/",
+    "attr_title": "",
+    "description": "خرید اتو بخار ۲۵۰۰ وات دونالکس (Donallex) با کف سرامیکی و بخاردهی عمودی از فروشگاه لوازم خانگی حسینی. چین‌زدایی سریع از انواع پارچه‌های ضخیم و حساس. ویژگی اتو بخار دونالکس سیستم ضد چکه، ضد رسوب خودکار و طراحی ارگونومیک. سفارش با مناسب‌ترین قیمت از فروشگاه لوازم خانگی حسینی در اهواز.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 166,
+    "parent": 3714,
+    "menu_order": 4,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3715",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3715"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/166"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3716,
+    "title": {
+      "rendered": "اجاق گاز"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a7%d8%ac%d8%a7%d9%82-%da%af%d8%a7%d8%b2/",
+    "attr_title": "",
+    "description": "",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 209,
+    "parent": 0,
+    "menu_order": 5,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3716",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3716"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/209"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3738,
+    "title": {
+      "rendered": "گاز صفحه ای"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%da%af%d8%a7%d8%b2-%d8%b5%d9%81%d8%ad%d9%87-%d8%a7%db%8c/",
+    "attr_title": "",
+    "description": "",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 210,
+    "parent": 3716,
+    "menu_order": 6,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3738",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3738"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/210"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3717,
+    "title": {
+      "rendered": "اسپرسو ساز"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a7%d8%b3%d9%be%d8%b1%d8%b3%d9%88-%d8%b3%d8%a7%d8%b2/",
+    "attr_title": "",
+    "description": "عطر و طعم یک اسپرسوی غلیظ با کرمای باکیفیت در شروع روز، انرژی مضاعفی به شما می‌بخشد. اسپرسوسازهای خانگی با فشار نازل استاندارد، امکان تهیه انواع قهوه مانند اسپرسو، کاپوچینو و لاته را در خانه فراهم می‌کنند. بررسی مدل‌های اسپرسوساز دونالکس در حسینی کالا مدل‌های اسپرسو ساز ۱۸ میلی لیتر دونالکس مدل DN475 و اسپرسو ساز ۱۲ میلی لیتر دونالکس مدل DN480 با فشار نازل پرقدرت، نازل بخار جهت فوم‌گیری شیر و سینی چکه گیر، گزینه‌هایی عالی برای علاقه‌مندان به قهوه هستند. ثبت سفارش مطمئن در فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 119,
+    "parent": 0,
+    "menu_order": 7,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3717",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3717"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/119"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3718,
+    "title": {
+      "rendered": "اسپرسو ساز دونالکس"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a7%d8%b3%d9%be%d8%b1%d8%b3%d9%88-%d8%b3%d8%a7%d8%b2/donallex-espresso-makers/",
+    "attr_title": "",
+    "description": "خرید دستگاه اسپرسو ساز و کاپوچینوساز دونالکس (Donallex) با فشار نازل ۲۰ بار و توان بالا در فروشگاه لوازم خانگی حسینی. تجربه‌ای شبیه به کافه‌های حرفه‌ای در منزل. مشخصات اسپرسوساز دونالکس پمپ ایتالیایی، نازل بخار برای فوم شیر و بدنه استیل. تهیه از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 167,
+    "parent": 3717,
+    "menu_order": 8,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3718",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3718"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/167"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3721,
+    "title": {
+      "rendered": "اصلاح و زیبایی"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%88-%d8%b2%db%8c%d8%a8%d8%a7%db%8c%db%8c/",
+    "attr_title": "",
+    "description": "",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 212,
+    "parent": 0,
+    "menu_order": 9,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3721",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3721"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/212"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3719,
+    "title": {
+      "rendered": "اصلاح موی سر و صورت"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%85%d9%88%db%8c-%d8%b3%d8%b1/",
+    "attr_title": "",
+    "description": "کوتاه کردن و اصلاح دقیق موی سر نیازمند ماشین اصلاحی با تیغه‌های تیز، موتور پرقدرت و باتری باکیفیت است تا اصلاحی تمیز و روان داشته باشید. ماشین اصلاح موی سر پرو امگا مدل T7 محصول ماشین اصلاح موی سر و صورت پرو امگا مدل T7 با تیغه‌های مقاوم، شارژدهی طولانی باتری لیتیومی و اهرم تنظیم طول اهرم برش، گزینه‌ای حرفه‌ای برای استفاده خانگی و سالنی است. ضمانت اصالت و ارسال سریع از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 126,
+    "parent": 3721,
+    "menu_order": 10,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3719",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3719"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/126"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3720,
+    "title": {
+      "rendered": "ماشین اصلاح سر پرو امگا"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%85%d9%88%db%8c-%d8%b3%d8%b1/pro-omega-hair-clippers/",
+    "attr_title": "",
+    "description": "خرید ماشین اصلاح موی سر حرفه‌ای پرو امگا (Pro Omega) مدل‌های T7 و T5 با خط‌زنی فوق‌العاده و باتری لیتیومی از فروشگاه لوازم خانگی حسینی. مزایای ماشین اصلاح پرو امگا تیغه‌های خودتيزشونده، شارژدهی طولانی و نمایشگر دیجیتال. سفارش از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 171,
+    "parent": 3719,
+    "menu_order": 11,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3720",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3720"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/171"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3722,
+    "title": {
+      "rendered": "تصفیه کننده آب"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%aa%d8%b5%d9%81%db%8c%d9%87-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%a2%d8%a8/",
+    "attr_title": "",
+    "description": "دسترسی به آب شرب گوارا، زلال و بدون املاح مضر یا نیترات، ضامن سلامت طولانی‌مدت خانواده شماست. دستگاه‌های تصفیه آب خانگی مبتنی بر تکنولوژی اسمز معکوس (RO)، سختی آب شهری را کاملاً استاندارد می‌کنند. معرفی دستگاه تصفیه آب سافت واتر در حسینی کالا محصول دستگاه تصفیه کننده آب سافت واتر مدل IR-06 با فیلتر ممبران ۱۳ لایه، مخزن ۴ گالنی و ۶ مرحله فیلتراسیون کامل، تمام ناخالصی‌ها و فلزات سنگین را از بین می‌برد. برای سفارش تصفیه آب خانگی با ضمانت اصالت به فروشگاه لوازم خانگی حسینی مراجعه کنید.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 96,
+    "parent": 0,
+    "menu_order": 12,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3722",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3722"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/96"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3723,
+    "title": {
+      "rendered": "تصفیه آب سافت واتر"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%aa%d8%b5%d9%81%db%8c%d9%87-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%a2%d8%a8/softwater-purifiers/",
+    "attr_title": "",
+    "description": "خرید دستگاه تصفیه کننده آب خانگی سافت واتر (Soft Water) ۶ و ۷ مرحله‌ای با اسمز معکوس (RO) از فروشگاه لوازم خانگی حسینی. حذف کامل املاح مضر، سنگینی آب و کلر جهت دسترسی به آب شرب سالم. چرا تصفیه آب سافت واتر در اهواز؟ با توجه به کیفیت آب آشامیدنی، دستگاه سافت واتر با فیلترهای استاندارد غذایی سلامتی خانواده را تضمین می‌کند. خرید با نصب و گارانتی از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 164,
+    "parent": 3722,
+    "menu_order": 13,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3723",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3723"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/164"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3724,
+    "title": {
+      "rendered": "جاروبرقی"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%ac%d8%a7%d8%b1%d9%88%d8%a8%d8%b1%d9%82%db%8c/",
+    "attr_title": "",
+    "description": "نظافت عمیق و سریع خانه نیازمند جاروبرقی پرقدرتی است که کوچک‌ترین ذرات گرد و غبار را مهار کرده و هوایی پاکیزه تحویل دهد. در حسینی کالا، بهترین جاروبرقی‌های کیسه‌ای و سطلی با فیلترهای ضد حساسیت HEPA از برندهای بست، پاناسونیک و هیتاچی عرضه می‌شوند. معرفی برترین جاروبرقی‌های موجود در حسینی کالا اگر به دنبال گزینه‌ای مقرون‌به‌صرفه هستید، جاروبرقی بست مدل BVC-PC18B با موتور ۱۴۰۰ وات عالی است. برای قابلیت دمنده و فیلتر HEPA، جاروبرقی پاناسونیک مدل MC-CG715 انتخابی حرفه‌ای است. همچنین برای سالن‌های بزرگ، جاروبرقی سطلی هیتاچی مدل CV-950F با مخزن ۱۸ لیتری بی‌نظیر است. خریدی آسان با تضمین بهترین قیمت از فروشگاه لوازم خانگی حسینی اهواز.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 21,
+    "parent": 0,
+    "menu_order": 14,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3724",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3724"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/21"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3725,
+    "title": {
+      "rendered": "جاروبرقی بست"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%ac%d8%a7%d8%b1%d9%88%d8%a8%d8%b1%d9%82%db%8c/bost-vacuum-cleaners/",
+    "attr_title": "",
+    "description": "خرید جاروبرقی بست (Bost) مدل‌های کیسه‌دار با قدرت مکش بالا و گارانتی شرکتی از فروشگاه لوازم خانگی حسینی. بست برند اقتصادی و باکیفیت ایرانی در تولید لوازم برقی خانه است. مشخصات جاروبرقی بست موتور قدرتمند ۱۸۰۰ تا ۲۲۰۰ وات، فیلتر بهداشتی HEPA و سیم‌جمع‌کن خودکار از ویژگی‌های جاروبرقی بست است. ثبت سفارش در اهواز و سراسر کشور از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 160,
+    "parent": 3724,
+    "menu_order": 15,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3725",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3725"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/160"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3726,
+    "title": {
+      "rendered": "جاروبرقی پاناسونیک"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%ac%d8%a7%d8%b1%d9%88%d8%a8%d8%b1%d9%82%db%8c/panasonic-vacuum-cleaners/",
+    "attr_title": "",
+    "description": "خرید جاروبرقی ژاپنی پاناسونیک (Panasonic) اصل با گارانتی معتبر در فروشگاه لوازم خانگی حسینی. مکش فوق‌العاده، لوله تلسکوپی جادویی و فیلتر ضد حساسیت از ویژگی‌های جاروبرقی‌های پاناسونیک است. بررسی جاروبرقی پاناسونیک پاناسونیک با موتورهای بسیار باکیفیت ساخت ژاپن و مالزی، دوام سال‌ها شستشو و تمیزی منزل را تضمین می‌کند. خرید از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 161,
+    "parent": 3724,
+    "menu_order": 16,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3726",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3726"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/161"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3727,
+    "title": {
+      "rendered": "جاروبرقی هیتاچی"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%ac%d8%a7%d8%b1%d9%88%d8%a8%d8%b1%d9%82%db%8c/hitachi-vacuum-cleaners/",
+    "attr_title": "",
+    "description": "خرید جاروبرقی سطلی هیتاچی (Hitachi) با مخزن بزرگ و قدرت مکش عالی در فروشگاه لوازم خانگی حسینی. مناسب برای منازل بزرگ، مساجد و سالن‌ها. مزایای جاروبرقی سطلی هیتاچی بدنه فلزی مقاوم، قابلیت فوت‌کردن (دمنده) و تخلیه آسان مخزن. ثبت سفارش با بهترین قیمت در اهواز از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 162,
+    "parent": 3724,
+    "menu_order": 17,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3727",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3727"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/162"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3728,
+    "title": {
+      "rendered": "چای ساز"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%da%86%d8%a7%db%8c-%d8%b3%d8%a7%d8%b2/",
+    "attr_title": "",
+    "description": "",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 211,
+    "parent": 0,
+    "menu_order": 18,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3728",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3728"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/211"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3729,
+    "title": {
+      "rendered": "سرخ کن"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%b3%d8%b1%d8%ae-%da%a9%d9%86/",
+    "attr_title": "",
+    "description": "پخت غذاهای برشته و خوشمزه با حداقل مصرف روغن، راز سلامتی در آشپزی مدرن است. سرخ‌کن‌های بدون روغن (Air Fryer) با گردش هوای داغ، غذاهایی ترد و کم‌کالری آماده می‌سازند. سرخ‌کن بدون روغن 8 لیتری دونالکس محصول سرخ‌کن 8 لیتر دونالکس مدل DN-950 با گنجایش ۸ لیتری عالی برای خانواده، کاهش تا ۸۰٪ مصرف روغن و برنامه‌های پخت پیش‌فرض لمسی، گزینه‌ای فوق‌العاده برای آشپزخانه شماست. سفارش آنلاین با تحویل سریع از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 121,
+    "parent": 0,
+    "menu_order": 19,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3729",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3729"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/121"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3730,
+    "title": {
+      "rendered": "سرخ کن دونالکس"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%b3%d8%b1%d8%ae-%da%a9%d9%86/donallex-air-fryers/",
+    "attr_title": "",
+    "description": "خرید سرخ کن بدون روغن (ایرفرایر) ۸ متری دونالکس (Donallex) با پخت سالم و رژیمی از فروشگاه لوازم خانگی حسینی. پخت انواع غذا با کاهش ۹۰ درصدی مصرف روغن. ویژگی‌های سرخ‌کن دونالکس صفحه لمسی دیجیتال، سبد غیرچسبنده قابل شستشو و برنامه‌های پخت پیش‌فرض. سفارش آنلاین از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 168,
+    "parent": 3729,
+    "menu_order": 20,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3730",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3730"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/168"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3731,
+    "title": {
+      "rendered": "سشوار"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%b3%d8%b4%d9%88%d8%a7%d8%b1/",
+    "attr_title": "",
+    "description": "خشک کردن سریع موها و حالت‌دهی حرفه‌ای بدون آسیب حرارتی به ساقه مو، نیازمند سشواری با موتور پرقدرت و فناوری تولید یون منفی است. سشوار حرفه‌ای پرو امگا مدل 8806 دستگاه سشوار حرفه ای پرو امگا مدل 8806 با موتور پرقدرت AC سالنی، فناوری آیونیک جهت جلوگیری از وز شدن مو و تنظیمات چندگانه دما و سرعت، درخشش را به موهای شما برمی‌گرداند. خرید با ضمانت اصالت کالا از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 124,
+    "parent": 0,
+    "menu_order": 21,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3731",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3731"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/124"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3732,
+    "title": {
+      "rendered": "سشوار پرو امگا"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%b3%d8%b4%d9%88%d8%a7%d8%b1/pro-omega-hair-dryers/",
+    "attr_title": "",
+    "description": "خرید سشوار حرفه‌ای موتور AC پرو امگا (Pro Omega) مدل ۸۸۰۶ با قدرت بالای خشک‌کنندگی و تولید یون منفی از فروشگاه لوازم خانگی حسینی. امکانات سشوار پرو امگا پرتاب باد عالی، سری‌های متمرکزکننده و دکمه باد سرد سریع. خرید با گارانتی اصالت از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 174,
+    "parent": 3731,
+    "menu_order": 22,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3732",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3732"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/174"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3733,
+    "title": {
+      "rendered": "صوتی، تصویری و گرمایشی"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%b5%d9%88%d8%aa%db%8c%d8%8c-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c-%d9%88-%da%af%d8%b1%d9%85%d8%a7%db%8c%d8%b4%db%8c/",
+    "attr_title": "",
+    "description": "",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 214,
+    "parent": 0,
+    "menu_order": 23,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3733",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3733"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/214"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3734,
+    "title": {
+      "rendered": "ظروف و پخت و پز"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d8%b8%d8%b1%d9%88%d9%81-%d9%88-%d9%be%d8%ae%d8%aa-%d9%88-%d9%be%d8%b2/",
+    "attr_title": "",
+    "description": "",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 215,
+    "parent": 0,
+    "menu_order": 24,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3734",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3734"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/215"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3735,
+    "title": {
+      "rendered": "کولر آبی"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%da%a9%d9%88%d9%84%d8%b1-%d8%a2%d8%a8%db%8c/",
+    "attr_title": "",
+    "description": "با فرارسیدن فصول گرم، داشتن یک کولر آبی پرتابل سلولزی با سرمایش بالا و بدون نیاز به کانال‌کشی، بهترین راهکار برای خنک‌سازی سریع منزل یا فروشگاه است. کولرهای سلولزی ریتون با ریموت کنترل و محفظه یخ خنکی مطبوعی ایجاد می‌کنند. معرفی کولرهای آبی پرتابل ریتون در حسینی کالا مدل کولر آبی سلولزی 7000 ریتون مدل VENTO 7000 برای فضاهای تا ۱۰۰ متر مربع عالی است. همچنین برای سالن‌های بزرگ و کافه‌ها، کولر آبی سلولزی 16000 ریتون مدل پرتابل VENTO 16000 قدرت سرمایشی بی‌نظیری ارائه می‌دهد. خرید آنلاین و تحویل فوری در اهواز و سراسر ایران از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 95,
+    "parent": 0,
+    "menu_order": 25,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3735",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3735"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/95"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3736,
+    "title": {
+      "rendered": "کولر آبی ریتون"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%da%a9%d9%88%d9%84%d8%b1-%d8%a2%d8%a8%db%8c/rayton-water-coolers/",
+    "attr_title": "",
+    "description": "خرید کولر آبی سلولزی و پرتابل ریتون (Rayton) مدل‌های ۷۰۰۰ و ۱۶۰۰۰ با خنک‌کنندگی عالی برای مناطق گرمسیری از فروشگاه لوازم خانگی حسینی. کولرهای ریتون با پد سلولزی ضخیم و مصرف برق پایین بهترین جایگزین کولرهای قدیمی هستند. ویژگی کولرهای سلولزی ریتون در اهواز پدهای سلولزی ریتون بدون رسوب‌گیری و با بازده خنک‌سازی بالا، هوای کاملاً مطبوعی در هوای گرم اهواز فراهم می‌کنند. سفارش مستقیم از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 163,
+    "parent": 3735,
+    "menu_order": 26,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3736",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3736"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/163"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3737,
+    "title": {
+      "rendered": "کولر گازی"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%da%a9%d9%88%d9%84%d8%b1-%da%af%d8%a7%d8%b2%db%8c/",
+    "attr_title": "",
+    "description": "",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 206,
+    "parent": 0,
+    "menu_order": 27,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3737",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3737"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/206"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3741,
+    "title": {
+      "rendered": "لوازم برقی آشپزخانه"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d9%84%d9%88%d8%a7%d8%b2%d9%85-%d8%a8%d8%b1%d9%82%db%8c-%d8%a2%d8%b4%d9%be%d8%b2%d8%ae%d8%a7%d9%86%d9%87/",
+    "attr_title": "",
+    "description": "",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 216,
+    "parent": 0,
+    "menu_order": 28,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3741",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3741"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/216"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3739,
+    "title": {
+      "rendered": "گوشت کوب برقی"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%da%af%d9%88%d8%b4%d8%aa-%da%a9%d9%88%d8%a8-%d8%a8%d8%b1%d9%82%db%8c/",
+    "attr_title": "",
+    "description": "آماده‌سازی سریع سوپ، آش، پوره، سس و شیک‌های خنک با یک گوشت‌کوب برقی پرقدرت تنها چند ثانیه زمان می‌برد. پایه فلزی و تیغه‌های تیز استیل، ماندگاری دستگاه را تضمین می‌کنند. گوشت‌کوب برقی دونالکس مدل DN-275 محصول گوشت کوب برقی دونالکس مدل DN-275 با موتور پرقدرت کم‌صدا، پایه استیل ضدزنگ مقاوم در برابر حرارت و تیغه‌های ۴ پره، دستیاری همه‌فن‌حریف در آشپزخانه است. ثبت سفارش در فروشگاه لوازم خانگی حسینی اهواز.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 122,
+    "parent": 3741,
+    "menu_order": 29,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3739",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3739"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/122"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3740,
+    "title": {
+      "rendered": "گوشت کوب برقی دونالکس"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%da%af%d9%88%d8%b4%d8%aa-%da%a9%d9%88%d8%a8-%d8%a8%d8%b1%d9%82%db%8c/donallex-hand-blenders/",
+    "attr_title": "",
+    "description": "خرید گوشت کوب برقی چندکاره دونالکس (Donallex) با موتور قدرتمند و تیغه‌های استیل از فروشگاه لوازم خانگی حسینی. مناسب برای خرد کردن، له کردن و مخلوط کردن انواع مواد غذایی. مزایای گوشت‌کوب برقی دونالکس طراحی ارگونومیک، تنظیم سرعت چندگانه و شستشوی آسان قطعات. خرید از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 169,
+    "parent": 3739,
+    "menu_order": 30,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3740",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3740"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/169"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3742,
+    "title": {
+      "rendered": "ماشین ظرفشویی"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d8%b8%d8%b1%d9%81%d8%b4%d9%88%db%8c%db%8c/",
+    "attr_title": "",
+    "description": "شستن ظروف پس از مهمانی‌ها یا وعده‌های غذایی روزانه نیازی نیست وقت و انرژی شما را بگیرد. ماشین‌های ظرفشویی مبله نسل جدید با مصرف بسیار کم آب و برق، ظروفی درخشان و ضدعفونی‌شده تحویل می‌دهند. در حسینی کالا، بهترین مدل‌های ماشین ظرفشویی ۱۵ نفره آماده سفارش شما هستند. راهنمای انتخاب ماشین ظرفشویی مبله و کم‌مصرف ظرفشویی‌های ۱۵ نفره فضایی کافی برای قرارگیری ظروف بزرگ مانند قابلمه و دیس دارند. مدل‌هایی با رده انرژی +++A مانند ماشین ظرفشویی 15 نفره کلور CDW-H15V در هر بار شست‌وشو تنها حدود ۹ تا ۱۰ لیتر آب مصرف می‌کنند که بسیار اقتصادی‌تر از شست‌وشوی دستی است. جهت خرید با گارانتی معتبر شرکتی و ارسال مطمئن، هم‌اکنون به فروشگاه لوازم خانگی حسینی مراجعه فرمایید.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 97,
+    "parent": 0,
+    "menu_order": 31,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3742",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3742"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/97"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3743,
+    "title": {
+      "rendered": "ماشین ظرفشویی کلور"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d8%b8%d8%b1%d9%81%d8%b4%d9%88%db%8c%db%8c/clover-dishwashers/",
+    "attr_title": "",
+    "description": "خرید ماشین ظرفشویی ۱۵ نفره کلور مدل CDW-H15V با گارانتی اصلی شرکتی در فروشگاه لوازم خانگی حسینی. ظرفشویی کلور دارای سبدهای قابل تنظیم، شستشوی اقتصادی و مصرف کم آب است. چرا خرید ظرفشویی کلور؟ این محصول با سه سبد مجزا، سیستم خشک‌کن مبدل حرارتی و شستشوی بسیار کم‌صدا تولید شده است. جهت خرید مطمئن در اهواز از فروشگاه لوازم خانگی حسینی اقدام نمایید.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 159,
+    "parent": 3742,
+    "menu_order": 32,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3743",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3743"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/159"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3744,
+    "title": {
+      "rendered": "ماشین لباسشویی"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%84%d8%a8%d8%a7%d8%b3%d8%b4%d9%88%db%8c%db%8c/",
+    "attr_title": "",
+    "description": "یک ماشین لباسشویی مدرن و ایده‌آل یعنی شست‌وشوی کامل و ملایم لباس‌ها بدون آسیب به بافت پارچه، همراه با مصرف بهینه آب و برق و موتوری بدون لرزش. در حسینی کالا، بهترین ماشین‌های لباسشویی اتوماتیک ۸ و ۹ کیلویی از برندهای مطرح نظیر کلور و دوو با تکنولوژی‌های نوین ضدعفونی و موتورهای دایرکت درایو گردآوری شده‌اند. فاکتورهای کلیدی در انتخاب و خرید ماشین لباسشویی هنگام انتخاب ماشین لباسشویی جدید، توجه به چند نکته فنی به شما کمک می‌کند مدلی متناسب با جمعیت خانواده و الگوی شست‌وشوی روزانه خود انتخاب کنید: ظرفیت دیگ (کیلوگرم): برای خانواده‌های ۳ تا ۴ نفره ظرفیت ۸ کیلوگرم و برای خانواده‌های پرجمعیت‌تر ظرفیت ۹ کیلوگرم انتخابی عالی است. نوع موتور (دایرکت درایو بدون تسمه): موتورهای دایرکت درایو (Direct Drive) بدون واسطه تسمه به دیگ متصل می‌شوند. این ساختار لرزش و صدای دستگاه را به شدت کاهش می‌دهد. برنامه‌های شست‌وشوی متنوع: وجود برنامه‌هایی مانند شست‌وشوی سریع ۱۵ دقیقه‌ای، شست‌وشوی اقتصادی (Eco) و قابلیت ضدعفونی با UV. معرفی محبوب‌ترین مدل‌های ماشین لباسشویی در حسینی کالا مدل ماشین لباسشویی 8 کیلوگرم اتوماتیک کلور مدل تاچ سری BMW T3 با موتور دایرکت درایو ۱۴۰۰ دور، پنل تمام لمسی و ضدعفونی UV گزینه‌ای پیشرفته است. همچنین ماشین لباسشویی 9 کیلوگرم اتوماتیک&hellip;",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 93,
+    "parent": 0,
+    "menu_order": 33,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3744",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3744"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/93"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3745,
+    "title": {
+      "rendered": "ماشین لباسشویی دوو"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%84%d8%a8%d8%a7%d8%b3%d8%b4%d9%88%db%8c%db%8c/daewoo-washing-machines/",
+    "attr_title": "",
+    "description": "خرید اینترنتی و حضوری انواع ماشین لباسشویی هوشمند دوو (Daewoo) با بهترین قیمت در فروشگاه لوازم خانگی حسینی. لباسشویی‌های دوو با موتورهای حباب‌ساز و طراحی فوق‌العاده بی‌صدا گزینه‌ای عالی برای منزل شماست. امکانات لباسشویی دوو سیستم شستشوی همراه با بخار، صفحه نمایش کاملاً لمسی و برنامه‌های شستشوی اختصاصی از مزایای این برند است. محصولات دوو را از شعب اهواز فروشگاه لوازم خانگی حسینی تهیه فرمایید.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 158,
+    "parent": 3744,
+    "menu_order": 34,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3745",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3745"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/158"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3746,
+    "title": {
+      "rendered": "ماشین لباسشویی کلور"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%84%d8%a8%d8%a7%d8%b3%d8%b4%d9%88%db%8c%db%8c/clover-washing-machines/",
+    "attr_title": "",
+    "description": "خرید انواع ماشین لباسشویی کلور (Clover) ظرفیت‌های ۸ و ۹ کیلوگرم اتوماتیک با گارانتی معتبر در فروشگاه لوازم خانگی حسینی. لباسشویی‌های کلور با موتورهای دایرکت درایو (BLDC)، برنامه‌های شستشوی متنوع و شستشو با بخار تولید می‌شوند. ویژگی‌های برجسته لباسشویی کلور لباسشویی سری BMW کلور با قابلیت اضافه کردن لباس هنگام شستشو، دور موتور ۱۴۰۰ دور در دقیقه و گرید انرژی A+++ همراه با پشتیبانی عالی در اهواز توسط فروشگاه لوازم خانگی حسینی عرضه می‌شود.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 157,
+    "parent": 3744,
+    "menu_order": 35,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3746",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3746"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/157"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3747,
+    "title": {
+      "rendered": "مخلوط کن"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d9%85%d8%ae%d9%84%d9%88%d8%b7-%da%a9%d9%86/",
+    "attr_title": "",
+    "description": "مخلوط کردن انواع اسموتی، شیک، معجون و آسیاب کردن ادویه‌جات و مغزیجات تازه، نیازمند مخلوط‌کنی دوکاره با پارچ مقاوم و تیغه‌های یخ‌شکن است. مخلوط‌کن و آسیاب‌کن دونالکس مدل DN-205 دستگاه مخلوط کن و آسیاب کن 1.5 لیتری دونالکس مدل DN-205 با پارچ ۱.۵ لیتری مقاوم، محفظه آسیاب مجزا و تیغه‌های استیل ۶ پره، بهترین عملکرد را در آماده‌سازی نوشیدنی‌ها ارائه می‌دهد. خرید مستقیم و ارسال سریع از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 123,
+    "parent": 0,
+    "menu_order": 36,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3747",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3747"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/123"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3748,
+    "title": {
+      "rendered": "مخلوط کن دونالکس"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%d9%85%d8%ae%d9%84%d9%88%d8%b7-%da%a9%d9%86/donallex-blenders/",
+    "attr_title": "",
+    "description": "خرید مخلوط کن و آسیاب برقی ۱.۵ لیتری دونالکس (Donallex) با پارچ پیرکس مقاوم در فروشگاه لوازم خانگی حسینی. مناسب تهیه انواع اسموتی، پارچ یخ‌شکن و پودر کردن ادویه‌جات. ویژگی مخلوط‌کن دونالکس موتور قوی، تیغه‌های ۶ پره استیل و بدنه استیل مقاوم. ثبت سفارش در اهواز از فروشگاه لوازم خانگی حسینی.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 170,
+    "parent": 3747,
+    "menu_order": 37,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3748",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3748"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/170"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3749,
+    "title": {
+      "rendered": "یخچال فریزر"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/",
+    "attr_title": "",
+    "description": "به دنبال یخچال فریزری هستید که علاوه بر حفظ طراوت مواد غذایی تا هفته‌ها، موتوری کم‌صدا و کم‌مصرف داشته باشد؟ در حسینی کالا، مجموعه‌ای متنوع از بهترین مدل‌های یخچال فریزر دوقلو، کمبی (بالا/پایین) و هتلی از برندهای معتبر ایرانی مانند کلور، دیپوینت و ایستکول با تضمین اصالت و بهترین قیمت بازار در اختیار شماست. راهنمای هوشمندانه انتخاب و خرید یخچال فریزر متناسب با خانه شما انتخاب یک یخچال فریزر مناسب فقط به ظاهر زیبا یا ابعاد بیرونی آن محدود نمی‌شود. برای آنکه از خریدی که انجام می‌دهید سال‌ها رضایت داشته باشید، باید تناسب ابعاد یخچال با فضای آشپزخانه، ظرفیت مفید (بر حسب فوت مکعب)، میزان مصرف انرژی و نوع تکنولوژی موتور دستگاه را کاملاً بسنجید. نوع کمپرسور (اینورتر یا معمولی): موتورهای اینورتر دیجیتال با تنظیم هوشمند سرعت کارکرد، میزان برق مصرفی و نوسانات دما را کاهش داده و طول عمر بالاتری دارند. سیستم نوفراست (بدون برفک): یخچالی را انتخاب کنید که دارای تکنولوژی گردش هوای چندگانه و ذوب برفک خودکار باشد تا نیازی به خاموش کردن دوره‌ای دستگاه نداشته باشید. کلاس آب‌وهوایی: اگر در مناطق گرمسیری زندگی می‌کنید، حتماً مدلی را انتخاب کنید که دارای کلاس گرمسیری (Tropical) باشد تا در سخت‌ترین روزهای تابستان هم قدرت سرمایش عالی ارائه دهد.&hellip;",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 92,
+    "parent": 0,
+    "menu_order": 38,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3749",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3749"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/92"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3753,
+    "title": {
+      "rendered": "یخچال فریزر کلور"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/clover-refrigerators/",
+    "attr_title": "",
+    "description": "خرید انواع یخچال فریزر کلور (Clover) با بهترین قیمت و گارانتی معتبر شرکتی در فروشگاه لوازم خانگی حسینی. برند کلور یکی از پیشگامان تولید یخچال فریزرهای دوقلو، ساید بای ساید و کمبی با فناوری بدون برفک (نوفراست)، موتورهای کم‌مصرف و طراحی مدرن در ایران است. چرا خرید یخچال فریزر کلور از حسینی کالا؟ یخچال‌های کلور با بهره‌گیری از کمپرسورهای هوشمند اینورتر، سیستم سرمایش چندگانه (Multi Air Flow) و بدنه مقاوم، انتخابی ایده‌آل برای خانواده‌های ایرانی هستند. شما می‌توانید جدیدترین مدل‌های یخچال فریزر کلور از جمله مدل‌های دوقلو گلوری و روسو را با گارانتی اصالت کالا و مشاوره تخصصی از فروشگاه لوازم خانگی حسینی سفارش داده و در اهواز و سراسر کشور تحویل بگیرید. ویژگی‌های برجسته یخچال فریزرهای کلور سیستم نوفراست ۱۰۰٪ بدون برفک گرید انرژی A+ و موتورهای باکیفیت کم‌صدا آبسردکن و یخساز اتوماتیک به همراه هوم‌بار جهت دسترسی سریع گارانتی معتبر شرکتی و خدمات پس از فروش گسترده در اهواز سوالات متداول خریداران یخچال کلور سوال: گارانتی یخچال فریزر کلور چند ماه است؟پاسخ: تمامی یخچال فریزرهای کلور دارای ۳۰ ماه گارانتی معتبر شرکتی و ۱۰ سال خدمات پس از فروش هستند. سوال: آیا امکان خرید حضوری یخچال کلور در اهواز وجود دارد؟پاسخ: بله، شعب حضوری فروشگاه حسینی کالا در&hellip;",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 153,
+    "parent": 3749,
+    "menu_order": 39,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3753",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3753"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/153"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3750,
+    "title": {
+      "rendered": "یخچال فریزر الکترواستیل"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/electrosteel-refrigerators/",
+    "attr_title": "",
+    "description": "خرید یخچال فریزر دوقلو و کمبی الکترواستیل با گارانتی معتبر از فروشگاه لوازم خانگی حسینی. الکترواستیل با سابقه‌ای درخشان، تولیدکننده یخچال‌های باکیفیت و صدای بسیار کم با تکنولوژی موتورهای ایتالیایی و اتریشی است. ویژگی‌های یخچال الکترواستیل طراحی مدرن، بدنه آنتی‌باکتریال، سیستم خنک‌کننده سریع و دوام بالا از مشخصات اصلی الکترواستیل است. جهت خرید حضوری یا آنلاین در اهواز به فروشگاه لوازم خانگی حسینی مراجعه کنید.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 156,
+    "parent": 3749,
+    "menu_order": 40,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3750",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3750"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/156"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3751,
+    "title": {
+      "rendered": "یخچال فریزر ایستکول"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/eastcool-refrigerators/",
+    "attr_title": "",
+    "description": "فروش تخصصی انواع یخچال و فریزر ایستکول (Eastcool) شامل مدل‌های ۵ فوت، ۹ فوت هتلی و اداری در فروشگاه لوازم خانگی حسینی. ایستکول برترین برند ایران در زمینه تولید یخچال‌های کوچک، اداری و شوکیس است. کاربرد و ویژگی‌های یخچال ایستکول اگر برای دفتر کار، اتاق خواب، هتل یا سوئیت به دنبال یک یخچال جمع‌وجور، کم‌مصرف و بی‌صدا هستید، محصولات ایستکول انتخابی هوشمندانه محسوب می‌شوند. برای سفارش با تضمین قیمت می‌توانید از طریق فروشگاه لوازم خانگی حسینی اقدام کنید.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 155,
+    "parent": 3749,
+    "menu_order": 41,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3751",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3751"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/155"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3752,
+    "title": {
+      "rendered": "یخچال فریزر دیپوینت"
+    },
+    "status": "publish",
+    "url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/depoint-refrigerators/",
+    "attr_title": "",
+    "description": "بررسی و خرید انواع یخچال فریزر دیپوینت (Depoint) با گارانتی اصلی و ارسال سریع از فروشگاه لوازم خانگی حسینی. دیپوینت با تولید مدل‌های نوآورانه مانند سری دوقلو MAX و مدل Boss Pro، استانداردی جدید در صنعت برودتی ایران ایجاد کرده است. راهنمای انتخاب و خرید یخچال دیپوینت یخچال و فریزرهای دیپوینت با طراحی زیبا، مصرف انرژی بهینه، موتورهای قدرتمند و گنجایش بالا برای انواع خانواده‌ها طراحی شده‌اند. جهت خرید اقساطی یا نقدی با نازل‌ترین قیمت، می‌توانید با کارشناسان فروشگاه لوازم خانگی حسینی در اهواز در ارتباط باشید. مزایای یخچال فریزرهای دیپوینت فناوری نوفراست و عدم ایجاد برفک در تمام بخش‌ها سیستم گردش هوای سه‌بعدی و فیلتر بوگیر فعال صفحه نمایش لمسی هوشمند و هشدار باز بودن درب سوالات متداول درباره برند دیپوینت سوال: کیفیت موتور یخچال دیپوینت چگونه است؟پاسخ: دیپوینت از کمپرسورهای قدرتمند اینورتر با کمترین میزان صدا و بالاترین بازدهی انرژی بهره می‌برد.",
+    "type": "taxonomy",
+    "type_label": "دسته ها",
+    "object": "product_cat",
+    "object_id": 154,
+    "parent": 3749,
+    "menu_order": 42,
+    "target": "",
+    "classes": [
+      ""
+    ],
+    "xfn": [
+      ""
+    ],
+    "invalid": false,
+    "meta": [],
+    "menus": 16,
+    "_links": {
+      "self": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items/3752",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menu-items"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/types/nav_menu_item"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "nav_menu",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/menus?post=3752"
+        }
+      ],
+      "wp:menu-item-object": [
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://hosseinykala.ir/wp-json/wp/v2/product_cat/154"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

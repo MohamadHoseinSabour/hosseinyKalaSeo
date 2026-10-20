@@ -1,0 +1,42 @@
+[
+  {
+    "category": "cooking_appliances",
+    "slug": "aviz-granite-pan-28cm",
+    "target_name": "تابه گرانیتی اویز سایز 28",
+    "cand_title": "تابه گرانیتی اویز مدل پلاس سایز 28",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\cooking_appliances\\aviz-granite-pan-28cm.jpg",
+    "dimensions": "1254x1254"
+  },
+  {
+    "category": "cooking_appliances",
+    "slug": "aviz-granite-pan-32cm",
+    "target_name": "تابه گرانیتی اویز سایز 32",
+    "cand_title": "تابه گرانیتی اویز مدل پلاس سایز 32",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\cooking_appliances\\aviz-granite-pan-32cm.jpg",
+    "dimensions": "1254x1254"
+  },
+  {
+    "category": "beverage_makers",
+    "slug": "sunny-sn007-kettle",
+    "target_name": "کتری برقی سانی 1.5 لیتر",
+    "cand_title": "کتری برقی سانی مدل SN-007",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\beverage_makers\\sunny-sn007-kettle.jpg",
+    "dimensions": "2500x2500"
+  },
+  {
+    "category": "cooling_heating",
+    "slug": "parskhazar-4060-fan",
+    "target_name": "پنکه پایه بلند پارس خزر",
+    "cand_title": "پنکه پارس خزر مدل پايه بلند ايستاده 4060",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\cooling_heating\\parskhazar-4060-fan.jpg",
+    "dimensions": "1024x1024"
+  },
+  {
+    "category": "beverage_makers",
+    "slug": "tefal-ki150d-kettle",
+    "target_name": "کتری برقی تفال 2 لیتر",
+    "cand_title": "کتری برقی تفال مدل KO1508DE",
+    "file_path": "C:\\Users\\mmhhs\\OneDrive\\Documents\\GitHub\\hosseinyKalaSeo\\scratch\\batch_eval\\beverage_makers\\tefal-ki150d-kettle.jpg",
+    "dimensions": "1500x1500"
+  }
+]

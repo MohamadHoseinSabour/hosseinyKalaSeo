@@ -1,0 +1,242 @@
+[
+  {
+    "source_url": "https://hosseinykala.ir/product-category/اصلاح-موی-صورت/",
+    "target_url": "https://hosseinykala.ir/product-category/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%88-%d8%b2%db%8c%d8%a8%d8%a7%db%8c%db%8c/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%85%d9%88%db%8c-%d8%b3%d8%b1/",
+    "note": "Deleted subcategory -> Main hair clipper category"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/product-category/اصلاح-موی-صورت/?stock_status=instock,onsale",
+    "target_url": "https://hosseinykala.ir/product-category/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%88-%d8%b2%db%8c%d8%a8%d8%a7%db%8c%db%8c/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%85%d9%88%db%8c-%d8%b3%d8%b1/",
+    "note": "Deleted subcategory -> Main hair clipper category"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/product-category/اصلاح-موی-صورت/?stock_status=instock",
+    "target_url": "https://hosseinykala.ir/product-category/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%88-%d8%b2%db%8c%d8%a8%d8%a7%db%8c%db%8c/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%85%d9%88%db%8c-%d8%b3%d8%b1/",
+    "note": "Deleted subcategory -> Main hair clipper category"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/product-category/اصلاح-موی-صورت/?stock_status=onsale",
+    "target_url": "https://hosseinykala.ir/product-category/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%88-%d8%b2%db%8c%d8%a8%d8%a7%db%8c%db%8c/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%85%d9%88%db%8c-%d8%b3%d8%b1/",
+    "note": "Deleted subcategory -> Main hair clipper category"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=157",
+    "target_url": "https://hosseinykala.ir/product-category/washing-cleaning/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%84%d8%a8%d8%a7%d8%b3%d8%b4%d9%88%db%8c%db%8c/clover-washing-machines/",
+    "note": "Category ID 157 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=154",
+    "target_url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/depoint-refrigerators/",
+    "note": "Category ID 154 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=161",
+    "target_url": "https://hosseinykala.ir/product-category/washing-cleaning/%d8%ac%d8%a7%d8%b1%d9%88%d8%a8%d8%b1%d9%82%db%8c/panasonic-vacuum-cleaners/",
+    "note": "Category ID 161 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=162",
+    "target_url": "https://hosseinykala.ir/product-category/washing-cleaning/%d8%ac%d8%a7%d8%b1%d9%88%d8%a8%d8%b1%d9%82%db%8c/hitachi-vacuum-cleaners/",
+    "note": "Category ID 162 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=160",
+    "target_url": "https://hosseinykala.ir/product-category/washing-cleaning/%d8%ac%d8%a7%d8%b1%d9%88%d8%a8%d8%b1%d9%82%db%8c/bost-vacuum-cleaners/",
+    "note": "Category ID 160 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=164",
+    "target_url": "https://hosseinykala.ir/product-category/%d8%aa%d8%b5%d9%81%db%8c%d9%87-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%a2%d8%a8/softwater-purifiers/",
+    "note": "Category ID 164 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=159",
+    "target_url": "https://hosseinykala.ir/product-category/washing-cleaning/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d8%b8%d8%b1%d9%81%d8%b4%d9%88%db%8c%db%8c/clover-dishwashers/",
+    "note": "Category ID 159 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//کولر-آبی-سلولزی-16000-ریتون-مدل-کولر-پرتابل///\"",
+    "target_url": "https://hosseinykala.ir/product/reyton-vento-16000-portable-air-cooler/",
+    "note": "Product: Rayton 16000 air cooler"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-و-فریزر-27-فوت-کلور-مدل-كمبي-فريزر-پ///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-frnt-comby-101/",
+    "note": "Product: Clover FRNT-70 Glory Plus"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//ماشین-لباسشویی-8-کیلوگرم-اتوماتیک-کلور///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-bmw-t3-washing-machine-8kg/",
+    "note": "Product: Clover BMW T3 8kg"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/wp-content/uploads/*",
+    "target_url": "https://hosseinykala.ir/",
+    "note": "Wildcard crawler artifact -> Homepage"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=158",
+    "target_url": "https://hosseinykala.ir/product-category/washing-cleaning/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%84%d8%a8%d8%a7%d8%b3%d8%b4%d9%88%db%8c%db%8c/daewoo-washing-machines/",
+    "note": "Category ID 158 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=155",
+    "target_url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/eastcool-refrigerators/",
+    "note": "Category ID 155 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=156",
+    "target_url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/electrosteel-refrigerators/",
+    "note": "Category ID 156 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=153",
+    "target_url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/clover-refrigerators/",
+    "note": "Category ID 153 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=163",
+    "target_url": "https://hosseinykala.ir/product-category/heating-cooling/%da%a9%d9%88%d9%84%d8%b1-%d8%a2%d8%a8%db%8c/rayton-water-coolers/",
+    "note": "Category ID 163 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-و-فریزر-28-فوت-دیپوینت-مدل-t7،-بدون-بر///\"",
+    "target_url": "https://hosseinykala.ir/product/depoint-t7-refrigerator-28ft/",
+    "note": "Product: Depoint T7 28ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//کولر-آبی-سلولزی-7000-ریتون-مدل-vento-7000///\"",
+    "target_url": "https://hosseinykala.ir/product/reyton-vento-7000-air-cooler/",
+    "note": "Product: Rayton Vento 7000"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir/\"",
+    "target_url": "https://hosseinykala.ir/",
+    "note": "Malformed homepage link -> Homepage"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-فریزر-دوقلو-40-فوت-کلور-مدل-رسوپلا///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-rosso-plus-w60-twin-refrigerator-40ft/",
+    "note": "Product: Clover Rosso Plus 40ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-فریزر-دوقلو-44-فوت-کلور-مدل-54-فوت-glory-plus-lm70///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-glory-plus-lm70-twin-refrigerator/",
+    "note": "Product: Clover Glory Plus LM70 44ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-و-فریزر-27-فوت-کلور-مدل-كمبي-هوم-بار///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-rosso-homebar-refrigerator-27ft/",
+    "note": "Product: Clover Rosso Homebar 27ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-فریزر-دوقلو-40-فوت-کلور-مدل-گلوری-ع///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-glory-w60-twin-refrigerator-40ft/",
+    "note": "Product: Clover Glory W60 40ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//shop///\"",
+    "target_url": "https://hosseinykala.ir/shop/",
+    "note": "Shop page"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//علاقه-مندی-ها///\"",
+    "target_url": "https://hosseinykala.ir/",
+    "note": "Wishlist relative link -> Homepage"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-فریزر-دوقلو-40-فوت-کلور-مدل-گلوری-پ///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-glory-plus-54ft-twin-refrigerator/",
+    "note": "Product: Clover Glory Plus 54ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-10-فوت-کلور-مدل-mini-refrigerator///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-mini-refrigerator-10ft/",
+    "note": "Product: Clover Mini Refrigerator 10ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-و-فریزر-27-فوت-کلوِر-مدل-frnt101///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-frnt101-refrigerator-27ft/",
+    "note": "Product: Clover FRNT101 27ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=93",
+    "target_url": "https://hosseinykala.ir/product-category/washing-cleaning/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d9%84%d8%a8%d8%a7%d8%b3%d8%b4%d9%88%db%8c%db%8c/",
+    "note": "Category ID 93 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=21",
+    "target_url": "https://hosseinykala.ir/product-category/washing-cleaning/%d8%ac%d8%a7%d8%b1%d9%88%d8%a8%d8%b1%d9%82%db%8c/",
+    "note": "Category ID 21 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=97",
+    "target_url": "https://hosseinykala.ir/product-category/washing-cleaning/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d8%b8%d8%b1%d9%81%d8%b4%d9%88%db%8c%db%8c/",
+    "note": "Category ID 97 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=96",
+    "target_url": "https://hosseinykala.ir/product-category/%d8%aa%d8%b5%d9%81%db%8c%d9%87-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%a2%d8%a8/",
+    "note": "Category ID 96 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=95",
+    "target_url": "https://hosseinykala.ir/product-category/heating-cooling/%da%a9%d9%88%d9%84%d8%b1-%d8%a2%d8%a8%db%8c/",
+    "note": "Category ID 95 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/wp-*.php",
+    "target_url": "https://hosseinykala.ir/",
+    "note": "Wildcard crawler artifact -> Homepage"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/?product_cat=92",
+    "target_url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/",
+    "note": "Category ID 92 query param"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/*",
+    "target_url": "https://hosseinykala.ir/",
+    "note": "Wildcard crawler artifact -> Homepage"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//جاروبرقی-سطلی-هیتاچی-مدل-cv-950f///\"",
+    "target_url": "https://hosseinykala.ir/product/hitachi-cv-950f-vacuum-cleaner/",
+    "note": "Product: Hitachi CV-950F"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//ماشین-لباسشویی-9-کیلوگرم-اتوماتیک-کلور///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-bmw-t2-washing-machine-9kg/",
+    "note": "Product: Clover BMW T2 9kg"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-و-فریزر-دوقلو-36-فوت-کلوِر-مدل-rnt101-fnt101///\"",
+    "target_url": "https://hosseinykala.ir/product/clover-rnt101-fnt101-twin-refrigerator-36ft/",
+    "note": "Product: Clover RNT101-FNT101 36ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//یخچال-فریزر-30-فوت-دیپوینت-مدل-boss-pro///\"",
+    "target_url": "https://hosseinykala.ir/product/depoint-boss-pro-refrigerator-30ft/",
+    "note": "Product: Depoint Boss Pro 30ft"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/\"https:////hosseinykala.ir//product//ماشین-لباسشویی-هوشمند-9-کیلوگرم-اتومات///\"",
+    "target_url": "https://hosseinykala.ir/product/daewoo-lm-9170-washing-machine-9kg/",
+    "note": "Product: Daewoo LM-9170 9kg"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/wp-content/*",
+    "target_url": "https://hosseinykala.ir/",
+    "note": "Wildcard crawler artifact -> Homepage"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/product/averson-85-inch-4k-smart-tv/",
+    "target_url": "https://hosseinykala.ir/product/haverson-85-inch-4k-smart-tv/",
+    "note": "Haversen 85 TV slug standardization"
+  },
+  {
+    "source_url": "https://hosseinykala.ir/product/averson-32-inch-hd-led-tv/",
+    "target_url": "https://hosseinykala.ir/product/haverson-32-inch-hd-led-tv/",
+    "note": "Haversen 32 TV slug standardization"
+  }
+]

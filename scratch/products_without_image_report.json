@@ -1,0 +1,530 @@
+[
+  {
+    "sheet": "یخچال و فریزر",
+    "row": 48,
+    "brand": "کلور",
+    "name": "یخچال و فریزر دوقلو 27 فوت کلور مدل اکونومی",
+    "ptype": "متغیر",
+    "variations_count": 2,
+    "variation_names": [
+      "↳ رنگ: استیل",
+      "↳ رنگ: سفید"
+    ]
+  },
+  {
+    "sheet": "یخچال و فریزر",
+    "row": 72,
+    "brand": "تکنوسان",
+    "name": "فریزر صندوقی تکنوسان مدل سفید بزرگ",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "شستشو و نظافت",
+    "row": 18,
+    "brand": "هیمالیا",
+    "name": "ماشین لباسشویی 10 کیلوگرم اینورتر هیمالیا مدل تسلا پرو",
+    "ptype": "متغیر",
+    "variations_count": 2,
+    "variation_names": [
+      "↳ رنگ: استیل",
+      "↳ رنگ: سفید"
+    ]
+  },
+  {
+    "sheet": "شستشو و نظافت",
+    "row": 44,
+    "brand": "کلور",
+    "name": "جاروبرقی سطلی کلور",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "شستشو و نظافت",
+    "row": 46,
+    "brand": "آراز",
+    "name": "جاروبرقی سطلی آراز 40 لیتر",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "شستشو و نظافت",
+    "row": 53,
+    "brand": "رانکو",
+    "name": "اتوبخار رانکو",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "شستشو و نظافت",
+    "row": 56,
+    "brand": "ریتون",
+    "name": "لباسشویی دوقلو 17 کیلویی ریتون",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "شستشو و نظافت",
+    "row": 61,
+    "brand": "سران",
+    "name": "جاروبرقی سطلی 21 لیتری سران مدل آب و خاک",
+    "ptype": "متغیر",
+    "variations_count": 2,
+    "variation_names": [
+      "↳ رنگ: زرد",
+      "↳ رنگ: مشکی"
+    ]
+  },
+  {
+    "sheet": "شستشو و نظافت",
+    "row": 65,
+    "brand": "سیماران",
+    "name": "اتوبخار سیماران مدل 8002 زرد",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "شستشو و نظافت",
+    "row": 75,
+    "brand": "مونزا",
+    "name": "اتوبخار مونزا مدل VR3000W",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 3,
+    "brand": "الکترواستیل",
+    "name": "فر برقی الکترواستیل عرض 60 چرمی مدل 21",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 39,
+    "brand": "دونالکس",
+    "name": "سرخ کن بدون روغن دونالکس مدل DN-970 استیل",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 41,
+    "brand": "دونالکس",
+    "name": "ساندویچ ساز دونالکس",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 57,
+    "brand": "آلتون",
+    "name": "گاز صفحه ای استیل آلتون مدل SG518",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 59,
+    "brand": "آلتون",
+    "name": "فر گاز فردار آلتون مدل MDS",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 60,
+    "brand": "آلتون",
+    "name": "هود آشپزخانه آلتون مدل H312",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 61,
+    "brand": "آلتون",
+    "name": "هود آشپزخانه آلتون مدل H315B",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 67,
+    "brand": "ساپر",
+    "name": "هواپز ساپر 7.2 لیتر مدل 1710",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 71,
+    "brand": "لاوان",
+    "name": "قابلمه تک سایز 14 لاوان",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 78,
+    "brand": "متفرقه",
+    "name": "سرویس قابلمه استیل 10 پارچه",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 79,
+    "brand": "متفرقه",
+    "name": "توستر نان و شیرینی 60 لیتر",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 86,
+    "brand": "ویلز",
+    "name": "سرخ کن بدون روغن ویلز مدل 5062",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 87,
+    "brand": "ویلز",
+    "name": "چرخ گوشت برقی ویلز",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 89,
+    "brand": "پارس خزر",
+    "name": "پلوپز پارس خزر مدل 361",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "لوازم برقی و پخت و پز",
+    "row": 92,
+    "brand": "گرنویک",
+    "name": "سرخ کن ایرفرایر خاکستری گرنویک",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 9,
+    "brand": "دونالکس",
+    "name": "همزن دستی دونالکس مدل 355",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 21,
+    "brand": "اوریکس",
+    "name": "همزن کاسه چرخدار اوریکس",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 23,
+    "brand": "تفال",
+    "name": "کتری برقی تفال 2 لیتر",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 25,
+    "brand": "جنرال",
+    "name": "آبمیوه گیری چندکاره جنرال مدل 607 غذاساز",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 27,
+    "brand": "رانکو",
+    "name": "اسپرسوساز حرفه ای رانکو",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 29,
+    "brand": "زامروتی",
+    "name": "کتری برقی تک زامروتی کرم",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 30,
+    "brand": "زامروتی",
+    "name": "چای ساز زامروتی",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 31,
+    "brand": "زامروتی",
+    "name": "مخلوط کن زامروتی کرم",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 33,
+    "brand": "سانی",
+    "name": "کتری برقی سانی 1.5 لیتر",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 35,
+    "brand": "ساپر",
+    "name": "کتری برقی ساپر مدل 1031",
+    "ptype": "متغیر",
+    "variations_count": 2,
+    "variation_names": [
+      "↳ رنگ: سبز",
+      "↳ رنگ: کرم"
+    ]
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 38,
+    "brand": "ساپر",
+    "name": "کتری برقی ساپر استیل مدل 1011",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 40,
+    "brand": "سیماران",
+    "name": "کتری برقی سیماران استیل مدل 750",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 50,
+    "brand": "متفرقه",
+    "name": "ست کتری و قوری هرمی تمام طلا مدل 604",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 52,
+    "brand": "ونتو",
+    "name": "آسیاب برقی ونتو",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 56,
+    "brand": "ویلز",
+    "name": "چای ساز ویلز مدل 2015",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 58,
+    "brand": "پروکس",
+    "name": "کتری برقی پروکس",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 60,
+    "brand": "ژمبو",
+    "name": "ست کتری و قوری روگازی ژمبو (زامروتی) مدل 2022",
+    "ptype": "متغیر",
+    "variations_count": 2,
+    "variation_names": [
+      "↳ مشخصه: دسته استیل",
+      "↳ مشخصه: دسته چوب"
+    ]
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 64,
+    "brand": "کاستلو",
+    "name": "آسیاب برقی کاستلو مدل 470",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 70,
+    "brand": "گرنویک",
+    "name": "چای ساز سماوری گرنویک",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "نوشیدنی ساز",
+    "row": 71,
+    "brand": "گرنویک",
+    "name": "اسپرسوساز نارنجی گرنویک",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "سرمایش و گرمایش",
+    "row": 3,
+    "brand": "الکترواستیل",
+    "name": "آبگرمکن مخزندار دیواری الکترواستیل",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "سرمایش و گرمایش",
+    "row": 9,
+    "brand": "اوجنرال",
+    "name": "کولر پنجره ای اوجنرال 18 هزار",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "سرمایش و گرمایش",
+    "row": 11,
+    "brand": "اوناکس",
+    "name": "کولر آبی اوناکس مدل B35",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "سرمایش و گرمایش",
+    "row": 12,
+    "brand": "اوناکس",
+    "name": "کولر آبی اوناکس مدل H50 یاسان",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "سرمایش و گرمایش",
+    "row": 22,
+    "brand": "متفرقه",
+    "name": "کولر آبی مدل 4500",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "سرمایش و گرمایش",
+    "row": 27,
+    "brand": "پاناسونیک",
+    "name": "پنکه پاناسونیک 2 حالته",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "سرمایش و گرمایش",
+    "row": 31,
+    "brand": "گلدن لوکس",
+    "name": "بخاری گلدن لوکس",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "تصفیه کننده آب",
+    "row": 19,
+    "brand": "وست واتر",
+    "name": "دستگاه تصفیه آب خانگی وست واتر",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "زیبایی و سلامت فردی",
+    "row": 5,
+    "brand": "متفرقه",
+    "name": "اتو مو باریک سرامیکی baby3383a",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "زیبایی و سلامت فردی",
+    "row": 7,
+    "brand": "پاناسونیک",
+    "name": "اتو مو مسافرتی پاناسونیک مدل HV11",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "زیبایی و سلامت فردی",
+    "row": 23,
+    "brand": "پرومارون",
+    "name": "ریش تراش چرخشی پرومارون مدل 706",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  },
+  {
+    "sheet": "زیبایی و سلامت فردی",
+    "row": 25,
+    "brand": "پرومارون",
+    "name": "فر کننده مو پرومارون مدل 9909",
+    "ptype": "ساده",
+    "variations_count": 0,
+    "variation_names": []
+  }
+]

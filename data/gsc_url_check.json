@@ -1,0 +1,582 @@
+[
+  {
+    "url": "https://hosseinykala.ir/لباسشویی-۸-کیلویی-بخریم-یا-۹-کیلویی؟-مق/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/washing-machine-8kg-vs-9kg-guide/"
+  },
+  {
+    "url": "https://hosseinykala.ir/story/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/contact-us/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/category/راهنمای-خرید/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/twin-refrigerator-buying-guide/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-bmw-t2-washing-machine-9kg/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-glory-plus-lm70-twin-refrigerator/",
+    "status": "ERR",
+    "location": "HTTPSConnectionPool(host='hosseinykala.ir', port=443): Read timed out. (read timeout=6)"
+  },
+  {
+    "url": "https://hosseinykala.ir/about-us/",
+    "status": "ERR",
+    "location": "HTTPSConnectionPool(host='hosseinykala.ir', port=443): Max retries exceeded with url: /about-us/ (Caused by SSLError(SSLWantReadError(2, 'The operation did not complete (read) (_ssl.c:2580)')))"
+  },
+  {
+    "url": "https://hosseinykala.ir/راهنمای-خرید-کولر-آبی-سلولزی-و-پرتابل؛/",
+    "status": "ERR",
+    "location": "HTTPSConnectionPool(host='hosseinykala.ir', port=443): Read timed out. (read timeout=6)"
+  },
+  {
+    "url": "https://hosseinykala.ir/washing-machine-8kg-vs-9kg-guide/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/راهنمای-خرید-یخچال-فریزر-دوقلو-در-سال-۱/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/twin-refrigerator-buying-guide/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-فریزر-دوقلو-44-فوت-کلور-مدل-54-فوت-glory-plus-lm70/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-glory-plus-lm70-twin-refrigerator/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/pro-omega-t5-hair-clipper/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/ماشین-لباسشویی-9-کیلوگرم-اتوماتیک-کلور/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-bmw-t2-washing-machine-9kg/"
+  },
+  {
+    "url": "https://hosseinykala.ir/راهنمای-خرید-یخچال-کوچک-هتلی/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-bmw-t3-washing-machine-8kg/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/ماشین-لباسشویی-8-کیلوگرم-اتوماتیک-کلور/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-bmw-t3-washing-machine-8kg/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/electrosteel-future-twin-refrigerator-21ft/",
+    "status": 404,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/donallex-dn-275-hand-blender/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/bost-bvc-pc18b-vacuum-cleaner/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/pro-omega-t7-hair-clipper/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/reyton-vento-16000-portable-air-cooler/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/blog/page/2/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/ماشین-لباسشویی-هوشمند-9-کیلوگرم-اتومات/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/daewoo-lm-9170-washing-machine-9kg/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/depoint-boss-pro-refrigerator-30ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/daewoo-lm-9170-washing-machine-9kg/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-و-فریزر-27-فوت-کلور-مدل-كمبي-فريزر-پ/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-frnt-comby-101/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/اسپرسو-ساز/donallex-espresso-makers/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/جاروبرقی-بست-مدل-bvc-pc18b/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/bost-bvc-pc18b-vacuum-cleaner/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/اتو-بخار-۲۵۰۰-وات-دونالکس-مدل-815/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/donallex-815-steam-iron-2500w/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/reyton-vento-7000-air-cooler/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/یخچال-فریزر/electrosteel-refrigerators/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-10-فوت-کلور-مدل-mini-refrigerator/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-mini-refrigerator-10ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/یخچال-فریزر/eastcool-refrigerators/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/اصلاح-و-زیبایی/اصلاح-موی-سر/pro-omega-hair-clippers/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/راهنمای-خرید-ماشین-ظرفشویی-۱۵-نفره/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/pro-omega-8806-hair-dryer/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/donallex-dn475-espresso-maker/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-فریزر-دوقلو-21-فوت-الکترواستیل-مدل/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/ماشین-اصلاح-موی-سر-و-صورت-پرو-امگا-مدل-t5/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/pro-omega-t5-hair-clipper/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/washing-cleaning/جاروبرقی/bost-vacuum-cleaners/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/یخچال-فریزر/clover-refrigerators/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/یخچال-کمبی-یا-دوقلو/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/گوشت-کوب-برقی-دونالکس-مدل-dn-275/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/donallex-dn-275-hand-blender/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-فریزر-دوقلو-34-فوت-دیپوینت-مدل-max-du-_-مک/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/depoint-max-du-twin-refrigerator-34ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/گوشت-کوب-برقی/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-mini-refrigerator-10ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-فریزر-دوقلو-40-فوت-کلور-مدل-گلوری-ع/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-glory-w60-twin-refrigerator-40ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-و-فریزر-27-فوت-کلور-مدل-كمبي-هوم-بار/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-rosso-homebar-refrigerator-27ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/eastcool-2919-hotel-refrigerator-9ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-rosso-plus-w60-twin-refrigerator-40ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/delmonti-dn580-toaster-oven/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/کولر-آبی-سلولزی-16000-ریتون-مدل-کولر-پرتابل/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/reyton-vento-16000-portable-air-cooler/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/donallex-dn480-espresso-maker/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/یخچال-فریزر/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/سرخکن-8-لیتر-دونالکس-مدل-dn-950/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/donallex-dn-950-air-fryer-8l/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/ماشین-ظرفشویی/clover-dishwashers/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-فریزر-دوقلو-40-فوت-کلور-مدل-گلوری-پ/",
+    "status": 404,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/depoint-t7-refrigerator-28ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/depoint-max-du-twin-refrigerator-34ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/depoint-refrigerator-brand-review/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/دستگاه-تصفیه-کننده-آب-سافت-واتر-مدل-ir-06/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/soft-water-ir-06-purifier/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/donallex-815-steam-iron-2500w/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-فریزر-9-فوت-ایستکول-مدل-هتلی-2919،-با/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/eastcool-2919-hotel-refrigerator-9ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/اسپرسو-ساز-۱۸-میلی-لیتر-دونالکس-مدل-dn475/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/donallex-dn475-espresso-maker/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-و-فریزر-دوقلو-36-فوت-کلوِر-مدل-rnt101-fnt101/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-rnt101-fnt101-twin-refrigerator-36ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-rnt101-fnt101-twin-refrigerator-36ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/ماشین-اصلاح-موی-سر-و-صورت-پرو-امگا-مدل-t7/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/pro-omega-t7-hair-clipper/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/washing-cleaning/ماشین-لباسشویی/clover-washing-machines/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-frnt-70-glory-plus/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-frnt-comby-101/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/اسپرسو-ساز-۱۲-میلی-لیتر-دونالکس-مدلdn480/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/donallex-dn480-espresso-maker/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/ماشین-لباسشویی/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/donallex-dn-120-juicer-1000w/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/donalex-dn120-4in1-juicer/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/haverson-75-inch-4k-smart-tv/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-rosso-homebar-refrigerator-27ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/shop/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/سرخ-کن/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/صوتی،-تصویری-و-گرمایشی/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/کولر-گازی/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/سرخ-کن/donallex-air-fryers/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/ماشین-ظرفشویی-15-نفره-کلور-مدل-cdw-h15tw1/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-cdw-h15v-dishwasher-15p/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-و-فریزر-27-فوت-کلوِر-مدل-frnt101/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-frnt101-refrigerator-27ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/blog/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/washing-cleaning/ماشین-ظرفشویی/clover-dishwashers/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-فریزر-دوقلو-40-فوت-کلور-مدل-رسوپلا/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-rosso-plus-w60-twin-refrigerator-40ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/washing-cleaning/ماشین-لباسشویی/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/تخفیف-ها-و-پیشنهادات/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/audio-video/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/آبمیوهگیری-1000-وات-دونالکس-مدل-dn-120/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/donalex-dn120-4in1-juicer/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-cdw-h15v-dishwasher-15p/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/washing-cleaning/جاروبرقی/panasonic-vacuum-cleaners/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/oviz-black-granite-pots/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/سشوار/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/drink-makers/اسپرسو-ساز/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/جاروبرقی/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/order-tracking/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/home-appliances-installment-buying-guide/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/oviz-plus-black-12pcs-cookware-set/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/pakshoma-21kg-twin-tub-washer/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/air-fryer-buying-guide/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/eastcool-2835-refrigerator-5ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/category/راهنمای-خرید/page/2/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-5-فوت-ایستکول-مدل-2835/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/eastcool-2835-refrigerator-5ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/مخلوط-کن/donallex-blenders/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/ماشین-ظرفشویی-16-نفره-کلور-مدل-cdw-h16tw1/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/clover-cdw-h15v-dishwasher-15p/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/اصلاح-و-زیبایی/سشوار/pro-omega-hair-dryers/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/refah-bank-beta-installment-guide/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/اصلاح-و-زیبایی/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-و-فریزر-28-فوت-دیپوینت-مدل-t7،-بدون-بر/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/depoint-t7-refrigerator-28ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/سشوار-حرفه-ای-پرو-امگا-مدل-8806/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/pro-omega-8806-hair-dryer/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product-category/مخلوط-کن/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/یخچال-فریزر-30-فوت-دیپوینت-مدل-boss-pro/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/depoint-boss-pro-refrigerator-30ft/"
+  },
+  {
+    "url": "https://hosseinykala.ir/علاقه-مندی-ها/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/clover-glory-w60-twin-refrigerator-40ft/",
+    "status": 200,
+    "location": ""
+  },
+  {
+    "url": "https://hosseinykala.ir/product/جاروبرقی-پاناسونیک-مدل-mc-cg715/",
+    "status": 301,
+    "location": "https://hosseinykala.ir/product/panasonic-mc-cg715-vacuum-cleaner/"
+  },
+  {
+    "url": "https://hosseinykala.ir/product/donallex-dn-950-air-fryer-8l/",
+    "status": 200,
+    "location": ""
+  }
+]

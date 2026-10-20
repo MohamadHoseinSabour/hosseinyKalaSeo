@@ -1,0 +1,92 @@
+[
+  {
+    "label": "Post 3000 (Air Cooler)",
+    "new_url": "https://hosseinykala.ir/portable-cellulose-air-cooler-guide/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/راهنمای-خرید-کولر-آبی-سلولزی-و-پرتابل؛/",
+    "old_status": 301,
+    "redirect_to": "https://hosseinykala.ir/portable-cellulose-air-cooler-guide/",
+    "status_match": "PASS"
+  },
+  {
+    "label": "Post 3098 (Mini Refrigerator)",
+    "new_url": "https://hosseinykala.ir/mini-hotel-refrigerator-buying-guide/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/راهنمای-خرید-یخچال-کوچک-هتلی/",
+    "old_status": 301,
+    "redirect_to": "https://hosseinykala.ir/mini-hotel-refrigerator-buying-guide/",
+    "status_match": "PASS"
+  },
+  {
+    "label": "Post 3099 (Dishwasher)",
+    "new_url": "https://hosseinykala.ir/15-place-dishwasher-buying-guide/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/راهنمای-خرید-ماشین-ظرفشویی-۱۵-نفره/",
+    "old_status": 301,
+    "redirect_to": "https://hosseinykala.ir/15-place-dishwasher-buying-guide/",
+    "status_match": "PASS"
+  },
+  {
+    "label": "Post 3100 (Combi vs Twin)",
+    "new_url": "https://hosseinykala.ir/combi-vs-twin-refrigerator-guide/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/یخچال-کمبی-یا-دوقلو/",
+    "old_status": 301,
+    "redirect_to": "https://hosseinykala.ir/combi-vs-twin-refrigerator-guide/",
+    "status_match": "PASS"
+  },
+  {
+    "label": "Post 3101 (Clover Review)",
+    "new_url": "https://hosseinykala.ir/clover-brand-review/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/بررسی-تخصصی-برند-کلور/",
+    "old_status": 301,
+    "redirect_to": "https://hosseinykala.ir/clover-brand-review/",
+    "status_match": "PASS"
+  },
+  {
+    "label": "Post 3102 (Dowry Guide)",
+    "new_url": "https://hosseinykala.ir/economical-dowry-checklist-guide/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/چک-لیست-خرید-جهیزیه-اقتصادی/",
+    "old_status": 301,
+    "redirect_to": "https://hosseinykala.ir/economical-dowry-checklist-guide/",
+    "status_match": "PASS"
+  },
+  {
+    "label": "Product 3453 (Electrosteel Future)",
+    "new_url": "https://hosseinykala.ir/product/electrosteel-future-twin-refrigerator-21ft/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/product/یخچال-فریزر-دوقلو-21-فوت-الکترواستیل-مدل/",
+    "old_status": 301,
+    "redirect_to": "https://hosseinykala.ir/?post_type=product&p=2680",
+    "status_match": "PASS"
+  },
+  {
+    "label": "Product 2972 (Clover Glory Plus 54ft)",
+    "new_url": "https://hosseinykala.ir/product/clover-glory-plus-54ft-twin-refrigerator/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/product/یخچال-فریزر-گلوری-پلاس-دوقلو-کلور54-فوت/",
+    "old_status": 301,
+    "redirect_to": "https://hosseinykala.ir/product/clover-glory-plus-54ft-twin-refrigerator/",
+    "status_match": "PASS"
+  },
+  {
+    "label": "Product 3395 (Himalia Alpha 28ft)",
+    "new_url": "https://hosseinykala.ir/product/himalia-alpha-twin-refrigerator-28ft/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/product/یخچال-و-فریزر-دوقلو-28-فوت-هیمالیا-مدل-آ/",
+    "old_status": 404,
+    "redirect_to": "",
+    "status_match": "CHECK"
+  },
+  {
+    "label": "Product 3266 (Pakshoma Split 18000)",
+    "new_url": "https://hosseinykala.ir/product/pakshoma-18000-split-air-conditioner/",
+    "new_status": 200,
+    "old_url": "https://hosseinykala.ir/product/کولر-گازی-اسپلیت-دیواری-18000-دور-ثابت-پا/",
+    "old_status": 404,
+    "redirect_to": "",
+    "status_match": "CHECK"
+  }
+]

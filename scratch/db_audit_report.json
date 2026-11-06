@@ -1,0 +1,246 @@
+{
+    "total_autoload_count": 442,
+    "total_autoload_kb": 409.23000000000002,
+    "top_autoload": [
+        {
+            "option_name": "xts-luman-options",
+            "length": "95220",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "xts-theme_settings_1-luman-css-data",
+            "length": "72412",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "xts-theme_settings_default-luman-css-data",
+            "length": "72410",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "rewrite_rules",
+            "length": "34155",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "revslider-addons",
+            "length": "23642",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "xts-theme_settings_2-luman-css-data",
+            "length": "20524",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "xts_header_386301",
+            "length": "18079",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "xts_header_740686",
+            "length": "17887",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "xts-theme_settings_3-luman-css-data",
+            "length": "14475",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "wp_user_roles",
+            "length": "9922",
+            "autoload": "on"
+        },
+        {
+            "option_name": "cron",
+            "length": "6219",
+            "autoload": "on"
+        },
+        {
+            "option_name": "revslider-notices",
+            "length": "4601",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "xts-default_header_luman-luman-css-data",
+            "length": "3488",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "xts-header_740686-luman-css-data",
+            "length": "3402",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "xts-header_386301-luman-css-data",
+            "length": "3063",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "_transient_wp_styles_for_blocks",
+            "length": "1410",
+            "autoload": "on"
+        },
+        {
+            "option_name": "widget_block",
+            "length": "1131",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "revslider-additions",
+            "length": "912",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "woocommerce_paypal_settings",
+            "length": "887",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "theme_mods_xts-luman-child",
+            "length": "817",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "woocommerce_WC_ZPal_settings",
+            "length": "805",
+            "autoload": "on"
+        },
+        {
+            "option_name": "woocommerce_WC_Gateway_Zibal_settings",
+            "length": "676",
+            "autoload": "on"
+        },
+        {
+            "option_name": "widget_xts-widget-filter",
+            "length": "634",
+            "autoload": "yes"
+        },
+        {
+            "option_name": "woocommerce_bacs_settings",
+            "length": "634",
+            "autoload": "on"
+        },
+        {
+            "option_name": "sidebars_widgets",
+            "length": "617",
+            "autoload": "yes"
+        }
+    ],
+    "expired_transients_count": 4,
+    "expired_transients_kb": 0.040000000000000001,
+    "total_transients_count": 589,
+    "total_transients_kb": 1009.53,
+    "revisions_count": 428,
+    "auto_drafts_count": 1,
+    "trash_posts_count": 2,
+    "orphan_postmeta_count": 0,
+    "action_scheduler_status": {
+        "complete": "1751",
+        "failed": "13",
+        "pending": "13"
+    },
+    "top_tables": [
+        {
+            "name": "wp_postmeta",
+            "size_mb": "15.41",
+            "rows_count": "14902"
+        },
+        {
+            "name": "wp_posts",
+            "size_mb": "8.28",
+            "rows_count": "1990"
+        },
+        {
+            "name": "wp_options",
+            "size_mb": "2.25",
+            "rows_count": "1523"
+        },
+        {
+            "name": "wp_actionscheduler_actions",
+            "size_mb": "0.76",
+            "rows_count": "1777"
+        },
+        {
+            "name": "wp_clubcore_audit_logs",
+            "size_mb": "0.75",
+            "rows_count": "3496"
+        },
+        {
+            "name": "wp_litespeed_url_file",
+            "size_mb": "0.53",
+            "rows_count": "2849"
+        },
+        {
+            "name": "wp_actionscheduler_logs",
+            "size_mb": "0.52",
+            "rows_count": "5305"
+        },
+        {
+            "name": "wp_mclean_refs",
+            "size_mb": "0.17",
+            "rows_count": "481"
+        },
+        {
+            "name": "wp_usermeta",
+            "size_mb": "0.16",
+            "rows_count": "1457"
+        },
+        {
+            "name": "wp_wc_orders_meta",
+            "size_mb": "0.16",
+            "rows_count": "358"
+        },
+        {
+            "name": "wp_wc_orders",
+            "size_mb": "0.16",
+            "rows_count": "25"
+        },
+        {
+            "name": "wp_duplicator_backups",
+            "size_mb": "0.15",
+            "rows_count": "1"
+        },
+        {
+            "name": "wp_revslider_css",
+            "size_mb": "0.14",
+            "rows_count": "116"
+        },
+        {
+            "name": "wp_luman_plus_price_chart",
+            "size_mb": "0.14",
+            "rows_count": "877"
+        },
+        {
+            "name": "wp_litespeed_url",
+            "size_mb": "0.13",
+            "rows_count": "481"
+        },
+        {
+            "name": "wp_luman_plus_tickets",
+            "size_mb": "0.13",
+            "rows_count": "0"
+        },
+        {
+            "name": "wp_mclean_operations",
+            "size_mb": "0.11",
+            "rows_count": "480"
+        },
+        {
+            "name": "wp_sync_basalam_uploaded_photo",
+            "size_mb": "0.09",
+            "rows_count": "586"
+        },
+        {
+            "name": "wp_term_taxonomy",
+            "size_mb": "0.08",
+            "rows_count": "209"
+        },
+        {
+            "name": "wp_wc_order_addresses",
+            "size_mb": "0.08",
+            "rows_count": "50"
+        }
+    ]
+}

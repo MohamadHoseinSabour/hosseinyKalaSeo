@@ -1,0 +1,249 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>DirectAdmin v1.711</title>
+<link rel="stylesheet" type="text/css" href="/CSS_STYLES_RTL">
+<script type="text/javascript" src="/IMG_JQ"></script>
+<script type="text/javascript" src="/IMG_TOOLTIP"></script>
+<script type="text/javascript" src="/IMG_MAINJS"></script>
+<script type="text/javascript" src="/IMG_JS_CHARTS"></script>
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/CSS_STYLES_IE">
+<![endif]-->
+<script language="JavaScript" type="text/javascript">
+<!--
+function log_me_out()           {
+
+                        fetch("/api/logout",{method:"POST"})
+                                .then(x=>x.json())
+                                .then(x=>{window.location.href = x.logoutURL || "/"})
+                                .catch(x=>{window.location.href = "/"})
+
+}
+setTimeout('log_me_out();', 300*60*1000);
+//-->
+</script>
+</head>
+<body  bgcolor="#FFFFFF" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0" onLoad="javascript:TB_unload();" onBeforeUnLoad="javascript:TB_load();">
+<div id="mail_frame">
+  <div id="pageloading">ÙØ·ÙØ§ Ú©ÙÛ ØµØ¨Ø± Ú©ÙÛØ¯</div>
+  <div id="main_top">
+    <div style="height:65px;">
+      <div id="top_user">
+        <a href="./">ØµÙØ­Ù Ø§ØµÙÛ</a> | <a href="/CMD_LOGOUT" onclick="log_me_out();return false">Ø®Ø±ÙØ¬</a><span class="langbox">
+
+
+
+
+<select id="changeLang"><option value="" selected="selected">Change language...</option><option value="en">en</option><option value="fa">fa</option></select>
+</span>
+        <br />
+        Ø®ÙØ´ Ø¢ÙØ¯ÛØ¯ <b>hosse285</b>
+      </div>
+      <div id="top_logo" style="background-image: url(/IMG_SKIN_HEADER);"></div> 
+    </div>
+    <div style="height:25px;" align="left">
+      <div id="level_menu">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <a onclick="javascript:window.location='/CMD_TICKET?sort1=-1';" class="lmsg" style="background-image: url(/IMG_LV_BT_MSG1);" title="System messages</br>3 Ø¬Ø¯ÛØ¯"></a>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+$(function(){$('a.lmsg').ToolTip({className: 'tooltip', position: 'mouse',delay: 200});});
+//-->
+</script>
+
+      </div>
+      <div id="top_menu">
+        <a href="/HTM_INDEX_USER" class="lhome">ØµÙØ­Ù Ø§ØµÙÛ</a>
+
+        <a href="https://server152c.irwebspace.com/roundcube" target="_blank" class="lwmail">ÙØ¨ ÙÛÙ</a>
+
+
+	<a href="/CMD_PLUGINS/axfilepro/index.raw" target=_blank class="laxfp">ÙØ¯ÛØ±ÛØª ÙØ§ÛÙ</a>
+        <a href="/CMD_FILE_MANAGER/" class="lfiles">ÙØ¯ÛØ±ÛØª ÙØ§ÛÙ ÙØ¯ÛÙÛ</a>
+
+        <a href="/HTM_PASSWD" class="lpass">Ø±ÙØ²Ø¹Ø¨ÙØ±</a>
+      </div>
+    </div>
+  </div>
+  <div id="main_contents">
+
+    <div id="leftPanel">
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div id= "account-summary-box" class="panelBox">
+        <div class="title"><span>Ø®ÙØ§ØµÙ Ø§Ú©Ø§ÙØª</span></div>
+        <ul id="summaryList">
+
+          <li><span>&#10148;</span><span>ÙØ¶Ø§Û Ø¯ÛØ³Ú©</span><div class="progress"><div class="progress-bar" data-value="2711.5" data-max="3072"></div></div><div class="stats">2711.5 / 3072 MB</div></li>
+
+
+          <li><span>&#10148;</span><span>Inodes</span><div class="progress"><div class="progress-bar" data-value="40509" data-max="131072"></div></div><div class="stats">40509 / 131072</div></li>
+
+
+          <li><span>&#10148;</span><span>ØªØ±Ø§ÙÛÚ©</span><div class="progress"><div class="progress-bar" data-value="1909.6" data-max="122880"></div></div><div class="stats"> 1909.6 / 122880 MB </div></li>
+
+          <li><span>&#10148;</span><span>Ø¯Ø§ÙÛÙâÙØ§Û Ø§ØµÙÛ</span><div class="progress"><div class="progress-bar" data-value="1" data-max="1"></div></div><div class="stats">1 / 1</div></li>
+
+          <li><span>&#10148;</span><span>Ø¯ÛØªØ§Ø¨ÛØ³âÙØ§</span><div class="progress"><div class="progress-bar" data-value="1" data-max="2"></div></div><div class="stats">1 / 2</div></li>
+
+          <li><span>&#10148;</span><span>FTP Ø§Ú©Ø§ÙØªâÙØ§Û</span><div class="progress"><div class="progress-bar" data-value="1" data-max="10"></div></div><div class="stats">1 / 10</div></li>
+
+          <li><span>&#10148;</span><span>Ø§Ú©Ø§ÙØªâÙØ§Û Ø§ÛÙÛÙ</span><div class="progress"><div class="progress-bar" data-value="2" data-max="11"></div></div><div class="stats">2 / 11</div></li>
+
+          <li><span>&#10148;</span><span>Ø³Ø§Ø¨Ø¯Ø§ÙÛÙâÙØ§</span><div class="progress"><div class="progress-bar" data-value="0" data-max="10"></div></div><div class="stats">0 / 10</div></li>
+
+          <li><span>&#10148;</span><span>Ø¯Ø§ÙÛÙâÙØ§Û Ù¾Ø§Ø±Ú© Ø´Ø¯Ù</span><div class="progress"><div class="progress-bar" data-value="0" data-max="10"></div></div><div class="stats">0 / 10</div></li>
+
+        </ul>
+      </div>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+$(function(){$("body").find(".bbar").each(function(){$(this).animate({width:$(this).attr("ancho")+"px"},2000).animate({opacity:"toggle"},200).animate({opacity:"toggle"},200).animate({opacity:"toggle"},200).animate({opacity:"toggle"},200);});});
+//-->
+</script>
+
+    </div>
+    <div id="rightPanel">
+
+
+
+
+
+
+
+<div class="pageTit"><span>Ù¾Ø´ØªÛØ¨Ø§Ù Ú¯ÛØ±Û Ø§Ø² ØªÙØ§ÙÛ Ø¯Ø§ÙÙÙ ÙØ§</span>
+<div><a href="/"><img title="ØµÙØ­Ù Ø§ØµÙÛ" style="vertical-align:middle" src="IMG_USER_HOME" /></a> &#10132; <a class=tree href="/CMD_SHOW_DOMAIN?domain=`domain`"><img title="`domain`" style="vertical-align:middle" src="IMG_SHOW_DOMAIN_EX" /></a>  &#10132; <a class=tree href="/CMD_SITE_BACKUP?domain=`domain`">Ø¨Ú©Ø§Ù¾âÚ¯ÛØ±Û Ø§Ø² Ø§Ø·ÙØ§Ø¹Ø§Øª Ø³Ø±ÙÛØ³ ÙØ§Ø³ØªÛÙÚ¯</a></div>
+</div>
+
+
+
+<div class="table75">
+<form action="/CMD_SITE_BACKUP" method="post" name="tableform1">
+<input type=hidden name="form_version" value="2">
+<input type=hidden name=domain value="none">
+<input type=hidden name=action value="backup">
+<table cellspacing=0 class="config ext-rtl">
+  <thead>
+  <tr><td colspan=2>Ø¢ÛØªÙâÙØ§Û ÙÙØ±Ø¯ ÙØ¸Ø± Ø®ÙØ¯ Ø¨Ø±Ø§Û Ø¨Ú©Ø§Ù¾âÚ¯ÛØ±Û Ø±Ø§ Ø§ÙØªØ®Ø§Ø¨ Ú©ÙÛØ¯</td></tr>
+  </thead>
+  <tbody>
+  <tr><td colspan=2><b>Ø§Ø·ÙØ§Ø¹Ø§Øª ÙØ¨Ø³Ø§ÛØªâÙØ§</b></td></tr>
+  <tr><td colspan=2><input id=check_domain type=checkbox name=select0 value="domain" checked><label for=check_domain><span dir="rtl">Ø´Ø§Ø®Ù <b dir="ltr">/domains</b>: Ø¨Ú©Ø§Ù¾âÚ¯ÛØ±Û Ø§Ø² ÙØ§ÛÙâÙØ§Û ØªÙØ§ÙÛ ÙØ¨Ø³Ø§ÛØªâÙØ§Û Ø³Ø±ÙÛØ³ ÙØ§Ø³ØªÛÙÚ¯</span></label></td></tr>
+  <tr><td colspan=2><input id=check_sublist type=checkbox name=select1 value="subdomain" checked><label for=check_sublist>ÙÛØ³Øª Ø³Ø§Ø¨Ø¯Ø§ÙÛÙâÙØ§: Ø¨Ú©Ø§Ù¾âÚ¯ÛØ±Û Ø§Ø² ÙÛØ³Øª Ø³Ø§Ø¨Ø¯Ø§ÙÛÙâÙØ§Û ÙØ± Ø¯Ø§ÙÛÙ Ø§ØµÙÛ</label></td></tr>
+  <tr><td colspan=2><input id=check_trash_data type=checkbox name="select13" value="trash" checked><label for=check_trash_data>ÙØ­ØªÙØ§Û Trash</label></td></tr>
+  <tr><td colspan=2><b>Ø§ÛÙÛÙ</b></td></tr>
+  <tr><td colspan=2><input id=check_email type=checkbox name=select2 value="email" checked onClick='document.tableform1.select12.checked = this.checked;'><label for=check_email>Ø§Ú©Ø§ÙØªâÙØ§Û Ø§ÛÙÛÙ ØªÙØ§ÙÛ Ø¯Ø§ÙÛÙâÙØ§</label></td></tr>
+  <tr><td colspan=2><input id=check_email_data type=checkbox name=select12 value="email_data" checked onClick='if (this.checked == true) { document.tableform1.select2.checked = true; }'><label for=check_email_data>ÙØ­ØªÙØ§Û ÙÛÙâØ¨Ø§Ú©Ø³ Ø§Ú©Ø§ÙØªâÙØ§Û Ø§ÛÙÛÙ</label></td></tr>
+
+  <tr><td colspan=2><input id=check_forwarder type=checkbox name=select3 value="forwarder" checked><label for=check_forwarder>Ø§Ø±Ø¬Ø§Ø¹ Ø¯ÙÙØ¯Ù ÙØ§Û Ø§ÛÙÛÙ: ØªÙØ§ÙÛ Ø¢Ø¯Ø±Ø³ ÙØ§Û Ø§Ø±Ø¬Ø§Ø¹ Ø­ÙØ¸ ÙÛ Ø´ÙÙØ¯</label></td></tr>
+  <tr><td colspan=2><input id=check_autoresponder type=checkbox name=select4 value="autoresponder" checked><label for=check_autoresponder>Ù¾Ø§Ø³Ø® Ø®ÙØ¯Ú©Ø§Ø±: ØªÙØ§ÙÛ Ù¾Ø§Ø³Ø® ÙØ§Û Ø®ÙØ¯Ú©Ø§Ø± Ø±Ø§ Ø´Ø§ÙÙ ÙÛ Ø´ÙØ¯</label></td></tr>
+  <tr><td colspan=2><input id=check_vacation type=checkbox name=select5 value="vacation" checked><label for=check_vacation>Vacation Messages: ØªÙØ§ÙÛ Ù¾ÛØºØ§Ù ÙØ§ Ø±Ø§ Ø´ÙØ§ÙÙ ÙÛ Ø´ÙÙØ¯</label></td></tr>
+  <tr><td colspan=2><input id=check_maillist type=checkbox name=select6 value="list" checked><label for=check_maillist>ÙÛØ³Øª Ø§ÛÙÛÙ ÙØ§: ØªÙØ§ÙÛ ÙÛØ³Øª ÙØ§ Ø±Ø§ Ø´Ø§ÙÙ ÙÛ Ø´ÙØ¯</label></td></tr>
+  <tr><td colspan=2><input id=check_emailsettings type=checkbox name=select7 value="emailsettings" checked><label for=check_emailsettings>ØªÙØ¸ÛÙØ§Øª Ø§ÛÙÛÙ: ØªÙØ§ÙÛ ÙÛÙØªØ± ÙØ§ Ù ØªÙØ¸ÛÙØ§Øª Ø­ÙØ· ÙÛ Ø´ÙÙØ¯</label></td></tr>
+  <tr><td colspan=2><b>FTP</b></td></tr>
+  <tr><td colspan=2><input id=check_ftp type=checkbox name=select8 value="ftp" checked><label for=check_ftp>FTP Ø§Ú©Ø§ÙØªâÙØ§Û</label></td></tr>
+  <tr><td colspan=2><input id=check_ftpsettings type=checkbox name=select9 value="ftpsettings" checked><label for=check_ftpsettings>FTP ØªÙØ¸ÛÙØ§Øª</label></td></tr>
+  <tr><td colspan=2><b>Ø¯ÛØªØ§Ø¨ÛØ³âÙØ§</b></td></tr>
+  <tr><td colspan=2><input id=check_database type=checkbox name=select10 value="database" checked><label for=check_database><span dir="rtl">Ø¯ÛØªØ§Ø¨ÛØ³âÙØ§: Ø¨Ú©Ø§Ù¾ Ú¯ÛØ±Û Ø§Ø² Ú©Ø§Ø±Ø¨Ø±Ø§Ù <span dir="ltr">MySQL</span> Ø¯ÛØªØ§Ø¨ÛØ³âÙØ§</span></label></td></tr>
+  <tr><td colspan=2><input id=check_database_data type=checkbox name=select11 value="database_data" onClick='if (this.checked == true) { document.tableform1.select10.checked = true; }' checked><label for=check_database_data>Ø§Ø·ÙØ§Ø¹Ø§Øª Ø°Ø®ÛØ±Ù Ø´Ø¯Ù Ø¯Ø± Ø¯ÛØªØ§Ø¨ÛØ³âÙØ§</label></td></tr>
+  </tbody>
+  <tfoot>
+  <tr><td colspan=2 class="ext-rtl"><input type=submit value="Ø§ÛØ¬Ø§Ø¯ Ø¢Ø±Ø´ÛÙ Ø¨Ú©Ø§Ù¾"></td></tr>
+  </tfoot>
+</table>
+</form>
+
+
+<form action="/CMD_SITE_BACKUP" method="post" style="display:block;margin-top:18px;">
+<input type=hidden name=domain value="none">
+<input type=hidden name=action value="view">
+<table cellspacing=0 class="config ext-rtl">
+  <thead>
+  <tr><td>ÛÚ© ÙØ§ÛÙ Ø±Ø§ Ø¨Ø±Ø§Û Ø¨Ø§Ø²Ú¯Ø±Ø¯Ø§ÙÛ Ø§ÙØªØ®Ø§Ø¨ Ú©ÙÛØ¯</td></tr>
+  </thead>
+  <tbody>
+  <tr><td style="direction:ltr">ÙÛÚ Ø§Ø·ÙØ§Ø¹Ø§ØªÛ Ø¨Ø±Ø§Û ÙÙØ§ÛØ´ ÙØ¬ÙØ¯ ÙØ¯Ø§Ø±Ø¯</td></tr>
+  <tr><td><a href="/CMD_FILE_MANAGER/backups">Ø¨Ø±Ø§Û ÙØ´Ø§ÙØ¯Ù Ø¢Ø±Ø´ÛÙâÙØ§Û Ø¨Ú©Ø§Ù¾ Ø§ÛÙØ¬Ø§ Ø±Ø§ Ú©ÙÛÚ© Ú©ÙÛØ¯</a></td></tr>
+  </tbody>
+  <tfoot>
+  <tr><td><input type=submit value="ØªÙØ¸ÛÙØ§Øª Ø¨Ø§Ø²Ú¯Ø±Ø¯Ø§ÙÛ Ø±Ø§ Ø§ÙØªØ®Ø§Ø¨ Ú©ÙÛØ¯"></td></tr>
+  </tfoot>
+</table>
+</form>
+</div>
+
+
+    </div>
+
+    <div class="cleft"></div><div class="cright"></div><div class="cf"></div>
+  </div>
+  <div id="main_bottom">
+    <a class="white" href="http://www.directadmin.com/">DirectAdmin</a> Web Control Panel &copy; 2009-2022 JBMC Software
+  </div>
+</div>
+<script>
+	$(document).ready(function() {
+		$('#account-summary-box .progress-bar').each(function () {
+			var percentage = 0;
+			var value = $(this).attr('data-value');
+			var max   = $(this).attr('data-max');
+
+			if (max != "unlimited") {
+				percentage = (value * 100) / max;
+			}
+
+			if (percentage > 100) {
+				percentage = 100;
+			}
+			
+			var progress_level = "progress-level" + Math.floor(percentage / 10);
+
+			$(this).addClass(progress_level);
+
+			$(this).animate({ width: percentage + "%"}, 800);
+		});
+	});
+</script>
+</body>
+</html>
+
+

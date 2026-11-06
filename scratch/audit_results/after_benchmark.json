@@ -1,0 +1,98 @@
+{
+  "Homepage": {
+    "name": "Homepage",
+    "url": "https://hosseinykala.ir/",
+    "http_status": 200,
+    "avg_ttfb_ms": 452.2,
+    "avg_total_ms": 761.3,
+    "min_ttfb_ms": 448.7,
+    "min_total_ms": 754.6,
+    "cache_status": "HIT",
+    "cache_control": "public, max-age=3600, stale-while-revalidate=86400",
+    "content_encoding": "gzip"
+  },
+  "Product": {
+    "name": "Product",
+    "url": "https://hosseinykala.ir/product/depoint-decent-combi-refrigerator-freezer/",
+    "http_status": 200,
+    "avg_ttfb_ms": 504.2,
+    "avg_total_ms": 778.7,
+    "min_ttfb_ms": 461.1,
+    "min_total_ms": 774.3,
+    "cache_status": "HIT",
+    "cache_control": "public, max-age=3600, stale-while-revalidate=86400",
+    "content_encoding": "gzip"
+  },
+  "Category": {
+    "name": "Category",
+    "url": "https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%d9%81%d8%b1%db%8c%d8%b2%d8%b1/",
+    "http_status": 200,
+    "avg_ttfb_ms": 599.9,
+    "avg_total_ms": 733.2,
+    "min_ttfb_ms": 438.4,
+    "min_total_ms": 675.6,
+    "cache_status": "HIT",
+    "cache_control": "public, max-age=3600, stale-while-revalidate=86400",
+    "content_encoding": "gzip"
+  },
+  "Blog": {
+    "name": "Blog",
+    "url": "https://hosseinykala.ir/refah-bank-beta-installment-guide/",
+    "http_status": 200,
+    "avg_ttfb_ms": 571.6,
+    "avg_total_ms": 703.4,
+    "min_ttfb_ms": 490.4,
+    "min_total_ms": 670.1,
+    "cache_status": "HIT",
+    "cache_control": "public, max-age=3600, stale-while-revalidate=86400",
+    "content_encoding": "gzip"
+  },
+  "Cart": {
+    "name": "Cart",
+    "url": "https://hosseinykala.ir/cart/",
+    "http_status": 200,
+    "avg_ttfb_ms": 3154.7,
+    "avg_total_ms": 3259.2,
+    "min_ttfb_ms": 3089.2,
+    "min_total_ms": 3160.1,
+    "cache_status": "NONE",
+    "cache_control": "None",
+    "content_encoding": "gzip"
+  },
+  "Checkout": {
+    "name": "Checkout",
+    "url": "https://hosseinykala.ir/checkout/",
+    "http_status": 200,
+    "avg_ttfb_ms": 5728.7,
+    "avg_total_ms": 5759.2,
+    "min_ttfb_ms": 5425.4,
+    "min_total_ms": 5447.6,
+    "cache_status": "NONE",
+    "cache_control": "no-cache, must-revalidate, max-age=0, private",
+    "content_encoding": "gzip"
+  },
+  "Account": {
+    "name": "Account",
+    "url": "https://hosseinykala.ir/my-account/",
+    "http_status": 200,
+    "avg_ttfb_ms": 3550.5,
+    "avg_total_ms": 3584.8,
+    "min_ttfb_ms": 3008.2,
+    "min_total_ms": 3041.1,
+    "cache_status": "NONE",
+    "cache_control": "None",
+    "content_encoding": "gzip"
+  },
+  "Search": {
+    "name": "Search",
+    "url": "https://hosseinykala.ir/?s=%DB%8C%D8%AE%DA%86%D8%A7%D9%84",
+    "http_status": 200,
+    "avg_ttfb_ms": 960.0,
+    "avg_total_ms": 1245.7,
+    "min_ttfb_ms": 476.1,
+    "min_total_ms": 803.0,
+    "cache_status": "HIT",
+    "cache_control": "public, max-age=3600, stale-while-revalidate=86400",
+    "content_encoding": "gzip"
+  }
+}

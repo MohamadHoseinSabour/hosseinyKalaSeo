@@ -1,0 +1,2261 @@
+[
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر دیپوینت مدل T7 در اهواز - فروش اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAaIV97",
+          "web_info": {
+            "title": "یخچال فریزر دیپوینت مدل T7 در اهواز - فروش اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/iFVMoD43LGD7Pz21yUpuUg/2bde2547-d553-4936-9ad8-f3755f0fa857.jpg",
+      "bottom_description_text": " در نادری",
+      "red_text": "نردبان شده",
+      "middle_description_text": "۱۳۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 4,
+      "image_top_left_tag": {
+        "text": "۴",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAaIV97"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAaIV97",
+          "index": 0,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-10-01T15:22:29.015511Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر کمبی کلور مدل روسو در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAW4JMg",
+          "web_info": {
+            "title": "یخچال فریزر کمبی کلور مدل روسو در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/_bVr92x4EhbwQAgNjGSXAg/c4317c16-05ec-4cd8-a12a-eb52308b0647.jpg",
+      "bottom_description_text": " در نادری",
+      "red_text": "نردبان شده",
+      "middle_description_text": "۱۳۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAW4JMg"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAW4JMg",
+          "index": 1,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-10-01T15:21:53.042739Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "لباسشویی دوقلو پاکشوما در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaEWXN80",
+          "web_info": {
+            "title": "لباسشویی دوقلو پاکشوما در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/zGqTYy3giLo1jZFONsLAqw/59e04ed4-8992-43f6-a672-3fb615e9d44c.jpg",
+      "bottom_description_text": " در نادری",
+      "red_text": "نردبان شده",
+      "middle_description_text": "۲۳٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaEWXN80"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaEWXN80",
+          "index": 2,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-09-26T15:26:53.971429Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "دستگاه تصفیه آب سافت واتر در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaDSDBEK",
+          "web_info": {
+            "title": "دستگاه تصفیه آب سافت واتر در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/68aF0cz8gASMrCmMt4vUqA/ff9c5ea1-1d70-4a8a-ac5d-9a3a6180b142.jpg",
+      "bottom_description_text": " در نادری",
+      "red_text": "نردبان شده",
+      "middle_description_text": "۱۸٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaDSDBEK"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaDSDBEK",
+          "index": 3,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-09-26T15:26:15.960892Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "کولر آبی سلولزی کانال‌دار یاسان در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaD2CvBv",
+          "web_info": {
+            "title": "کولر آبی سلولزی کانال‌دار یاسان در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/9mveiHWduSMreRInqL1qBw/f932c869-0882-4ed4-96b7-b7d050a75fef.jpg",
+      "bottom_description_text": " در نادری",
+      "red_text": "نردبان شده",
+      "middle_description_text": "۳۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaD2CvBv"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaD2CvBv",
+          "index": 4,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-09-26T15:25:20.991326Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "لباسشویی کلور مدل تاچ 8 و 9 کیلو در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBOesc6",
+          "web_info": {
+            "title": "لباسشویی کلور مدل تاچ 8 و 9 کیلو در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/RdcpxBPAI3gVflOJTNJGtQ/db56f169-8f91-4b61-ac35-4724f7009069.jpg",
+      "bottom_description_text": " در نادری",
+      "red_text": "نردبان شده",
+      "middle_description_text": "۱۱۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 4,
+      "image_top_left_tag": {
+        "text": "۴",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBOesc6"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBOesc6",
+          "index": 5,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-09-26T15:24:41.273292Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "جاروبرقی بست (BOST) در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBOtoet",
+          "web_info": {
+            "title": "جاروبرقی بست (BOST) در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/263luowecnyd2YZtVnVi1w/93f4360d-e5fa-435b-b048-d5341c3a47cd.jpg",
+      "bottom_description_text": " در نادری",
+      "red_text": "نردبان شده",
+      "middle_description_text": "۲۴٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBOtoet"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBOtoet",
+          "index": 6,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-09-26T15:24:05.208609Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر دوقلو الکترواستیل در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAy4Eoi",
+          "web_info": {
+            "title": "یخچال فریزر دوقلو الکترواستیل در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/1PJpF2eFtFIEGwwUHFKzug/aef8f11a-3dcd-42ff-993a-7bcbd1f3a950.jpg",
+      "bottom_description_text": " در نادری",
+      "red_text": "نردبان شده",
+      "middle_description_text": "۲۶۴٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAy4Eoi"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAy4Eoi",
+          "index": 7,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-09-26T15:23:27.992815Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر دوقلو هیمالیا در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAu4EK1",
+          "web_info": {
+            "title": "یخچال فریزر دوقلو هیمالیا در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/nGsiO2wp17n7wq4JU0zkcA/b98cbbbd-c284-44f8-8836-ced6dad5a903.jpg",
+      "bottom_description_text": " در نادری",
+      "red_text": "نردبان شده",
+      "middle_description_text": "۲۴۰٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAu4EK1"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAu4EK1",
+          "index": 8,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-09-26T15:23:05.239720Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "کولر گازی ۱۸۰۰۰ پاکشوما زیر قیمت اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaQ2WnAG",
+          "web_info": {
+            "title": "کولر گازی ۱۸۰۰۰ پاکشوما زیر قیمت اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/75UYN-RQOz1BUmFbAS8Q9A/0f1ce0a8-ba87-4ce9-8cc1-85e98eb11ff5.jpg",
+      "bottom_description_text": "۹ هفته پیش در نادری",
+      "middle_description_text": "۷۹٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaQ2WnAG"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaQ2WnAG",
+          "index": 9,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-27T17:07:07.887091Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "ست ماشین اصلاح ۵ کاره پرو امگا مدل T8 - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaEeHUq5",
+          "web_info": {
+            "title": "ست ماشین اصلاح ۵ کاره پرو امگا مدل T8 - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/StUWIhnSyMtD64PPiGZvAA/a8619399-1845-4097-aab7-89b256e46f9b.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۱۰٬۵۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaEeHUq5"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaEeHUq5",
+          "index": 10,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-18T15:16:48.352193Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "ماشین اصلاح مو پرو امگا مدل T7 تمام فلزی - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaEeHB8Z",
+          "web_info": {
+            "title": "ماشین اصلاح مو پرو امگا مدل T7 تمام فلزی - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/9-ZjlakDaEaZYJpaL4HjuA/f454b447-58ba-4e24-b842-a274fcb4571d.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۷٬۵۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaEeHB8Z"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaEeHB8Z",
+          "index": 11,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-18T15:15:31.628425Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "لباسشویی دوقلو ریتون در اهواز - فروش اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaEaXCf5",
+          "web_info": {
+            "title": "لباسشویی دوقلو ریتون در اهواز - فروش اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/nre6YbXe7vrBoF2ibOXeFg/099549fa-8c3b-4811-905a-e52fb040266b.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۲۷٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaEaXCf5"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaEaXCf5",
+          "index": 12,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-18T15:11:20.360426Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "دستگاه تصفیه آب هوم گلد در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaDOjtwU",
+          "web_info": {
+            "title": "دستگاه تصفیه آب هوم گلد در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/ZJ2hrzFXbSdVaf_MeHQlDw/0f491b99-7213-437c-bf52-4a330ce71d65.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۰٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaDOjtwU"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaDOjtwU",
+          "index": 13,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T16:16:03.800403Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "دستگاه تصفیه آب ۶ مرحله‌ای وست واتر در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaDODWSc",
+          "web_info": {
+            "title": "دستگاه تصفیه آب ۶ مرحله‌ای وست واتر در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/AW-7D8T0_q15On9SIFkxRw/63e9b8c3-b177-4def-8eb7-d13459d6e93d.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۰٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaDODWSc"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaDODWSc",
+          "index": 14,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T16:14:29.635934Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "سرخ‌کن ۸ لیتر دونالکس مدل DN-950 در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaDKzwK-",
+          "web_info": {
+            "title": "سرخ‌کن ۸ لیتر دونالکس مدل DN-950 در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/rLJE_uV9mke1Vf-5VMcRHw/6a56f8e5-692e-4c2c-8a30-08c7426b445f.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۴٬۵۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaDKzwK-"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaDKzwK-",
+          "index": 15,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T16:12:03.179795Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "سرخ‌کن و آون توستر افقی دونالکس در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaDKTPJh",
+          "web_info": {
+            "title": "سرخ‌کن و آون توستر افقی دونالکس در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/ab0-VYxw1kKUL2holO64Kw/bfa73916-43f5-46c1-b56d-09fb2ea580b2.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۴۳٬۵۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaDKTPJh"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaDKTPJh",
+          "index": 16,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T16:10:16.634631Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر دوقلو دیپوینت مدل MAX در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaDCTw5l",
+          "web_info": {
+            "title": "یخچال فریزر دوقلو دیپوینت مدل MAX در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/zCjFqM7IWkWbi9ec10JEeA/8f435133-9396-4558-8c99-644dd8f794a1.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۱۹۰٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaDCTw5l"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaDCTw5l",
+          "index": 17,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T16:03:28.610396Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "آبسردکن ایستاده نیکای ۳ شیر مشکی در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaD-iY1g",
+          "web_info": {
+            "title": "آبسردکن ایستاده نیکای ۳ شیر مشکی در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/xmWWxNKUuvIhK2-4ms_tLA/fb01f346-a198-4620-9602-a7f8299a175a.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۱٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaD-iY1g"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaD-iY1g",
+          "index": 18,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T15:57:36.142280Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "آبسردکن ایستاده یونوا مدل سوپر کول در اهواز-اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaD-SCsr",
+          "web_info": {
+            "title": "آبسردکن ایستاده یونوا مدل سوپر کول در اهواز-اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/PyC0CWdSEklKpAP6Q5s-ew/eee834ae-462f-42fd-aa17-a8bbbfcf1f47.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۲۶٬۵۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaD-SCsr"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaD-SCsr",
+          "index": 19,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T15:56:09.708265Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "کولر آبی سلولزی ۱۶۰۰۰ ریتون در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaD2SGjW",
+          "web_info": {
+            "title": "کولر آبی سلولزی ۱۶۰۰۰ ریتون در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/sJQ5Z24IoKnmXk8mrUbooA/231756aa-2c2a-44d1-847f-482bd9e95de8.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۲۷٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaD2SGjW"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaD2SGjW",
+          "index": 20,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T15:47:50.952671Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "کولر آبی سلولزی 7۰۰۰ ریتون در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaDyi1C2",
+          "web_info": {
+            "title": "کولر آبی سلولزی 7۰۰۰ ریتون در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/tnbvv6GhNWcAmWmyjpLxcQ/a5a4d91a-85f7-4d10-9553-54772d20e2b6.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۲۲٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaDyi1C2"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaDyi1C2",
+          "index": 21,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T15:46:45.311556Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "جاروبرقی صنعتی کالسکه دار کسری در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaDyySYH",
+          "web_info": {
+            "title": "جاروبرقی صنعتی کالسکه دار کسری در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/KCTpwIxOZqLIev6g-1GHHw/4febe0c4-67eb-442c-be95-ade2b30445fc.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۴۶٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaDyySYH"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaDyySYH",
+          "index": 22,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T15:44:24.924313Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "لباسشویی سطلی و پتوشور پاکیزان در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaDqihbQ",
+          "web_info": {
+            "title": "لباسشویی سطلی و پتوشور پاکیزان در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/fDw97zjkyhdla6e_dfbLGQ/f37a1df2-76ad-4392-a7a9-16c02c339457.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۲۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaDqihbQ"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaDqihbQ",
+          "index": 23,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-17T15:37:02.947564Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "ماشین ظرفشویی ۱۵ و 16 نفره کلور  در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBS-zpV",
+          "web_info": {
+            "title": "ماشین ظرفشویی ۱۵ و 16 نفره کلور  در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/hRtNo1IkPlIEa-2WRt33Ig/c8157b59-0dcc-447c-99bd-646c4f5a7643.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۱۰۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBS-zpV"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBS-zpV",
+          "index": 24,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T16:27:09.221101Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "لباسشویی ۹ کیلوگرم اتوماتیک دوو در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBCeXcd",
+          "web_info": {
+            "title": "لباسشویی ۹ کیلوگرم اتوماتیک دوو در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/58raNEeipuaXgNjTKn9yjQ/cd2e0f46-45cb-439f-84ac-6ce4e1ec9f79.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۱۱۷٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBCeXcd"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBCeXcd",
+          "index": 25,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T16:08:13.060721Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال ۱۰ فوت کلور مدل مینی رنگی در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaB-d_I5",
+          "web_info": {
+            "title": "یخچال ۱۰ فوت کلور مدل مینی رنگی در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/Bg_yCTSLYnzeSPylC-AFKA/869b1e4c-3c85-49fc-a1b6-9619c7d1ea1b.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۶۴٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaB-d_I5"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaB-d_I5",
+          "index": 26,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T16:06:35.261891Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر ۹ فوت ایستکول مدل 2919 اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBqNWtM",
+          "web_info": {
+            "title": "یخچال فریزر ۹ فوت ایستکول مدل 2919 اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/uEU1cJSlKSISjK3pLXLWNw/fcf76cf7-9c10-4ba1-9415-f5633cdff430.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۴۶٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBqNWtM"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBqNWtM",
+          "index": 27,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T15:53:57.024588Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال ۵ فوت ایستکول مدل 2835 در اهواز -فروش اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBWNaM-",
+          "web_info": {
+            "title": "یخچال ۵ فوت ایستکول مدل 2835 در اهواز -فروش اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/kf0b_S3gg9ncJyp4lvW-vQ/97c15a3f-41bd-4e41-9a5e-c81149ffd1d4.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBWNaM-"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBWNaM-",
+          "index": 28,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T15:21:27.423494Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "اتو بخار ۲۵۰۰ وات دونالکس مدل 815 در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBWNG6g",
+          "web_info": {
+            "title": "اتو بخار ۲۵۰۰ وات دونالکس مدل 815 در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/wzGdbuMf3qoyOqxcZnPwhw/2d00ca8a-ed72-4dde-88af-f9305707c048.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۱۰٬۵۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBWNG6g"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBWNG6g",
+          "index": 29,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T15:20:06.120649Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "اسپرسوساز دونالکس مدل DN-475 استیل اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBStoIr",
+          "web_info": {
+            "title": "اسپرسوساز دونالکس مدل DN-475 استیل اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/5YT5mE2dI8thUEzt0Ptnng/4777726f-9c40-466b-a1bb-8d65ca918bf1.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۹٬۵۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBStoIr"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBStoIr",
+          "index": 0,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T15:18:50.062691Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "جاروبرقی ۲۲۰۰ وات دونالکس در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBSdKsR",
+          "web_info": {
+            "title": "جاروبرقی ۲۲۰۰ وات دونالکس در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/E3p_Ix2ouArhkSjnA7yU0A/a8ed2747-a95a-4cd9-bc81-8edff79d42af.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۴۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBSdKsR"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBSdKsR",
+          "index": 1,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T15:16:10.242674Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "آبسردکن رومیزی افترون (AFTRON) در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBKN3y0",
+          "web_info": {
+            "title": "آبسردکن رومیزی افترون (AFTRON) در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/Y1bTU7MwiQyFedQ0CikPrA/f0f4d6d6-76a0-4da8-9b80-20a502721dec.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBKN3y0"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBKN3y0",
+          "index": 2,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T15:10:34.051979Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "جاروبرقی ۲۰۰۰ وات پاناسونیک در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBK9hyS",
+          "web_info": {
+            "title": "جاروبرقی ۲۰۰۰ وات پاناسونیک در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/fTGpEox1r1V_bMOtv6iUnA/4a63b8f2-9a9f-4047-ada3-d9651c18e741.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۴۶٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBK9hyS"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBK9hyS",
+          "index": 3,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T15:09:08.441474Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "جاروبرقی سطلی تیوا (Tiwa) در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBK9SKu",
+          "web_info": {
+            "title": "جاروبرقی سطلی تیوا (Tiwa) در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/4q5QDR7nXvr_JfQvntsWyQ/300fafab-9255-482f-8c37-9fac4c6e6867.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۲۷٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBK9SKu"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBK9SKu",
+          "index": 4,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T15:08:08.218190Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "ست صبحانه و خردکن لمروتی (Lamroti) اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaBGt5xX",
+          "web_info": {
+            "title": "ست صبحانه و خردکن لمروتی (Lamroti) اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/Te3qNku8Y6bMFp-f5dL3eQ/3aa18d5f-e388-4988-bc6a-dfa213c13c5e.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۸۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 1,
+      "image_top_left_tag": {
+        "text": "۱",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaBGt5xX"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaBGt5xX",
+          "index": 5,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-16T15:06:29.982686Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "جاروبرقی سطلی ۲۱۰۰ وات هیتاچی950F در اهواز",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaA64djl",
+          "web_info": {
+            "title": "جاروبرقی سطلی ۲۱۰۰ وات هیتاچی950F در اهواز"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/FpebIAvgBJo0DnsKeU0zEQ/6abb69dc-00fc-49b9-92c5-1ae6696c4ddb.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۲٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaA64djl"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaA64djl",
+          "index": 6,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-15T16:06:29.988532Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال دوقلو کلور مدل گلوری عرض ۶۰ در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaA24gSo",
+          "web_info": {
+            "title": "یخچال دوقلو کلور مدل گلوری عرض ۶۰ در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/tBdAczTUgi_0znJSuRlBZg/c053a710-85ac-4562-b410-05a76d6e7737.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۲۷۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaA24gSo"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaA24gSo",
+          "index": 7,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-15T16:02:30.040065Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر دوقلو ۴۰ فوت کلور مدل رسوپلاس - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAyI8Ub",
+          "web_info": {
+            "title": "یخچال فریزر دوقلو ۴۰ فوت کلور مدل رسوپلاس - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/obhBm531h7fgTNsGghcB2g/7ecbaa08-dbf3-46bc-a599-aadf03d4e7ff.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۲۹۰٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAyI8Ub"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAyI8Ub",
+          "index": 8,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-15T16:00:00.070325Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر دوقلو 54 فوت کلور در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAmIr1z",
+          "web_info": {
+            "title": "یخچال فریزر دوقلو 54 فوت کلور در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/EweMahErJpgW-kyIApHH4w/c93f145a-a493-4508-8eea-7e88de472d53.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۱۰٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAmIr1z"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAmIr1z",
+          "index": 9,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-15T15:58:30.007408Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر دوقلو کلور مدل روسو در اهواز - اقساط",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAmYF6K",
+          "web_info": {
+            "title": "یخچال فریزر دوقلو کلور مدل روسو در اهواز - اقساط"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/By3XHOyfJBbUrgPLJsXb-A/bbd5feb3-97a1-402d-b46b-cae5680a713f.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۳۱۰٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAmYF6K"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAmYF6K",
+          "index": 10,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-15T15:43:32.089127Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر دوقلو کلور مدل 101 در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAiYRkA",
+          "web_info": {
+            "title": "یخچال فریزر دوقلو کلور مدل 101 در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/V0QuBB3ZoezfEdmMn65XFw/715d2936-0bcf-46da-b206-f9a4fce49f05.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۲۷۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAiYRkA"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAiYRkA",
+          "index": 11,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-15T15:40:04.231336Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر دیپوینت مدل Boss Pro در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAaYwqK",
+          "web_info": {
+            "title": "یخچال فریزر دیپوینت مدل Boss Pro در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/fd2W2la_RKguHT4-ail5iQ/3ab0b0a9-ae3e-4fea-8f53-94226e86f6e4.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۱۵۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 3,
+      "image_top_left_tag": {
+        "text": "۳",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAaYwqK"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAaYwqK",
+          "index": 12,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-15T15:33:36.735168Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر کمبی بست (BOST) در اهواز - اقساط ویژه",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAW445l",
+          "web_info": {
+            "title": "یخچال فریزر کمبی بست (BOST) در اهواز - اقساط ویژه"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/Gzmy917GC2tI8CG9s1T4jw/74db9da2-4dd6-4a71-af2c-80df092fa9ec.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۹۵٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAW445l"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAW445l",
+          "index": 13,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-15T15:29:52.368678Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  },
+  {
+    "widget_type": "POST_ROW",
+    "data": {
+      "@type": "type.googleapis.com/widgets.PostRowData",
+      "title": "یخچال فریزر کمبی کلور گلوری پلاس در اهواز - اقساطی",
+      "action": {
+        "type": "VIEW_POST",
+        "payload": {
+          "@type": "type.googleapis.com/widgets.ViewPostPayload",
+          "token": "gaAW4ixd",
+          "web_info": {
+            "title": "یخچال فریزر کمبی کلور گلوری پلاس در اهواز - اقساطی"
+          }
+        }
+      },
+      "image_url": "https://s100.divarcdn.com/static/photo/neda/post/93KYOmDM3hsKFkNfnLTvNA/0e5e0e51-1eec-45bb-980e-893e51efc311.jpg",
+      "bottom_description_text": "۱۱ هفته پیش در نادری",
+      "middle_description_text": "۱۷۰٬۰۰۰٬۰۰۰ تومان",
+      "has_divider": true,
+      "image_count": 2,
+      "image_top_left_tag": {
+        "text": "۲",
+        "icon": {
+          "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+          "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+          "icon_name": "CAMERA",
+          "icon_color": "WHITE_PRIMARY"
+        }
+      },
+      "padded": true,
+      "token": "gaAW4ixd"
+    },
+    "action_log": {
+      "server_side_info": {
+        "info": {
+          "@type": "type.googleapis.com/action_log.PostItemInfo",
+          "post_token": "gaAW4ixd",
+          "index": 14,
+          "post_type": "PREMIUM_PANEL",
+          "list_type": "ROW",
+          "source_page": "PREMIUM_PANEL_LANDING_PAGE",
+          "sort_date": "2026-08-15T15:28:25.399923Z"
+        },
+        "item_type": {
+          "type": "POST_ITEM"
+        }
+      },
+      "enabled": true
+    }
+  }
+]

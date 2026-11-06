@@ -1,0 +1,3587 @@
+{
+  "nb": {
+    "showNoSearchResultNotice": false,
+    "listTopWidgets": [],
+    "listWidgets": [],
+    "listBottomWidgets": [],
+    "sidebarTopWidgets": [],
+    "sidebarBottomWidgets": [],
+    "firstPostDate": null,
+    "filterChips": [],
+    "seoDetails": {},
+    "pagination": null,
+    "isLoading": false,
+    "isLoadingMore": false,
+    "showLoadMoreSkeleton": false,
+    "hasSSRUnauthorizedError": false,
+    "isPullingToRefresh": false,
+    "tabs": {},
+    "lastAttemptedFetchLocation": {
+      "pathname": "",
+      "search": ""
+    },
+    "filtersPage": {
+      "widgetList": [],
+      "isLoading": false,
+      "hasSSRUnauthorizedError": false
+    },
+    "searchBar": {},
+    "fabButton": null,
+    "mapDeferredActionLog": null,
+    "mapViewport": {
+      "isLoading": true,
+      "error": null,
+      "data": {
+        "posts": [],
+        "clusters": [],
+        "countText": ""
+      }
+    },
+    "mapData": {
+      "isEnabled": false,
+      "searchThisAreaButton": {
+        "isEnabled": false
+      },
+      "config": {
+        "style": {},
+        "layerIds": [],
+        "clusteringLayerIds": []
+      },
+      "state": {
+        "cameraInfo": {}
+      },
+      "encodedPolygonList": []
+    },
+    "isUserMapViewDisabled": false,
+    "isMapSupported": true,
+    "mapPageState": "DEFAULT",
+    "mapPostsHistory": [],
+    "shouldSyncUrl": false,
+    "suggestionCacheData": [],
+    "isListChangedByMapMove": false
+  },
+  "search": {
+    "rootCat": {
+      "name": "همهٔ آگهی‌ها",
+      "slug": "ROOT",
+      "icon": {},
+      "parent": null,
+      "children": [
+        {
+          "name": "املاک",
+          "slug": "real-estate",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "real-estate",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/real_estate.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/real_estate.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "اجارهٔ مسکونی",
+              "slug": "residential-rent",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "residential-rent",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/residential-rent.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/residential-rent.png"
+                }
+              },
+              "parent": "real-estate",
+              "children": [
+                {
+                  "name": "آپارتمان",
+                  "slug": "apartment-rent",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "apartment-rent",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/apartment-rent.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/apartment-rent.png"
+                    }
+                  },
+                  "parent": "residential-rent",
+                  "children": []
+                },
+                {
+                  "name": "خانه و ویلا",
+                  "slug": "house-villa-rent",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "house-villa-rent",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/house-villa-rent.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/house-villa-rent.png"
+                    }
+                  },
+                  "parent": "residential-rent",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "فروش مسکونی",
+              "slug": "residential-sell",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "residential-sell",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/residential-sell.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/residential-sell.png"
+                }
+              },
+              "parent": "real-estate",
+              "children": [
+                {
+                  "name": "آپارتمان",
+                  "slug": "apartment-sell",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "apartment-sell",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/apartment-sell.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/apartment-sell.png"
+                    }
+                  },
+                  "parent": "residential-sell",
+                  "children": []
+                },
+                {
+                  "name": "خانه و ویلا",
+                  "slug": "house-villa-sell",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "house-villa-sell",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/house-villa-sell.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/house-villa-sell.png"
+                    }
+                  },
+                  "parent": "residential-sell",
+                  "children": []
+                },
+                {
+                  "name": "زمین و ملک کلنگی",
+                  "slug": "plot-old",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "plot-old",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/plot-old.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/plot-old.png"
+                    }
+                  },
+                  "parent": "residential-sell",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "فروش اداری و تجاری",
+              "slug": "commercial-sell",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "commercial-sell",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/commercial-sell.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/commercial-sell.png"
+                }
+              },
+              "parent": "real-estate",
+              "children": [
+                {
+                  "name": "دفتر کار، اتاق اداری، مطب",
+                  "slug": "office-sell",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "office-sell",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/office-sell.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/office-sell.png"
+                    }
+                  },
+                  "parent": "commercial-sell",
+                  "children": []
+                },
+                {
+                  "name": "مغازه و غرفه",
+                  "slug": "shop-sell",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "shop-sell",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/shop-sell.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/shop-sell.png"
+                    }
+                  },
+                  "parent": "commercial-sell",
+                  "children": []
+                },
+                {
+                  "name": "صنعتی، کشاورزی، تجاری",
+                  "slug": "industry-agriculture-business-sell",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "industry-agriculture-business-sell",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/industry-agriculture-business-sell.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/industry-agriculture-business-sell.png"
+                    }
+                  },
+                  "parent": "commercial-sell",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "اجارهٔ اداری و تجاری",
+              "slug": "commercial-rent",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "commercial-rent",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/commercial-rent.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/commercial-rent.png"
+                }
+              },
+              "parent": "real-estate",
+              "children": [
+                {
+                  "name": "دفتر کار، اتاق اداری، مطب",
+                  "slug": "office-rent",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "office-rent",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/office-rent.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/office-rent.png"
+                    }
+                  },
+                  "parent": "commercial-rent",
+                  "children": []
+                },
+                {
+                  "name": "مغازه و غرفه",
+                  "slug": "shop-rent",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "shop-rent",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/shop-rent.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/shop-rent.png"
+                    }
+                  },
+                  "parent": "commercial-rent",
+                  "children": []
+                },
+                {
+                  "name": "صنعتی، کشاورزی، تجاری",
+                  "slug": "industry-agriculture-business-rent",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "industry-agriculture-business-rent",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/industry-agriculture-business-rent.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/industry-agriculture-business-rent.png"
+                    }
+                  },
+                  "parent": "commercial-rent",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "پروژه‌های ساخت‌وساز",
+              "slug": "real-estate-services",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "real-estate-services",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/real-estate-services.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/real-estate-services.png"
+                }
+              },
+              "parent": "real-estate",
+              "children": [
+                {
+                  "name": "مشارکت در ساخت",
+                  "slug": "partnership",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "partnership",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/partnership.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/partnership.png"
+                    }
+                  },
+                  "parent": "real-estate-services",
+                  "children": []
+                },
+                {
+                  "name": "پیش‌فروش",
+                  "slug": "presell",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "presell",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/presell.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/presell.png"
+                    }
+                  },
+                  "parent": "real-estate-services",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "اجارهٔ کوتاه‌مدت",
+              "slug": "temporary-rent",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "temporary-rent",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/temporary-rent.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/temporary-rent.png"
+                }
+              },
+              "parent": "real-estate",
+              "children": [
+                {
+                  "name": "آپارتمان و سوئیت",
+                  "slug": "suite-apartment",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "suite-apartment",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/suite-apartment.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/suite-apartment.png"
+                    }
+                  },
+                  "parent": "temporary-rent",
+                  "children": []
+                },
+                {
+                  "name": "ویلا و باغ",
+                  "slug": "villa",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "villa",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/villa.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/villa.png"
+                    }
+                  },
+                  "parent": "temporary-rent",
+                  "children": []
+                },
+                {
+                  "name": "دفتر کار و فضای آموزشی",
+                  "slug": "workspace",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "workspace",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/workspace.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/workspace.png"
+                    }
+                  },
+                  "parent": "temporary-rent",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "وسایل نقلیه",
+          "slug": "vehicles",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "cat-vehicles",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cat_vehicles.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cat_vehicles.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "خودرو",
+              "slug": "cars",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "cars",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cars.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cars.png"
+                }
+              },
+              "parent": "vehicles",
+              "children": [
+                {
+                  "name": "سواری و وانت",
+                  "slug": "light",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "light",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/light.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/light.png"
+                    }
+                  },
+                  "parent": "cars",
+                  "children": []
+                },
+                {
+                  "name": "اجاره‌ای",
+                  "slug": "rental",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "rental",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/rental.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/rental.png"
+                    }
+                  },
+                  "parent": "cars",
+                  "children": []
+                },
+                {
+                  "name": "کلاسیک",
+                  "slug": "classic",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "classic",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/classic.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/classic.png"
+                    }
+                  },
+                  "parent": "cars",
+                  "children": []
+                },
+                {
+                  "name": "سنگین",
+                  "slug": "heavy",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "heavy",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/heavy.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/heavy.png"
+                    }
+                  },
+                  "parent": "cars",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "موتورسیکلت",
+              "slug": "motorcycles",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "motorcycles",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/motorcycles.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/motorcycles.png"
+                }
+              },
+              "parent": "vehicles",
+              "children": []
+            },
+            {
+              "name": "قطعات یدکی و لوازم جانبی",
+              "slug": "parts-accessories",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "parts-accessories",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/parts-accessories.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/parts-accessories.png"
+                }
+              },
+              "parent": "vehicles",
+              "children": []
+            },
+            {
+              "name": "قایق و سایر وسایل نقلیه",
+              "slug": "boat",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "boat",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/boat.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/boat.png"
+                }
+              },
+              "parent": "vehicles",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "کالای دیجیتال",
+          "slug": "electronic-devices",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "cat-electronic-devices",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cat_electronic_devices.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cat_electronic_devices.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "موبایل و تبلت",
+              "slug": "mobile-tablet",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "mobile-tablet",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/mobile-tablet.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/mobile-tablet.png"
+                }
+              },
+              "parent": "electronic-devices",
+              "children": [
+                {
+                  "name": "موبایل",
+                  "slug": "mobile-phones",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "mobile-phones",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/mobile-phones.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/mobile-phones.png"
+                    }
+                  },
+                  "parent": "mobile-tablet",
+                  "children": []
+                },
+                {
+                  "name": "تبلت",
+                  "slug": "tablet",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "tablet",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/tablet.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/tablet.png"
+                    }
+                  },
+                  "parent": "mobile-tablet",
+                  "children": []
+                },
+                {
+                  "name": "لوازم جانبی موبایل و تبلت",
+                  "slug": "mobile-tablet-accessories",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "mobile-tablet-accessories",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/mobile-tablet-accessories.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/mobile-tablet-accessories.png"
+                    }
+                  },
+                  "parent": "mobile-tablet",
+                  "children": []
+                },
+                {
+                  "name": "سیم‌کارت",
+                  "slug": "sim-card",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "sim-card",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/sim-card.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/sim-card.png"
+                    }
+                  },
+                  "parent": "mobile-tablet",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "رایانه",
+              "slug": "computers",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "computers",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/computers.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/computers.png"
+                }
+              },
+              "parent": "electronic-devices",
+              "children": [
+                {
+                  "name": "رایانه همراه",
+                  "slug": "laptops",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "laptops",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/laptops.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/laptops.png"
+                    }
+                  },
+                  "parent": "computers",
+                  "children": []
+                },
+                {
+                  "name": "رایانه رومیزی",
+                  "slug": "desktops",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "desktops",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/desktops.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/desktops.png"
+                    }
+                  },
+                  "parent": "computers",
+                  "children": []
+                },
+                {
+                  "name": "قطعات و لوازم جانبی",
+                  "slug": "parts-and-accessories",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "parts-and-accessories",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/parts-and-accessories.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/parts-and-accessories.png"
+                    }
+                  },
+                  "parent": "computers",
+                  "children": []
+                },
+                {
+                  "name": "مودم و تجهیزات شبکه",
+                  "slug": "modem-and-network-equipment",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "modem-and-network-equipment",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/modem-and-network-equipment.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/modem-and-network-equipment.png"
+                    }
+                  },
+                  "parent": "computers",
+                  "children": []
+                },
+                {
+                  "name": "پرینتر، اسکنر، کپی، فکس",
+                  "slug": "printer-scaner-copier",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "printer-scaner-copier",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/printer-scaner-copier.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/printer-scaner-copier.png"
+                    }
+                  },
+                  "parent": "computers",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "کنسول، بازی ویدئویی و آنلاین",
+              "slug": "game-consoles-and-video-games",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "game-consoles-and-video-games",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/game-consoles-and-video-games.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/game-consoles-and-video-games.png"
+                }
+              },
+              "parent": "electronic-devices",
+              "children": []
+            },
+            {
+              "name": "صوتی و تصویری",
+              "slug": "audio-video",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "audio-video",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/audio-video.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/audio-video.png"
+                }
+              },
+              "parent": "electronic-devices",
+              "children": [
+                {
+                  "name": "فیلم و موسیقی",
+                  "slug": "movies-and-music",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "movies-and-music",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/movies-and-music.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/movies-and-music.png"
+                    }
+                  },
+                  "parent": "audio-video",
+                  "children": []
+                },
+                {
+                  "name": "دوربین عکاسی و فیلم‌برداری",
+                  "slug": "camera-camcoders",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "camera-camcoders",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/camera-camcoders.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/camera-camcoders.png"
+                    }
+                  },
+                  "parent": "audio-video",
+                  "children": []
+                },
+                {
+                  "name": "پخش‌کننده همراه",
+                  "slug": "mp3-player",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "mp3-player",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/mp3-player.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/mp3-player.png"
+                    }
+                  },
+                  "parent": "audio-video",
+                  "children": []
+                },
+                {
+                  "name": "سیستم صوتی خانگی",
+                  "slug": "stereo-surround",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "stereo-surround",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/stereo-surround.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/stereo-surround.png"
+                    }
+                  },
+                  "parent": "audio-video",
+                  "children": []
+                },
+                {
+                  "name": "پخش‌کننده DVD و ویدیو",
+                  "slug": "video-dvdplayer",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "video-dvdplayer",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/video-dvdplayer.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/video-dvdplayer.png"
+                    }
+                  },
+                  "parent": "audio-video",
+                  "children": []
+                },
+                {
+                  "name": "تلویزیون و پروژکتور",
+                  "slug": "tv-projector",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "tv-projector",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/tv-projector.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/tv-projector.png"
+                    }
+                  },
+                  "parent": "audio-video",
+                  "children": []
+                },
+                {
+                  "name": "دوربین مداربسته",
+                  "slug": "CCTV",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "cctv",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cctv.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cctv.png"
+                    }
+                  },
+                  "parent": "audio-video",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "تلفن رومیزی",
+              "slug": "phone",
+              "icon": {},
+              "parent": "electronic-devices",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "خانه و آشپزخانه",
+          "slug": "home-kitchen",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "cat-for-the-home",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cat_for_the_home.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cat_for_the_home.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "لوازم خانگی برقی",
+              "slug": "appliance",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "appliance",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/appliance.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/appliance.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "یخچال و فریزر",
+                  "slug": "refrigerator-freezer",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "refrigerator-freezer",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/refrigerator-freezer.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/refrigerator-freezer.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "آب‌سردکن و تصفیه آب",
+                  "slug": "water-cooler-refinery",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "water-cooler-refinery",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/water-cooler-refinery.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/water-cooler-refinery.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "ماشین لباسشویی و خشک‌کن لباس",
+                  "slug": "washing-machines",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "washing-machines",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/washing-machines.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/washing-machines.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "ماشین ظرفشویی",
+                  "slug": "dishwasher",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "dishwasher",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/dishwasher.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/dishwasher.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "جاروبرقی، جارو شارژی، بخارشو",
+                  "slug": "vacuums-cleaner",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "vacuums-cleaner",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/vacuums-cleaner.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/vacuums-cleaner.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "اتو و لوازم اتو",
+                  "slug": "steam-iron",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "steam-iron",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/steam-iron.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/steam-iron.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "آبمیوه‌گیر و آب‌مرکبات‌گیر",
+                  "slug": "juicers",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "juicers",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/juicers.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/juicers.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "خردکن، آسیاب، غذاساز",
+                  "slug": "food-mill",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "food-mill",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/food-mill.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/food-mill.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "سماور، چای‌ساز، قهوه‌ساز",
+                  "slug": "drink-maker",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "drink-maker",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/drink-maker.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/drink-maker.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "اجاق گاز و لوازم برقی پخت‌وپز",
+                  "slug": "oven-baking-appliances",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "oven-baking-appliances",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/oven-baking-appliances.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/oven-baking-appliances.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "هود",
+                  "slug": "range-hood",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "range-hood",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/range-hood.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/range-hood.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                },
+                {
+                  "name": "سایر لوازم برقی",
+                  "slug": "other-appliances",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "other-appliances",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/other-appliances.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/other-appliances.png"
+                    }
+                  },
+                  "parent": "appliance",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "ظروف و لوازم آشپزخانه",
+              "slug": "kitchen-utensils",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "kitchen-utensils",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/kitchen_utensils.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/kitchen_utensils.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "سفره، حوله، دستمال آشپزخانه",
+                  "slug": "tablecloths",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "tablecloths",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/tablecloths.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/tablecloths.png"
+                    }
+                  },
+                  "parent": "kitchen-utensils",
+                  "children": []
+                },
+                {
+                  "name": "آب‌چکان و نظم‌دهنده ظروف",
+                  "slug": "container-organizers",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "container-organizers",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/container-organizers.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/container-organizers.png"
+                    }
+                  },
+                  "parent": "kitchen-utensils",
+                  "children": []
+                },
+                {
+                  "name": "قوری، کتری، قهوه‌ساز دستی",
+                  "slug": "pot-kettle",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "pot-kettle",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/pot-kettle.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/pot-kettle.png"
+                    }
+                  },
+                  "parent": "kitchen-utensils",
+                  "children": []
+                },
+                {
+                  "name": "ظروف سرو و پذیرایی",
+                  "slug": "home-catering",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "home-catering",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/home-catering.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/home-catering.png"
+                    }
+                  },
+                  "parent": "kitchen-utensils",
+                  "children": []
+                },
+                {
+                  "name": "ظروف نگهدارنده، پلاستیکی، یک‌بارمصرف",
+                  "slug": "containers",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "containers",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/containers.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/containers.png"
+                    }
+                  },
+                  "parent": "kitchen-utensils",
+                  "children": []
+                },
+                {
+                  "name": "ظروف پخت‌وپز",
+                  "slug": "cooking-utensils",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "cooking-utensils",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cooking-utensils.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cooking-utensils.png"
+                    }
+                  },
+                  "parent": "kitchen-utensils",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "خوردنی و آشامیدنی",
+              "slug": "food-and-drink",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "food-and-drink",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/food-and-drink.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/food-and-drink.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": []
+            },
+            {
+              "name": "خیاطی و بافتنی",
+              "slug": "sewing-knitting",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "sewing-knitting",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/sewing-knitting.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/sewing-knitting.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "چرخ خیاطی و ریسندگی",
+                  "slug": "sewing-machine",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "sewing-machine",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/sewing-machine.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/sewing-machine.png"
+                    }
+                  },
+                  "parent": "sewing-knitting",
+                  "children": []
+                },
+                {
+                  "name": "لوازم خیاطی و بافتنی",
+                  "slug": "sewing-accessories",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "sewing-accessories",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/sewing-accessories.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/sewing-accessories.png"
+                    }
+                  },
+                  "parent": "sewing-knitting",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "مبلمان و صنایع چوب",
+              "slug": "furniture-wood",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "furniture-wood",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/furniture-wood.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/furniture-wood.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "مبلمان خانگی و میز عسلی",
+                  "slug": "furniture",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "furniture",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/furniture.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/furniture.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "میز و صندلی غذاخوری",
+                  "slug": "dining-table",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "dining-table",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/dining-table.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/dining-table.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "بوفه، ویترین، کنسول",
+                  "slug": "buffet-showcases",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "buffet-showcases",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/buffet-showcases.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/buffet-showcases.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "کتابخانه، شلف، قفسه‌های دیواری",
+                  "slug": "bookcase-shelf",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "bookcase-shelf",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/bookcase-shelf.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/bookcase-shelf.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "جاکفشی، کمد، دراور",
+                  "slug": "shoe-rack-drawer",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "shoe-rack-drawer",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/shoe-rack-drawer.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/shoe-rack-drawer.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "تخت و سرویس خواب",
+                  "slug": "bed-service",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "bed-service",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/bed-service.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/bed-service.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "میز تلفن",
+                  "slug": "phone-desk",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "phone-desk",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/phone-desk.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/phone-desk.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "میز تلویزیون",
+                  "slug": "tv-stand",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "tv-stand",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/tv-stand.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/tv-stand.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "میز تحریر و کامپیوتر",
+                  "slug": "desk",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "desk",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/desk.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/desk.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "مبلمان اداری",
+                  "slug": "office-decoration",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "office-decoration",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/office-decoration.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/office-decoration.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                },
+                {
+                  "name": "صندلی و نیمکت",
+                  "slug": "chair-bench",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "chair-bench",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/chair-bench.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/chair-bench.png"
+                    }
+                  },
+                  "parent": "furniture-wood",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "نور و روشنایی",
+              "slug": "home-lighting",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "home-lighting",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/home-lighting.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/home-lighting.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "لوستر و چراغ آویز",
+                  "slug": "chandeliers",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "chandeliers",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/chandeliers.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/chandeliers.png"
+                    }
+                  },
+                  "parent": "home-lighting",
+                  "children": []
+                },
+                {
+                  "name": "چراغ خواب و آباژور",
+                  "slug": "lampshade",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "lampshade",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/lampshade.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/lampshade.png"
+                    }
+                  },
+                  "parent": "home-lighting",
+                  "children": []
+                },
+                {
+                  "name": "ریسه و چراغ تزئینی",
+                  "slug": "yarn-lights",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "yarn-lights",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/yarn-lights.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/yarn-lights.png"
+                    }
+                  },
+                  "parent": "home-lighting",
+                  "children": []
+                },
+                {
+                  "name": "لامپ و چراغ",
+                  "slug": "lamps",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "lamps",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/lamps.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/lamps.png"
+                    }
+                  },
+                  "parent": "home-lighting",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "فرش، گلیم، موکت",
+              "slug": "carpet-moquette",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "carpet-moquette",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/carpet-moquette.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/carpet-moquette.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "فرش",
+                  "slug": "carpet",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "carpet",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/carpet.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/carpet.png"
+                    }
+                  },
+                  "parent": "carpet-moquette",
+                  "children": []
+                },
+                {
+                  "name": "تابلو فرش",
+                  "slug": "pictorial-carpet",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "pictorial-carpet",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/pictorial-carpet.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/pictorial-carpet.png"
+                    }
+                  },
+                  "parent": "carpet-moquette",
+                  "children": []
+                },
+                {
+                  "name": "روفرشی",
+                  "slug": "rubber-carpet",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "rubber-carpet",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/rubber-carpet.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/rubber-carpet.png"
+                    }
+                  },
+                  "parent": "carpet-moquette",
+                  "children": []
+                },
+                {
+                  "name": "پادری",
+                  "slug": "mat",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "mat",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/mat.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/mat.png"
+                    }
+                  },
+                  "parent": "carpet-moquette",
+                  "children": []
+                },
+                {
+                  "name": "موکت",
+                  "slug": "moquette",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "moquette",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/moquette.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/moquette.png"
+                    }
+                  },
+                  "parent": "carpet-moquette",
+                  "children": []
+                },
+                {
+                  "name": "گلیم، جاجیم، گبه",
+                  "slug": "rugs-woolen-cloth",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "rugs-woolen-cloth",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/rugs-woolen-cloth.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/rugs-woolen-cloth.png"
+                    }
+                  },
+                  "parent": "carpet-moquette",
+                  "children": []
+                },
+                {
+                  "name": "پشتی",
+                  "slug": "lumbar-pillow",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "lumbar-pillow",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/lumbar-pillow.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/lumbar-pillow.png"
+                    }
+                  },
+                  "parent": "carpet-moquette",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "تشک، روتختی، رختخواب",
+              "slug": "sleep-goods",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "sleep-goods",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/sleep-goods.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/sleep-goods.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "رختخواب، بالش، پتو",
+                  "slug": "bed-pillow-blanket",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "bed-pillow-blanket",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/bed-pillow-blanket.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/bed-pillow-blanket.png"
+                    }
+                  },
+                  "parent": "sleep-goods",
+                  "children": []
+                },
+                {
+                  "name": "تشک تختخواب",
+                  "slug": "mattress",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "mattress",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/mattress.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/mattress.png"
+                    }
+                  },
+                  "parent": "sleep-goods",
+                  "children": []
+                },
+                {
+                  "name": "سرویس روتختی",
+                  "slug": "bed-sheet",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "bed-sheet",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/bed-sheet.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/bed-sheet.png"
+                    }
+                  },
+                  "parent": "sleep-goods",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "لوازم دکوری و تزئینی",
+              "slug": "decoration",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "decoration",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/decoration.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/decoration.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "پرده، رانر، رومیزی",
+                  "slug": "curtains-table-cover",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "curtains-table-cover",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/curtains-table-cover.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/curtains-table-cover.png"
+                    }
+                  },
+                  "parent": "decoration",
+                  "children": []
+                },
+                {
+                  "name": "آینه",
+                  "slug": "mirror",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "mirror",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/mirror.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/mirror.png"
+                    }
+                  },
+                  "parent": "decoration",
+                  "children": []
+                },
+                {
+                  "name": "ساعت دیواری و تزئینی",
+                  "slug": "wall-clock",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "wall-clock",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/wall-clock.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/wall-clock.png"
+                    }
+                  },
+                  "parent": "decoration",
+                  "children": []
+                },
+                {
+                  "name": "تابلو، نقاشی، عکس",
+                  "slug": "paintings-picture",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "paintings-picture",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/paintings-picture.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/paintings-picture.png"
+                    }
+                  },
+                  "parent": "decoration",
+                  "children": []
+                },
+                {
+                  "name": "مجسمه، تندیس، ماکت",
+                  "slug": "figurines",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "figurines",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/figurines.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/figurines.png"
+                    }
+                  },
+                  "parent": "decoration",
+                  "children": []
+                },
+                {
+                  "name": "گل مصنوعی",
+                  "slug": "artificial-flower",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "artificial-flower",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/artificial-flower.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/artificial-flower.png"
+                    }
+                  },
+                  "parent": "decoration",
+                  "children": []
+                },
+                {
+                  "name": "گل و گیاه طبیعی",
+                  "slug": "natural-plants",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "natural-plants",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/natural-plants.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/natural-plants.png"
+                    }
+                  },
+                  "parent": "decoration",
+                  "children": []
+                },
+                {
+                  "name": "صنایع دستی و سایر لوازم تزئینی",
+                  "slug": "crafts",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "crafts",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/crafts.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/crafts.png"
+                    }
+                  },
+                  "parent": "decoration",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "تهویه، سرمایش، گرمایش",
+              "slug": "ventilation-cooling-heating",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "ventilation-cooling-heating",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/ventilation-cooling-heating.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/ventilation-cooling-heating.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "آبگرمکن، پکیج، شوفاژ",
+                  "slug": "water-heater-package-radiator",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "water-heater-package-radiator",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/water_heater_package_radiator.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/water_heater_package_radiator.png"
+                    }
+                  },
+                  "parent": "ventilation-cooling-heating",
+                  "children": []
+                },
+                {
+                  "name": "بخاری، هیتر، شومینه",
+                  "slug": "stoves-heaters-fireplaces",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "stoves-heaters-fireplaces",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/stoves_heaters_fireplaces.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/stoves_heaters_fireplaces.png"
+                    }
+                  },
+                  "parent": "ventilation-cooling-heating",
+                  "children": []
+                },
+                {
+                  "name": "کولر آبی",
+                  "slug": "water-cooler",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "water-cooler",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/water-cooler.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/water-cooler.png"
+                    }
+                  },
+                  "parent": "ventilation-cooling-heating",
+                  "children": []
+                },
+                {
+                  "name": "کولر گازی و فن‌کوئل",
+                  "slug": "air-conditioning-fan-coil",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "air-conditioning-fan-coil",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/air-conditioning-fan-coil.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/air-conditioning-fan-coil.png"
+                    }
+                  },
+                  "parent": "ventilation-cooling-heating",
+                  "children": []
+                },
+                {
+                  "name": "پنکه و تصفیه‌کنندهٔ هوا",
+                  "slug": "fan-ventilator-humidifier",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "fan-ventilator-humidifier",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/fan-ventilator-humidifier.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/fan-ventilator-humidifier.png"
+                    }
+                  },
+                  "parent": "ventilation-cooling-heating",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "شست‌وشو و نظافت",
+              "slug": "washing-cleaning",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "washing-cleaning",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/washing-cleaning.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/washing-cleaning.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "مواد شوینده و دستمال کاغذی",
+                  "slug": "detergent-tissue",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "detergent-tissue",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/detergent-tissue.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/detergent-tissue.png"
+                    }
+                  },
+                  "parent": "washing-cleaning",
+                  "children": []
+                },
+                {
+                  "name": "لوازم نظافت",
+                  "slug": "cleaning-supplies",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "cleaning-supplies",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cleaning-supplies.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cleaning-supplies.png"
+                    }
+                  },
+                  "parent": "washing-cleaning",
+                  "children": []
+                },
+                {
+                  "name": "بندرخت و رخت‌آویز",
+                  "slug": "clothes-rack",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "clothes-rack",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/clothes-rack.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/clothes-rack.png"
+                    }
+                  },
+                  "parent": "washing-cleaning",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "حمام و سرویس بهداشتی",
+              "slug": "bathrooms",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "bathrooms",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/bathrooms.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/bathrooms.png"
+                }
+              },
+              "parent": "home-kitchen",
+              "children": [
+                {
+                  "name": "لوازم حمام",
+                  "slug": "bathroom-accessories",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "bathroom-accessories",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/bathroom-accessories.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/bathroom-accessories.png"
+                    }
+                  },
+                  "parent": "bathrooms",
+                  "children": []
+                },
+                {
+                  "name": "لوازم سرویس بهداشتی",
+                  "slug": "wc-accessories",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "wc-accessories",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/wc-accessories.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/wc-accessories.png"
+                    }
+                  },
+                  "parent": "bathrooms",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "خدمات",
+          "slug": "services",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "cat-services",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cat_services.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cat_services.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "خودرو و موتورسیکلت",
+              "slug": "car-and-motor",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "car-and-motor",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/car-and-motor.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/car-and-motor.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            },
+            {
+              "name": "پذیرایی، مراسم",
+              "slug": "catering",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "catering",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/catering.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/catering.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            },
+            {
+              "name": "رایانه‌ای و موبایل",
+              "slug": "computer-and-mobile",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "computer-and-mobile",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/computer-and-mobile.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/computer-and-mobile.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            },
+            {
+              "name": "مالی، حقوقی و اداری",
+              "slug": "accounting-and-finance",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "accounting-and-finance",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/accounting-and-finance.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/accounting-and-finance.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            },
+            {
+              "name": "حمل و نقل",
+              "slug": "transport",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "transport",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/transport.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/transport.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            },
+            {
+              "name": "پیشه و مهارت",
+              "slug": "craftsmen",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "craftsmen",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/craftsmen.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/craftsmen.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            },
+            {
+              "name": "زیبایی و سلامت",
+              "slug": "beauty-and-haircare",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "beauty-and-haircare",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/beauty-and-haircare.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/beauty-and-haircare.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            },
+            {
+              "name": "نظافت",
+              "slug": "cleaning",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "cleaning",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cleaning.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cleaning.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            },
+            {
+              "name": "باغبانی و درختکاری",
+              "slug": "garden-and-landscaping",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "garden-and-landscaping",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/garden-and-landscaping.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/garden-and-landscaping.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            },
+            {
+              "name": "آموزشی",
+              "slug": "teaching",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "teaching",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/teaching.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/teaching.png"
+                }
+              },
+              "parent": "services",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "وسایل شخصی",
+          "slug": "personal",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "cat-personal",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cat_personal.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cat_personal.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "کیف، کفش، لباس",
+              "slug": "clothing-and-shoes",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "clothing-and-shoes",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/clothing-and-shoes.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/clothing-and-shoes.png"
+                }
+              },
+              "parent": "personal",
+              "children": [
+                {
+                  "name": "کیف، کفش، کمربند",
+                  "slug": "shoes-belt-bag",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "shoes-belt-bag",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/shoes-belt-bag.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/shoes-belt-bag.png"
+                    }
+                  },
+                  "parent": "clothing-and-shoes",
+                  "children": []
+                },
+                {
+                  "name": "لباس",
+                  "slug": "clothing",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "clothing",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/clothing.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/clothing.png"
+                    }
+                  },
+                  "parent": "clothing-and-shoes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "زیورآلات و اکسسوری",
+              "slug": "jewelry-and-watches",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "jewelry-and-watches",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/jewelry-and-watches.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/jewelry-and-watches.png"
+                }
+              },
+              "parent": "personal",
+              "children": [
+                {
+                  "name": "ساعت",
+                  "slug": "watches",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "watches",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/watches.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/watches.png"
+                    }
+                  },
+                  "parent": "jewelry-and-watches",
+                  "children": []
+                },
+                {
+                  "name": "جواهرات",
+                  "slug": "jewelry",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "jewelry",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/jewelry.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/jewelry.png"
+                    }
+                  },
+                  "parent": "jewelry-and-watches",
+                  "children": []
+                },
+                {
+                  "name": "بدلیجات",
+                  "slug": "rhinestones",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "rhinestones",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/rhinestones.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/rhinestones.png"
+                    }
+                  },
+                  "parent": "jewelry-and-watches",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "آرایشی، بهداشتی، درمانی",
+              "slug": "health-beauty",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "health-beauty",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/health-beauty.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/health-beauty.png"
+                }
+              },
+              "parent": "personal",
+              "children": []
+            },
+            {
+              "name": "وسایل بچه و اسباب‌بازی",
+              "slug": "baby-and-toys",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "baby-and-toys",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/baby-and-toys.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/baby-and-toys.png"
+                }
+              },
+              "parent": "personal",
+              "children": [
+                {
+                  "name": "اسباب‌بازی بچه",
+                  "slug": "personal-toys",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "personal-toys",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/personal-toys.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/personal-toys.png"
+                    }
+                  },
+                  "parent": "baby-and-toys",
+                  "children": []
+                },
+                {
+                  "name": "کالسکه و لوازم جانبی",
+                  "slug": "strollers-and-accessories",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "strollers-and-accessories",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/strollers-and-accessories.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/strollers-and-accessories.png"
+                    }
+                  },
+                  "parent": "baby-and-toys",
+                  "children": []
+                },
+                {
+                  "name": "تخت و صندلی بچه",
+                  "slug": "child-car-seat",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "child-car-seat",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/child-car-seat.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/child-car-seat.png"
+                    }
+                  },
+                  "parent": "baby-and-toys",
+                  "children": []
+                },
+                {
+                  "name": "اسباب و اثاث بچه",
+                  "slug": "childrens-furniture",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "childrens-furniture",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/childrens-furniture.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/childrens-furniture.png"
+                    }
+                  },
+                  "parent": "baby-and-toys",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "کفش و لباس بچه",
+              "slug": "childrens-clothing-and-shoe",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "childrens-clothing-and-shoe",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/childrens-clothing-and-shoe.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/childrens-clothing-and-shoe.png"
+                }
+              },
+              "parent": "personal",
+              "children": []
+            },
+            {
+              "name": "لوازم التحریر",
+              "slug": "stationery",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "stationery",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/stationery.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/stationery.png"
+                }
+              },
+              "parent": "personal",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "سرگرمی و فراغت",
+          "slug": "leisure-hobbies",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "cat-leisure-hobbies",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cat_leisure_hobbies.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cat_leisure_hobbies.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "بلیت",
+              "slug": "ticket",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "ticket",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/ticket.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/ticket.png"
+                }
+              },
+              "parent": "leisure-hobbies",
+              "children": [
+                {
+                  "name": "کنسرت",
+                  "slug": "concert",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "concert",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/concert.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/concert.png"
+                    }
+                  },
+                  "parent": "ticket",
+                  "children": []
+                },
+                {
+                  "name": "تئاتر و سینما",
+                  "slug": "theatre-and-cinema",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "theatre-and-cinema",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/theatre-and-cinema.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/theatre-and-cinema.png"
+                    }
+                  },
+                  "parent": "ticket",
+                  "children": []
+                },
+                {
+                  "name": "کارت هدیه و تخفیف",
+                  "slug": "gift-certificate",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "gift-certificate",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/gift-certificate.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/gift-certificate.png"
+                    }
+                  },
+                  "parent": "ticket",
+                  "children": []
+                },
+                {
+                  "name": "مسابقه‌ها و مکان‌های ورزشی",
+                  "slug": "tickets-sports",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "tickets-sports",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/tickets-sports.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/tickets-sports.png"
+                    }
+                  },
+                  "parent": "ticket",
+                  "children": []
+                },
+                {
+                  "name": "ورزشی",
+                  "slug": "sport",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "sport",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/sport.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/sport.png"
+                    }
+                  },
+                  "parent": "ticket",
+                  "children": []
+                },
+                {
+                  "name": "اتوبوس، مترو، قطار",
+                  "slug": "bus-metro-train",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "bus-metro-train",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/bus-metro-train.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/bus-metro-train.png"
+                    }
+                  },
+                  "parent": "ticket",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "تور و چارتر",
+              "slug": "travel-packages",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "travel-packages",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/travel_packages.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/travel_packages.png"
+                }
+              },
+              "parent": "leisure-hobbies",
+              "children": []
+            },
+            {
+              "name": "دوچرخه، اسکیت، اسکوتر",
+              "slug": "bicycle",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "bicycle",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/bicycle.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/bicycle.png"
+                }
+              },
+              "parent": "leisure-hobbies",
+              "children": []
+            },
+            {
+              "name": "کتاب و مجله",
+              "slug": "book-student-literature",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "book-student-literature",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/book-student-literature.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/book-student-literature.png"
+                }
+              },
+              "parent": "leisure-hobbies",
+              "children": [
+                {
+                  "name": "آموزشی",
+                  "slug": "educational",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "educational",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/educational.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/educational.png"
+                    }
+                  },
+                  "parent": "book-student-literature",
+                  "children": []
+                },
+                {
+                  "name": "ادبی",
+                  "slug": "literary",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "literary",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/literary.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/literary.png"
+                    }
+                  },
+                  "parent": "book-student-literature",
+                  "children": []
+                },
+                {
+                  "name": "تاریخی",
+                  "slug": "historical",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "historical",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/historical.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/historical.png"
+                    }
+                  },
+                  "parent": "book-student-literature",
+                  "children": []
+                },
+                {
+                  "name": "مذهبی",
+                  "slug": "religious",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "religious",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/religious.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/religious.png"
+                    }
+                  },
+                  "parent": "book-student-literature",
+                  "children": []
+                },
+                {
+                  "name": "مجلات",
+                  "slug": "magazines",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "magazines",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/magazines.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/magazines.png"
+                    }
+                  },
+                  "parent": "book-student-literature",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "حیوانات",
+              "slug": "animals",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "animals",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/animals.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/animals.png"
+                }
+              },
+              "parent": "leisure-hobbies",
+              "children": [
+                {
+                  "name": "گربه",
+                  "slug": "cat",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "cat",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cat.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cat.png"
+                    }
+                  },
+                  "parent": "animals",
+                  "children": []
+                },
+                {
+                  "name": "موش و خرگوش",
+                  "slug": "rodents-rabbits",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "rodents-rabbits",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/rodents-rabbits.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/rodents-rabbits.png"
+                    }
+                  },
+                  "parent": "animals",
+                  "children": []
+                },
+                {
+                  "name": "خزنده",
+                  "slug": "reptile",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "reptile",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/reptile.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/reptile.png"
+                    }
+                  },
+                  "parent": "animals",
+                  "children": []
+                },
+                {
+                  "name": "پرنده",
+                  "slug": "birds",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "birds",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/birds.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/birds.png"
+                    }
+                  },
+                  "parent": "animals",
+                  "children": []
+                },
+                {
+                  "name": "ماهی",
+                  "slug": "fish",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "fish",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/fish.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/fish.png"
+                    }
+                  },
+                  "parent": "animals",
+                  "children": []
+                },
+                {
+                  "name": "لوازم جانبی",
+                  "slug": "accessories",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "accessories",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/accessories.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/accessories.png"
+                    }
+                  },
+                  "parent": "animals",
+                  "children": []
+                },
+                {
+                  "name": "حیوانات مزرعه",
+                  "slug": "farm-animals",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "farm-animals",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/farm-animals.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/farm-animals.png"
+                    }
+                  },
+                  "parent": "animals",
+                  "children": []
+                },
+                {
+                  "name": "سگ",
+                  "slug": "dog",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "dog",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/dog.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/dog.png"
+                    }
+                  },
+                  "parent": "animals",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "کلکسیون و سرگرمی",
+              "slug": "hobby-collectibles",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "hobby-collectibles",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/hobby-collectibles.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/hobby-collectibles.png"
+                }
+              },
+              "parent": "leisure-hobbies",
+              "children": [
+                {
+                  "name": "سکه، تمبر، اسکناس",
+                  "slug": "coin-stamp",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "coin-stamp",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/coin-stamp.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/coin-stamp.png"
+                    }
+                  },
+                  "parent": "hobby-collectibles",
+                  "children": []
+                },
+                {
+                  "name": "اشیاء عتیقه",
+                  "slug": "historical-objects",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "historical-objects",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/historical-objects.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/historical-objects.png"
+                    }
+                  },
+                  "parent": "hobby-collectibles",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "آلات موسیقی",
+              "slug": "musical-instruments",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "musical-instruments",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/musical-instruments.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/musical-instruments.png"
+                }
+              },
+              "parent": "leisure-hobbies",
+              "children": [
+                {
+                  "name": "گیتار، بیس، امپلیفایر",
+                  "slug": "guitar-bass-amplifier",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "guitar-bass-amplifier",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/guitar-bass-amplifier.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/guitar-bass-amplifier.png"
+                    }
+                  },
+                  "parent": "musical-instruments",
+                  "children": []
+                },
+                {
+                  "name": "سازهای بادی",
+                  "slug": "wind",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "wind",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/wind.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/wind.png"
+                    }
+                  },
+                  "parent": "musical-instruments",
+                  "children": []
+                },
+                {
+                  "name": "پیانو، کیبورد، آکاردئون",
+                  "slug": "piano-keyboard",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "piano-keyboard",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/piano-keyboard.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/piano-keyboard.png"
+                    }
+                  },
+                  "parent": "musical-instruments",
+                  "children": []
+                },
+                {
+                  "name": "سازهای سنتی",
+                  "slug": "traditional",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "traditional",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/traditional.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/traditional.png"
+                    }
+                  },
+                  "parent": "musical-instruments",
+                  "children": []
+                },
+                {
+                  "name": "درام و پرکاشن",
+                  "slug": "drums-percussion",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "drums-percussion",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/drums-percussion.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/drums-percussion.png"
+                    }
+                  },
+                  "parent": "musical-instruments",
+                  "children": []
+                },
+                {
+                  "name": "ویولن",
+                  "slug": "violins",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "violins",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/violins.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/violins.png"
+                    }
+                  },
+                  "parent": "musical-instruments",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "ورزش و تناسب اندام",
+              "slug": "sport-leisure",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "sport-leisure",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/sport-leisure.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/sport-leisure.png"
+                }
+              },
+              "parent": "leisure-hobbies",
+              "children": [
+                {
+                  "name": "ورزش‌های توپی",
+                  "slug": "ball-sports",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "ball-sports",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/ball-sports.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/ball-sports.png"
+                    }
+                  },
+                  "parent": "sport-leisure",
+                  "children": []
+                },
+                {
+                  "name": "کوهنوردی و کمپینگ",
+                  "slug": "camping-outdoor",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "camping-outdoor",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/camping-outdoor.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/camping-outdoor.png"
+                    }
+                  },
+                  "parent": "sport-leisure",
+                  "children": []
+                },
+                {
+                  "name": "غواصی و ورزش‌های آبی",
+                  "slug": "diving-watersports",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "diving-watersports",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/diving-watersports.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/diving-watersports.png"
+                    }
+                  },
+                  "parent": "sport-leisure",
+                  "children": []
+                },
+                {
+                  "name": "ماهیگیری",
+                  "slug": "fishing",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "fishing",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/fishing.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/fishing.png"
+                    }
+                  },
+                  "parent": "sport-leisure",
+                  "children": []
+                },
+                {
+                  "name": "تجهیزات ورزشی",
+                  "slug": "training",
+                  "icon": {},
+                  "parent": "sport-leisure",
+                  "children": []
+                },
+                {
+                  "name": "ورزش‌های زمستانی",
+                  "slug": "winter-sports",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "winter-sports",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/winter-sports.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/winter-sports.png"
+                    }
+                  },
+                  "parent": "sport-leisure",
+                  "children": []
+                },
+                {
+                  "name": "اسب و تجهیزات اسب‌سواری",
+                  "slug": "horses-equestrian",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "horses-equestrian",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/horses-equestrian.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/horses-equestrian.png"
+                    }
+                  },
+                  "parent": "sport-leisure",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "اسباب‌‌بازی",
+              "slug": "leisure-hobbies-toys",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "leisure-hobbies-toys",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/leisure-hobbies-toys.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/leisure-hobbies-toys.png"
+                }
+              },
+              "parent": "leisure-hobbies",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "اجتماعی",
+          "slug": "community",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "community",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/community.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/community.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "رویداد",
+              "slug": "event",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "event",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/event.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/event.png"
+                }
+              },
+              "parent": "community",
+              "children": [
+                {
+                  "name": "حراج",
+                  "slug": "for-sale",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "for-sale",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/for-sale.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/for-sale.png"
+                    }
+                  },
+                  "parent": "event",
+                  "children": []
+                },
+                {
+                  "name": "گردهمایی و همایش",
+                  "slug": "conference-meeting",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "conference-meeting",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/conference-meeting.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/conference-meeting.png"
+                    }
+                  },
+                  "parent": "event",
+                  "children": []
+                },
+                {
+                  "name": "ورزشی",
+                  "slug": "events-sports",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "events-sports",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/events-sports.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/events-sports.png"
+                    }
+                  },
+                  "parent": "event",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "داوطلبانه",
+              "slug": "volunteers",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "volunteers",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/volunteers.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/volunteers.png"
+                }
+              },
+              "parent": "community",
+              "children": [
+                {
+                  "name": "سفر اشتراکی",
+                  "slug": "ride-sharing",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "ride-sharing",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/ride_sharing.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/ride_sharing.png"
+                    }
+                  },
+                  "parent": "volunteers",
+                  "children": []
+                },
+                {
+                  "name": "تحقیقاتی",
+                  "slug": "research",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "research",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/research.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/research.png"
+                    }
+                  },
+                  "parent": "volunteers",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "گم‌شده‌ها",
+              "slug": "lost-and-found",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "lost-and-found",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/lost-and-found.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/lost-and-found.png"
+                }
+              },
+              "parent": "community",
+              "children": [
+                {
+                  "name": "حیوانات",
+                  "slug": "lost-animals",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "lost-animals",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/lost-animals.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/lost-animals.png"
+                    }
+                  },
+                  "parent": "lost-and-found",
+                  "children": []
+                },
+                {
+                  "name": "اشیا",
+                  "slug": "lost-things",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "lost-things",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/lost-things.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/lost-things.png"
+                    }
+                  },
+                  "parent": "lost-and-found",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "تجهیزات و صنعتی",
+          "slug": "tools-materials-equipment",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "cat-businesses",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cat_businesses.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cat_businesses.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "مصالح و تجهیزات ساختمان",
+              "slug": "building-equipment",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "building-equipment",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/building-equipment.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/building-equipment.png"
+                }
+              },
+              "parent": "tools-materials-equipment",
+              "children": []
+            },
+            {
+              "name": "ابزارآلات",
+              "slug": "toolbox",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "toolbox",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/toolbox.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/toolbox.png"
+                }
+              },
+              "parent": "tools-materials-equipment",
+              "children": []
+            },
+            {
+              "name": "ماشین‌آلات صنعتی",
+              "slug": "industrial-machinery",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "industrial-machinery",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/industrial-machinery.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/industrial-machinery.png"
+                }
+              },
+              "parent": "tools-materials-equipment",
+              "children": []
+            },
+            {
+              "name": "تجهیزات کسب‌وکار",
+              "slug": "work-equipment",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "work-equipment",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/work-equipment.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/work-equipment.png"
+                }
+              },
+              "parent": "tools-materials-equipment",
+              "children": [
+                {
+                  "name": "پزشکی",
+                  "slug": "medical-equipment",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "medical-equipment",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/medical-equipment.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/medical-equipment.png"
+                    }
+                  },
+                  "parent": "work-equipment",
+                  "children": []
+                },
+                {
+                  "name": "فروشگاه و مغازه",
+                  "slug": "shop-and-cash",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "shop-and-cash",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/shop-and-cash.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/shop-and-cash.png"
+                    }
+                  },
+                  "parent": "work-equipment",
+                  "children": []
+                },
+                {
+                  "name": "کافی‌شاپ و رستوران",
+                  "slug": "cafe-and-restaurant",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "cafe-and-restaurant",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cafe-and-restaurant.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cafe-and-restaurant.png"
+                    }
+                  },
+                  "parent": "work-equipment",
+                  "children": []
+                },
+                {
+                  "name": "آرایشگاه و سالن‌های زیبایی",
+                  "slug": "barbershop-and-beautysalon",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "barbershop-and-beautysalon",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/barbershop-and-beautysalon.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/barbershop-and-beautysalon.png"
+                    }
+                  },
+                  "parent": "work-equipment",
+                  "children": []
+                },
+                {
+                  "name": "دفتر کار",
+                  "slug": "offices",
+                  "icon": {
+                    "iconColor": "rgb(var(--content-neutral-default))",
+                    "iconName": "offices",
+                    "iconURL": {
+                      "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/offices.png",
+                      "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/offices.png"
+                    }
+                  },
+                  "parent": "work-equipment",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "عمده‌فروشی",
+              "slug": "batch",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "batch",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/batch.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/batch.png"
+                }
+              },
+              "parent": "tools-materials-equipment",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "استخدام و کاریابی",
+          "slug": "jobs",
+          "icon": {
+            "iconColor": "rgb(var(--content-neutral-default))",
+            "iconName": "cat-jobs",
+            "iconURL": {
+              "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/cat_jobs.png",
+              "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/cat_jobs.png"
+            }
+          },
+          "parent": "ROOT",
+          "children": [
+            {
+              "name": "اداری و مدیریت",
+              "slug": "administration-and-hr",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "administration-and-hr",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/administration-and-hr.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/administration-and-hr.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "سرایداری و نظافت",
+              "slug": "janitorial-cleaning",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "janitorial-cleaning",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/janitorial-cleaning.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/janitorial-cleaning.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "معماری، عمران و ساختمانی",
+              "slug": "construction-craft",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "construction-craft",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/construction-craft.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/construction-craft.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "خدمات فروشگاه و رستوران",
+              "slug": "shop-restaurant",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "shop-restaurant",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/shop-restaurant.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/shop-restaurant.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "رایانه و فناوری اطلاعات",
+              "slug": "computer-and-it",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "computer-and-it",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/computer-and-it.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/computer-and-it.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "مالی، حسابداری، حقوقی",
+              "slug": "accounting-finance-legal",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "accounting-finance-legal",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/accounting-finance-legal.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/accounting-finance-legal.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "بازاریابی و فروش",
+              "slug": "sales-marketing",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "sales-marketing",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/sales-marketing.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/sales-marketing.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "صنعتی، فنی، مهندسی",
+              "slug": "industrial-technology",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "industrial-technology",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/industrial-technology.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/industrial-technology.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "آموزشی",
+              "slug": "education",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "education",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/education.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/education.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "حمل و نقل",
+              "slug": "transportation",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "transportation",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/transportation.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/transportation.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "درمانی، زیبایی، بهداشتی",
+              "slug": "care-health-beauty",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "care-health-beauty",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/care-health-beauty.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/care-health-beauty.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            },
+            {
+              "name": "هنری و رسانه",
+              "slug": "media-advertising",
+              "icon": {
+                "iconColor": "rgb(var(--content-neutral-default))",
+                "iconName": "media-advertising",
+                "iconURL": {
+                  "light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/media-advertising.png",
+                  "dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/media-advertising.png"
+                }
+              },
+              "parent": "jobs",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "realTimeQuery": "",
+    "categoriesHasError": false,
+    "shouldSelectCategory": null,
+    "searchData": {
+      "query": "",
+      "page": "",
+      "formData": {}
+    },
+    "showSearchAssistantSuggestion": false
+  },
+  "navBar": {
+    "hasSubmit": true,
+    "hasSupport": true,
+    "hasChat": true,
+    "hasSearch": false,
+    "hasNavTitle": false,
+    "hasMyDivar": true,
+    "hasCategories": false,
+    "hasSelectCity": true,
+    "hasSearchAssistant": false,
+    "hasSearchAssistantTitle": false,
+    "shouldShowShadow": true
+  },
+  "note": {
+    "hasNote": false,
+    "syncCount": 0
+  },
+  "appMeta": {
+    "cityChanged": false,
+    "isSearchEngine": false,
+    "ip": "62.93.176.70",
+    "realIP": "62.93.176.70, 127.0.0.6",
+    "isWebView": false,
+    "error": null
+  },
+  "currentPost": {
+    "renderPostSuccess": true,
+    "sourceType": "direct_link",
+    "getContactBlocked": false,
+    "getContactBlockedError": null,
+    "post": {
+      "contact": {
+        "widgetList": null,
+        "isContactVisible": false,
+        "isExperimentEnabled": false,
+        "suspicionAlert": {},
+        "hip": {
+          "isHipModalOpen": false,
+          "contactToken": null,
+          "method": null,
+          "isGetContactHoneypot": false
+        },
+        "isSecureCallEnabled": false,
+        "loading": false
+      },
+      "loading": false,
+      "token": "",
+      "sections": {
+        "BUSINESS_SECTION": [],
+        "DESCRIPTION": [],
+        "BREADCRUMB": [],
+        "SUGGESTION": [],
+        "INSPECTION": [],
+        "LIST_DATA": [],
+        "CONTACT": [],
+        "MESSAGE": [],
+        "STATIC": [],
+        "IMAGE": [],
+        "TITLE": [],
+        "TAGS": [],
+        "NOTE": [],
+        "MAP": []
+      }
+    },
+    "hasError": false,
+    "hasSSRUnauthorizedError": false
+  },
+  "httpError": {
+    "is404": false,
+    "is410": false,
+    "is301": false,
+    "is302": false
+  },
+  "auth": {
+    "source": null,
+    "error": null,
+    "confirmSent": false,
+    "loading": false,
+    "canReplacePhone": true,
+    "resendEnabled": true,
+    "requiredUserType": null,
+    "shouldUseRwvLogin": false,
+    "autoSubmit": true
+  },
+  "user": {
+    "isLoggedIn": false,
+    "data": {},
+    "business": {
+      "loading": false,
+      "hasError": false
+    },
+    "showConnectionBanner": false,
+    "showIosInstallationBanner": true,
+    "isBlacklisted": null
+  },
+  "history": {
+    "length": 0
+  },
+  "chat": {
+    "hasUnreadChat": false
+  },
+  "modalPage": {
+    "isOpen": false,
+    "submitLoading": false,
+    "submissionButton": null,
+    "history": [],
+    "requestCache": {},
+    "currentPageIndex": -1
+  },
+  "multiCity": {
+    "selectedCities": [],
+    "prevSelectedCities": [],
+    "subtitle": "حداقل یک شهر را انتخاب کنید.",
+    "shouldShowCityTooltip": false,
+    "onClose": null
+  },
+  "unsafeUserSelectedLocation": {},
+  "searchAssistant": {
+    "messages": [],
+    "isLoading": true,
+    "isRestartLoading": false,
+    "errorMessage": null,
+    "restartErrorMessage": null,
+    "isWaiting": false,
+    "isWaitingForSuggestions": false,
+    "waitingText": "",
+    "lastAnimatedMessageTimestamp": null,
+    "isAnimating": false,
+    "scrollPosition": null,
+    "isScrollButtonVisible": false,
+    "isAutoScrollEnabled": true,
+    "suggestions": [],
+    "feedback": null,
+    "isFeedbackVisible": true,
+    "isSuggestionsVisible": true,
+    "isSTTEnabled": false,
+    "pollInterval": 1000,
+    "latestPathConversationId": null,
+    "isSelectPostsModeActive": false,
+    "selectedPosts": [],
+    "isPostSelectionEnabled": false
+  },
+  "bookmarks": {
+    "posts": [],
+    "searches": [],
+    "postsIsLoading": true,
+    "postsError": null,
+    "searchesIsLoading": true,
+    "searchesError": null
+  },
+  "premiumPanel": {
+    "landing": {
+      "pageTitle": "",
+      "isNotFound": false,
+      "initialLoading": false,
+      "initialError": null,
+      "contentLoading": false,
+      "contentError": null,
+      "loadMoreLoading": false,
+      "loadMoreError": null,
+      "headerWidgets": [],
+      "postRowWidgets": [],
+      "pagination": {
+        "hasNext": false,
+        "lastItemIdentifier": ""
+      }
+    }
+  },
+  "review": {
+    "skipped": false
+  }
+}

@@ -109,14 +109,14 @@
     "slug": "generalfit-parvaneh-5500-canister-vacuum-cleaner",
     "type": "simple",
     "url": "https://hosseinykala.ir/?p=4276",
-    "price": 0
+    "price": 44000000
   },
   "4274": {
     "name": "جاروبرقی سطلی جنرال فیت مدل پرستو 5300",
     "slug": "generalfit-parastoo-5300-canister-vacuum-cleaner",
     "type": "simple",
     "url": "https://hosseinykala.ir/?p=4274",
-    "price": 0
+    "price": 38000000
   },
   "4272": {
     "name": "جاروبرقی سطلی جنرال فیت مدل اسکای پلاس 4500",
@@ -697,7 +697,7 @@
     "slug": "araz-40l-bucket-vacuum-cleaner",
     "type": "simple",
     "url": "https://hosseinykala.ir/?p=4044",
-    "price": 0
+    "price": 48000000
   },
   "4042": {
     "name": "جاروبرقی سطلی کلور",
@@ -781,7 +781,7 @@
     "slug": "technosan-large-chest-freezer-white",
     "type": "simple",
     "url": "https://hosseinykala.ir/?p=4024",
-    "price": 0
+    "price": 68000000
   },
   "4018": {
     "name": "مینی یخچال 10 فوت کلور مدل طرح دار فانتزی",
@@ -970,7 +970,7 @@
     "slug": "korkmaz-a331-caytema-tea-maker",
     "type": "simple",
     "url": "https://hosseinykala.ir/?p=3673",
-    "price": 18050000
+    "price": 27000000
   },
   "3668": {
     "name": "کتری برقی ۱.۸ لیتری وگاتی مدل توپی",
@@ -3159,7 +3159,7 @@
     },
     {
       "id": 2745,
-      "name": "یخچال فریزر دوقلو 34 فوت دیپوینت مدل MAX.DU _ مکس",
+      "name": "یخچال فریزر دوقلو 34 فوت دیپوینت مدل مکس (MAX.DU)",
       "slug": "depoint-max-du-twin-refrigerator-34ft",
       "shortlink": "https://hosseinykala.ir/?p=2745"
     },
@@ -3171,7 +3171,7 @@
     },
     {
       "id": 2691,
-      "name": "یخچال فریزر 9 فوت ایستکول مدل هتلی 2919، با ارتفاع 108، عمق 56 و پهنای 54 سانتی‌ متر، مصرف انرژی A، دارای 3 طبقه در یخچال و 1 طبقه در فریزر، دارای کندانسور مخفی",
+      "name": "یخچال فریزر 9 فوت ایستکول مدل هتلی 2919",
       "slug": "eastcool-2919-hotel-refrigerator-9ft",
       "shortlink": "https://hosseinykala.ir/?p=2691"
     },
@@ -3195,7 +3195,7 @@
     },
     {
       "id": 2585,
-      "name": "یخچال و فریزر 28 فوت دیپوینت مدل T7، بدون برفک، با ارتفاع 184، پهنای 86 و عمق 73 سانتی‌متر، میزان مصرف انرژی A، دارای 4 طبقه در یخچال و 2 طبقه در فریزر، دارای سیستم نوفراست",
+      "name": "یخچال و فریزر 28 فوت دیپوینت مدل T7 بدون برفک",
       "slug": "depoint-t7-refrigerator-28ft",
       "shortlink": "https://hosseinykala.ir/?p=2585"
     },
@@ -3237,13 +3237,13 @@
     },
     {
       "id": 2497,
-      "name": "یخچال و فریزر 27 فوت کلور مدل كمبي فريزر پايين مدل 101",
+      "name": "یخچال و فریزر 27 فوت کلور مدل کمبی فریزر پایین مدل 101",
       "slug": "clover-frnt-comby-101",
       "shortlink": "https://hosseinykala.ir/?p=2497"
     },
     {
       "id": 2484,
-      "name": "یخچال و فریزر 27 فوت کلور مدل كمبي هوم بار روسو",
+      "name": "یخچال و فریزر 27 فوت کلور مدل کمبی هوم بار روسو",
       "slug": "clover-rosso-homebar-refrigerator-27ft",
       "shortlink": "https://hosseinykala.ir/?p=2484"
     },
@@ -3255,7 +3255,7 @@
     },
     {
       "id": 2464,
-      "name": "یخچال فریزر دوقلو کلور مدل 54 فوت glory plus-lm70",
+      "name": "یخچال فریزر دوقلو 54 فوت کلور مدل گلوری (Glory)",
       "slug": "clover-glory-plus-lm70-twin-refrigerator",
       "shortlink": "https://hosseinykala.ir/?p=2464"
     },
@@ -3277,5 +3277,362 @@
       "slug": "clover-frnt101-refrigerator-27ft",
       "shortlink": "https://hosseinykala.ir/?p=2408"
     }
-  ]
+  ],
+  "4396": {
+    "name": "دستگاه تصفیه آب خانگی اسمز معکوس افترون (Aftron) مدل 6 مرحله ای",
+    "slug": "aftron-6-stage-ro-water-purifier",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/aftron-6-stage-ro-water-purifier/",
+    "price": 25000000
+  },
+  "4398": {
+    "name": "سشوار حرفه ای آتمن پاورفول مدل AT-538 موتور سنگین AC",
+    "slug": "atman-powerful-538-professional-hair-dryer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/atman-powerful-538-professional-hair-dryer/",
+    "price": 0
+  },
+  "4400": {
+    "name": "خردکن برقی بلانزو مدل BCH-1136 کاسه استیل",
+    "slug": "bellanzo-1136-electric-chopper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/bellanzo-1136-electric-chopper/",
+    "price": 15000000
+  },
+  "4402": {
+    "name": "خردکن برقی کاسه ای بوش مدل چندکاره پیرکس",
+    "slug": "bosch-electric-bowl-chopper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/bosch-electric-bowl-chopper/",
+    "price": 0
+  },
+  "4404": {
+    "name": "سالاد ساز و رنده برقی دونالکس مدل DN-150 رنگ مشکی",
+    "slug": "donalex-dn-150-salad-maker-black",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/donalex-dn-150-salad-maker-black/",
+    "price": 18000000
+  },
+  "4407": {
+    "name": "ساندویچ ساز و گریل دونالکس مدل DN-940 رنگ مشکی",
+    "slug": "donalex-dn-940-sandwich-maker-black",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/donalex-dn-940-sandwich-maker-black/",
+    "price": 0
+  },
+  "4412": {
+    "name": "سرخ کن بدون روغن دونالکس مدل DN-965 ظرفیت 6 لیتر",
+    "slug": "donalex-dn-965-air-fryer-6l",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/donalex-dn-965-air-fryer-6l/",
+    "price": 35000000
+  },
+  "4413": {
+    "name": "سرخ کن بدون روغن دونالکس مدل DN-955 ظرفیت 8 لیتر",
+    "slug": "donalex-dn-955-air-fryer-8l",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/donalex-dn-955-air-fryer-8l/",
+    "price": 39000000
+  },
+  "4419": {
+    "name": "بخارگر ایستاده لباس ابکازو مدل GS-2139",
+    "slug": "ebkazo-2139-garment-steamer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/ebkazo-2139-garment-steamer/",
+    "price": 0
+  },
+  "4418": {
+    "name": "آون توستر ادمیلسون مدل OT-820 ظرفیت 40 لیتر",
+    "slug": "edmilson-ot-820-toaster-oven",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/edmilson-ot-820-toaster-oven/",
+    "price": 25000000
+  },
+  "4417": {
+    "name": "جارو شارژی عصایی و دستی ادمیلسون مدل 811 مشکی",
+    "slug": "edmilson-811-cordless-vacuum-cleaner-black",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/edmilson-811-cordless-vacuum-cleaner-black/",
+    "price": 0
+  },
+  "4426": {
+    "name": "آون توستر سولار کانوکشن ادمیلسون مدل OT-827",
+    "slug": "edmilson-ot-827-solar-toaster-oven",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/edmilson-ot-827-solar-toaster-oven/",
+    "price": 35000000
+  },
+  "4427": {
+    "name": "آبگرمکن برقی دیواری گرین ظرفیت 20 لیتر زودجوش",
+    "slug": "green-20l-instant-electric-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/green-20l-instant-electric-water-heater/",
+    "price": 16000000
+  },
+  "4429": {
+    "name": "سالاد ساز و رنده برقی دونالکس مدل DN-150 رنگ سفید",
+    "slug": "donalex-dn-150-salad-maker-white",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/donalex-dn-150-salad-maker-white/",
+    "price": 18000000
+  },
+  "4432": {
+    "name": "آبگرمکن دوگانه سوز ایستاده گرین ظرفیت 30 گالن",
+    "slug": "green-30-gallon-dual-fuel-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/green-30-gallon-dual-fuel-water-heater/",
+    "price": 0
+  },
+  "4433": {
+    "name": "آبگرمکن دوگانه سوز ایستاده گرین ظرفیت 60 گالن",
+    "slug": "green-60-gallon-dual-fuel-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/green-60-gallon-dual-fuel-water-heater/",
+    "price": 0
+  },
+  "4434": {
+    "name": "آبگرمکن برقی دیواری گرین ظرفیت 70 لیتر",
+    "slug": "green-70l-electric-wall-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/green-70l-electric-wall-water-heater/",
+    "price": 19200000
+  },
+  "4437": {
+    "name": "همزن کاسه دار حرفه ای کاخلر مدل KH-134-W رنگ سفید",
+    "slug": "kahler-kh-134-w-stand-mixer-white",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/kahler-kh-134-w-stand-mixer-white/",
+    "price": 17500000
+  },
+  "4440": {
+    "name": "زودپز و مولتی‌کوکر دیجیتال کاخلر مدل KH-5512 مشکی",
+    "slug": "kahler-kh-5512-multi-cooker-black",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/kahler-kh-5512-multi-cooker-black/",
+    "price": 22000000
+  },
+  "4442": {
+    "name": "بخاری گازی فن دار گرین مدل هوشمند سوپرهیت",
+    "slug": "green-gas-heater-with-fan",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/green-gas-heater-with-fan/",
+    "price": 0
+  },
+  "4443": {
+    "name": "اتو بخار دستی کاخلر مدل KH-812 رنگ سفید",
+    "slug": "kahler-kh-812-steam-iron-white",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/kahler-kh-812-steam-iron-white/",
+    "price": 0
+  },
+  "4446": {
+    "name": "اتو بخار دستی کاخلر مدل KH-813 رنگ مشکی نقره ای",
+    "slug": "kahler-kh-813-steam-iron-black-silver",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/kahler-kh-813-steam-iron-black-silver/",
+    "price": 0
+  },
+  "4447": {
+    "name": "اتو بخار دستی کاخلر مدل KH-814 رنگ مشکی رزگلد",
+    "slug": "kahler-kh-814-steam-iron-black-rosegold",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/kahler-kh-814-steam-iron-black-rosegold/",
+    "price": 0
+  },
+  "4450": {
+    "name": "همزن کاسه دار چرخشی اوریکس مدل خمیرزن حرفه ای",
+    "slug": "oryx-rotating-bowl-stand-mixer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/oryx-rotating-bowl-stand-mixer/",
+    "price": 0
+  },
+  "4451": {
+    "name": "دستگاه اسپرسوساز خانگی موناکو مدل 20 بار عصاره‌گیری قوی",
+    "slug": "monaco-20-bar-espresso-coffee-machine",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/monaco-20-bar-espresso-coffee-machine/",
+    "price": 43000000
+  },
+  "4452": {
+    "name": "ترازو وزن‌کشی دیجیتال میکسی شیشه ای نشکن سکوریت",
+    "slug": "mixi-digital-body-scale-tempered-glass",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/mixi-digital-body-scale-tempered-glass/",
+    "price": 0
+  },
+  "4456": {
+    "name": "آبگرمکن برقی ایستاده پارس گرین ظرفیت 160 لیتر",
+    "slug": "pars-green-160l-electric-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/pars-green-160l-electric-water-heater/",
+    "price": 28800000
+  },
+  "4457": {
+    "name": "آبگرمکن گازی ایستاده پارس گرین ظرفیت 30 گالن",
+    "slug": "pars-green-30-gallon-gas-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/pars-green-30-gallon-gas-water-heater/",
+    "price": 36600000
+  },
+  "4459": {
+    "name": "آبگرمکن برقی دیواری پارس گرین ظرفیت 120 لیتر",
+    "slug": "pars-green-120l-electric-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/pars-green-120l-electric-water-heater/",
+    "price": 27000000
+  },
+  "4462": {
+    "name": "آبگرمکن گازی ایستاده پارس گرین ظرفیت 50 گالن",
+    "slug": "pars-green-50-gallon-gas-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/pars-green-50-gallon-gas-water-heater/",
+    "price": 43600000
+  },
+  "4463": {
+    "name": "آبگرمکن گازی ایستاده پارس گرین ظرفیت 60 گالن",
+    "slug": "pars-green-60-gallon-gas-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/pars-green-60-gallon-gas-water-heater/",
+    "price": 47500000
+  },
+  "4464": {
+    "name": "آبگرمکن گازی ایستاده پارس گرین ظرفیت 40 گالن",
+    "slug": "pars-green-40-gallon-gas-water-heater",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/pars-green-40-gallon-gas-water-heater/",
+    "price": 39500000
+  },
+  "4468": {
+    "name": "پنکه ایستاده پایه بلند ساتیا مدل 1215 مجهز به ریموت",
+    "slug": "satia-1215-stand-fan",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/satia-1215-stand-fan/",
+    "price": 17000000
+  },
+  "4469": {
+    "name": "سرخ کن بدون روغن ساتیا مدل ST-9025 ظرفیت بالا",
+    "slug": "satia-st-9025-digital-air-fryer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/satia-st-9025-digital-air-fryer/",
+    "price": 25000000
+  },
+  "4472": {
+    "name": "سرخ کن بدون روغن ساتیا مدل ST-9015 لمسی دیجیتال",
+    "slug": "satia-st-9015-digital-air-fryer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/satia-st-9015-digital-air-fryer/",
+    "price": 24000000
+  },
+  "4473": {
+    "name": "پنکه ایستاده ساینا مدل کالیا (Kalia) پرقدرت",
+    "slug": "sayna-kalia-stand-fan",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/sayna-kalia-stand-fan/",
+    "price": 22000000
+  },
+  "4474": {
+    "name": "پمپ آب خانگی یک اسب بشقابی شیمجه مدل CPM-158 اصل",
+    "slug": "shimge-1hp-cpm158-water-pump",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/shimge-1hp-cpm158-water-pump/",
+    "price": 0
+  },
+  "4477": {
+    "name": "کتری برقی استیل تفال ظرفیت 2.2 لیتر مدل جوش سریع",
+    "slug": "tefal-2-2l-stainless-steel-electric-kettle",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/tefal-2-2l-stainless-steel-electric-kettle/",
+    "price": 0
+  },
+  "4478": {
+    "name": "آسیاب برقی قهوه و ادویه تولیپس مدل CG-473",
+    "slug": "tulips-cg-473-coffee-and-spice-grinder",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/tulips-cg-473-coffee-and-spice-grinder/",
+    "price": 3599000
+  },
+  "4481": {
+    "name": "سرخ کن بدون روغن تفال مدل ایزی فرای چندکاره",
+    "slug": "tefal-easy-fry-healthy-air-fryer",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/tefal-easy-fry-healthy-air-fryer/",
+    "price": 36000000
+  },
+  "4484": {
+    "name": "جاروبرقی کیسه ای تولیپس مدل VC-625 رنگ مشکی",
+    "slug": "tulips-vc-625-vacuum-cleaner-black",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/tulips-vc-625-vacuum-cleaner-black/",
+    "price": 0
+  },
+  "4485": {
+    "name": "پمپ آب خانگی یک اسب واتک مدل جتی پرفشار پروانه استیل",
+    "slug": "vatek-1hp-jet-water-pump",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/vatek-1hp-jet-water-pump/",
+    "price": 0
+  },
+  "4486": {
+    "name": "ماشین اصلاح سر و صورت شارژی وینسنت مدل HC3321 ضدآب",
+    "slug": "vincent-hc3321-cordless-hair-clipper",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/vincent-hc3321-cordless-hair-clipper/",
+    "price": 4500000
+  },
+  "4488": {
+    "name": "چرخ گوشت خانگی ویلز مدل پرقدرت موتور گیربکسی",
+    "slug": "willz-heavy-duty-meat-grinder",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/willz-heavy-duty-meat-grinder/",
+    "price": 29000000
+  },
+  "4492": {
+    "name": "جاروبرقی کیسه ای 2500 وات کندی مدل KCV-325 G",
+    "slug": "candy-kcv-325-g-vacuum-cleaner",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/candy-kcv-325-g-vacuum-cleaner/",
+    "price": 17000000
+  },
+  "4494": {
+    "name": "تلویزیون هوشمند 43 اینچ الیو مدل OL-43FSS30 اندروید 14",
+    "slug": "olive-43-inch-ol-43fss30-smart-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/olive-43-inch-ol-43fss30-smart-tv/",
+    "price": 55000000
+  },
+  "4497": {
+    "name": "تلویزیون هوشمند 43 اینچ ال ای دی ایکس ویژن مدل 43XT515",
+    "slug": "xvision-43-inch-43xt515-smart-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/xvision-43-inch-43xt515-smart-tv/",
+    "price": 63000000
+  },
+  "4499": {
+    "name": "تلویزیون 50 اینچ ال ای دی توشیبا مدل 50L2300EE",
+    "slug": "toshiba-50-inch-50l2300ee-led-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/toshiba-50-inch-50l2300ee-led-tv/",
+    "price": 0
+  },
+  "4501": {
+    "name": "تلویزیون 55 اینچ ال ای دی هوشمند 4K توشیبا مدل 55C350RP",
+    "slug": "toshiba-55-inch-4k-smart-led-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/toshiba-55-inch-4k-smart-led-tv/",
+    "price": 0
+  },
+  "4503": {
+    "name": "تلویزیون 43 اینچ ال ای دی هوشمند توشیبا مدل 43V35RP",
+    "slug": "toshiba-43-inch-fhd-led-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/toshiba-43-inch-fhd-led-tv/",
+    "price": 0
+  },
+  "4505": {
+    "name": "تلویزیون هوشمند 43 اینچ 4K هایسنس مدل 43A61Q",
+    "slug": "hisense-43-inch-4k-smart-tv",
+    "type": "simple",
+    "url": "https://hosseinykala.ir/product/hisense-43-inch-4k-smart-tv/",
+    "price": 0
+  }
 }

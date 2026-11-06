@@ -1,0 +1,99 @@
+# BEGIN LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteRule litespeed/debug/.*\.log$ - [F,L]
+RewriteRule \.litespeed_conf\.dat - [F,L]
+</IfModule>
+<IfModule LiteSpeed>
+CacheLookup on
+RewriteRule .* - [E=Cache-Control:no-autoflush]
+
+### marker ASYNC start ###
+RewriteCond %{REQUEST_URI} /wp-admin/admin-ajax\.php
+RewriteCond %{QUERY_STRING} action=async_litespeed
+RewriteRule .* - [E=noabort:1]
+### marker ASYNC end ###
+
+### marker DROPQS start ###
+CacheKeyModify -qs:fbclid
+CacheKeyModify -qs:gclid
+CacheKeyModify -qs:utm*
+CacheKeyModify -qs:_ga
+### marker DROPQS end ###
+
+</IfModule>
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END LSCACHE
+# BEGIN NON_LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+### marker BROWSER CACHE start ###
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresByType application/pdf A31536000
+ExpiresByType image/x-icon A31536000
+ExpiresByType image/vnd.microsoft.icon A31536000
+ExpiresByType image/svg+xml A31536000
+
+ExpiresByType image/jpg A31536000
+ExpiresByType image/jpeg A31536000
+ExpiresByType image/png A31536000
+ExpiresByType image/gif A31536000
+ExpiresByType image/webp A31536000
+ExpiresByType image/avif A31536000
+
+ExpiresByType video/ogg A31536000
+ExpiresByType audio/ogg A31536000
+ExpiresByType video/mp4 A31536000
+ExpiresByType video/webm A31536000
+
+ExpiresByType text/css A31536000
+ExpiresByType text/javascript A31536000
+ExpiresByType application/javascript A31536000
+ExpiresByType application/x-javascript A31536000
+
+ExpiresByType application/x-font-ttf A31536000
+ExpiresByType application/x-font-woff A31536000
+ExpiresByType application/font-woff A31536000
+ExpiresByType application/font-woff2 A31536000
+ExpiresByType application/vnd.ms-fontobject A31536000
+ExpiresByType font/ttf A31536000
+ExpiresByType font/otf A31536000
+ExpiresByType font/woff A31536000
+ExpiresByType font/woff2 A31536000
+
+</IfModule>
+### marker BROWSER CACHE end ###
+
+# BEGIN HK_STATIC_CACHE_LIFETIME
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|webp|avif|swf|svg|woff|woff2|ttf|otf|eot)(\.gz)?$">
+    Header set Cache-Control "max-age=31536000, public, immutable"
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)(\.gz)?$">
+    Header set Cache-Control "max-age=31536000, public, immutable"
+  </FilesMatch>
+</IfModule>
+# END HK_STATIC_CACHE_LIFETIME
+
+
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END NON_LSCACHE
+# This file was updated by Duplicator on 2026-07-19 21:10:43.
+# See the original_files_ folder for the original source_site_htaccess file.
+# BEGIN WordPress
+# دستورالعمل‌های (خطوط) بین "BEGIN WordPress" و "END WordPress"
+# به طور پویا تولید شده‌اند، و فقط باید به وسیلهٔ صافی‌های وردرپرس ویرایش شوند.
+# هر تغییری در دستورالعمل‌های بین این نشان‌گرها بازنویشی خواهند شد.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

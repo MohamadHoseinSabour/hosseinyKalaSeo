@@ -1,0 +1,8 @@
+2026/11/05-11:28:04.648 4484 Reusing MANIFEST C:\Users\mmhhs\OneDrive\Documents\GitHub\hosseinyKalaSeo\divar_session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/05-11:28:04.649 4484 Recovering log #26
+2026/11/05-11:28:04.649 4484 Level-0 table #28: started
+2026/11/05-11:28:04.654 4484 Level-0 table #28: 24537 bytes OK
+2026/11/05-11:28:04.658 4484 Delete type=0 #26
+2026/11/05-11:36:05.059 1ffc Level-0 table #31: started
+2026/11/05-11:36:05.072 1ffc Level-0 table #31: 23277 bytes OK
+2026/11/05-11:36:05.075 1ffc Delete type=0 #29

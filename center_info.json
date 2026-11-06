@@ -1,0 +1,70 @@
+{
+  "location": {
+    "pathname": "/new/PREMIUM_PANEL/ZhWFYgaK_xTlfvkBc",
+    "search": "",
+    "hash": "",
+    "state": {
+      "openedUid": "",
+      "form-page-pages": {
+        "ec678fe9-7be2-4648-a309-2122c465398a": {
+          "pages": [
+            1,
+            2
+          ]
+        }
+      }
+    },
+    "key": "p1vf5b"
+  },
+  "initialCenter": {
+    "latitude": 35.231739419359656,
+    "longitude": 53.56455342852962
+  },
+  "mapConfig": {
+    "style": {
+      "light": "https://map.divar.ir/back/style/prod/style-light-view-port-v1.0.0-abef6830-neshan.json",
+      "dark": "https://map.divar.ir/back/style/prod/style-dark-view-port-v1.0.0-abef6830-neshan.json"
+    },
+    "cameraBbox": [
+      [
+        53.335269927978516,
+        34.244667053222656
+      ],
+      [
+        54.19137191772461,
+        35.982032775878906
+      ]
+    ]
+  },
+  "exactLocationData": {
+    "field": {
+      "key": "Location_Point",
+      "defaultValue": {
+        "latitude": 35.231739419359656,
+        "longitude": 53.56455342852962
+      },
+      "validators": {
+        "point_validators": [
+          {
+            "required": {
+              "err": {
+                "message": "انتخاب مکان آگهی الزامی است",
+                "format": "NOT_FORMATTED"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "defaultValuesMap": {
+    "Location_CityId": "35",
+    "Location_NeighborhoodId": null,
+    "Location_Street": "جاده دسترسی نظامی",
+    "Location_Point": {
+      "latitude": 35.231739419359656,
+      "longitude": 53.56455342852962
+    },
+    "Location_ApproximatePoint": null
+  }
+}

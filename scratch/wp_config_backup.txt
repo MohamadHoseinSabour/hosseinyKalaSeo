@@ -1,0 +1,119 @@
+<?php
+define( 'WP_CACHE', true );
+
+
+/**
+ * The base configuration for WordPress
+ *
+ * The wp-config.php creation script uses this file during the installation.
+ * You don't have to use the web site, you can copy this file to "wp-config.php"
+ * and fill in the values.
+ *
+ * This file contains the following configurations:
+ *
+ * * Database settings
+ * * Secret keys
+ * * Database table prefix
+ * * ABSPATH
+ *
+ * @link https://wordpress.org/support/article/editing-wp-config-php/
+ *
+ * @package WordPress
+ */
+
+// ** Database settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define( 'DB_NAME', "hosse285_wp" );
+
+/** Database username */
+define( 'DB_USER', "hosse285_admin" );
+
+/** Database password */
+define( 'DB_PASSWORD', "0ksUoz13bINP2Mn0" );
+
+/** Database hostname */
+define( 'DB_HOST', "localhost" );
+
+/** Database charset to use in creating database tables. */
+define( 'DB_CHARSET', 'utf8mb4' );
+
+/** The database collate type. Don't change this if in doubt. */
+define( 'DB_COLLATE', '' );
+
+/**#@+
+ * Authentication unique keys and salts.
+ *
+ * Change these to different unique phrases! You can generate these using
+ * the {@link https://api.wordpress.org/secret-key/1.1/salt/ WordPress.org secret-key service}.
+ *
+ * You can change these at any point in time to invalidate all existing cookies.
+ * This will force all users to have to log in again.
+ *
+ * @since 2.6.0
+ */
+define( 'AUTH_KEY',         'm#bow/jP+p$5vK-_ qG j~h}S{J0UD6h=3REND9@vLnGPU|3QPPi:r0,=J@yNh$A' );
+define( 'SECURE_AUTH_KEY',  'f0+`qcE-w Tf3dMY`.UA{B?k]I!Icx;-hfz/M3 Gy$>8*Fp8zG)-d*]n#our=jHA' );
+define( 'LOGGED_IN_KEY',    'xT3&3:zG-t>]=HDD6cmI4Z:O+)i>6S=*N4bf@_OZqwRzI^PGx,D:[jN=~!B#]%{)' );
+define( 'NONCE_KEY',        '$ouV$]:5iX056zn_Sbp1$H_vnH-`fz_-2O[z6BU,uLq*?T/L_}H<}U`olq!KT!2f' );
+define( 'AUTH_SALT',        '1F{sQh4lnS9YTfwy-hoI*Zm7//3vsr(*^VPVi2%$*0?/Z3Q)76?-pgKjzCMquo8Q' );
+define( 'SECURE_AUTH_SALT', 'wJ@rglzi&9}%]o()uTN?4*h~lU_nzj}(6|NZWKKmV9wZV~Wr@~Ty.wIo_esg.f_V' );
+define( 'LOGGED_IN_SALT',   ')2|^#-2Q:^V5u(j}USb_Yo2ihAHj8JeiwCBLkwe,j*X:@V7:CU|%^i;hdd7t0-Y{' );
+define( 'NONCE_SALT',       '|TS4>*}K:<8eCAuI`Gtqc__Y/J;FE07H`VQ[)`2Ja;<l4{AvCIE;TSPmMLI,#FUn' );
+
+/**#@-*/
+
+/**
+ * WordPress database table prefix.
+ *
+ * You can have multiple installations in one database if you give each
+ * a unique prefix. Only numbers, letters, and underscores please!
+ */
+$table_prefix = 'wp_';
+
+/**
+ * For developers: WordPress debugging mode.
+ *
+ * Change this to true to enable the display of notices during development.
+ * It is strongly recommended that plugin and theme developers use WP_DEBUG
+ * in their development environments.
+ *
+ * For information on other constants that can be used for debugging,
+ * visit the documentation.
+ *
+ * @link https://wordpress.org/support/article/debugging-in-wordpress/
+ */
+ 
+define( 'WP_DEBUG', false );
+
+/* Add any custom values between this line and the "stop editing" line. */
+
+define( 'DUPLICATOR_AUTH_KEY', '9?K1fv5(i%5Aa*t2vlWb0~A{b)J76]W0$K<vIH|&I t9:1u]>lZ&{/y1zHjooOF ' );
+/* That's all, stop editing! Happy publishing. */
+
+
+
+
+
+
+
+/* غیر فعال کردن کران جاب برای افزایش سرعت سایت */
+define('DISABLE_WP_CRON', true);
+
+
+
+/* افزایش حافشه پنل وردپرس */
+define( 'WP_MEMORY_LIMIT', '256M' );
+define( 'WP_MAX_MEMORY_LIMIT', '512M' );
+
+define( 'AUTOSAVE_INTERVAL', 300 ); // ذخیره خودکار هر ۵ دقیقه به جای هر ۱ دقیقه
+define( 'WP_POST_REVISIONS', 5 );   // نگهداری حداکثر ۵ نسخه پشتیبان از هر برگه/نوشته
+
+
+
+/** Absolute path to the WordPress directory. */
+if ( ! defined( 'ABSPATH' ) ) {
+	define( 'ABSPATH', __DIR__ . '/' );
+}
+
+/** Sets up WordPress vars and included files. */
+require_once ABSPATH . 'wp-settings.php';

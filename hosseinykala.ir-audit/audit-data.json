@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "target_url": "https://hosseinykala.ir",
+    "domain": "hosseinykala.ir",
+    "audit_date": "2026-10-31",
+    "initial_health_score": 65,
+    "current_health_score": 91,
+    "grade": "A",
+    "business_type": "E-Commerce / Local Retailer (Home Appliances - Ahvaz)",
+    "weights": {
+      "technical_seo": 0.22,
+      "content_quality": 0.23,
+      "on_page_seo": 0.20,
+      "schema_structured_data": 0.10,
+      "performance": 0.10,
+      "ai_search_readiness": 0.10,
+      "images": 0.05
+    },
+    "category_scores": {
+      "technical_seo": 94,
+      "content_quality": 92,
+      "on_page_seo": 95,
+      "schema_structured_data": 94,
+      "performance": 72,
+      "ai_search_readiness": 90,
+      "images": 95
+    },
+    "resolved_critical_findings": [
+      "Missing <h1> on homepage resolved (Now exactly 1 keyword-targeted H1)",
+      "Category pages missing <h1> resolved (Now contains canonical category title H1)",
+      "Single blog post title rendered as <h3> upgraded to semantic <h1>",
+      "Category Meta Description bloat (2,739 chars) truncated and optimized to 149 chars",
+      "xts-template-sitemap.xml completely excluded from sitemap_index.xml and set to noindex",
+      "Product JSON-LD schema upgraded to Offer with IRR currency, 7-day return policy, and defined shipping",
+      "Homepage schema transformed into HomeGoodsStore with Ahvaz GeoCoordinates and Article schema removed",
+      "E-E-A-T author persona upgraded to 'تیم کارشناسی حسینی کالا' with expert schema",
+      "Missing Alt attributes eliminated (0 images without alt on homepage and product pages)",
+      "5 mixed-protocol http:// links on homepage converted to secure https://",
+      "Published /llms.txt and /llms-full.txt returning HTTP 200 for AI search engines"
+    ]
+  }
+}

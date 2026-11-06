@@ -1,0 +1,1018 @@
+{
+  "existing_matched_count": 200,
+  "discrepancies_count": 14,
+  "new_products_count": 98,
+  "discrepancies": [
+    {
+      "index": 2,
+      "raw_title": "LED SMART X.VISJON MADL515 43\"",
+      "catalog_name": "جاروبرقی سطلی جنرال فیت مدل کیوتی 4300",
+      "catalog_brand": "جنرال فیت",
+      "discrepancies": [
+        "اشتباه املایی برند: در فاکتور 'X.VISJON' خورده در حالی که برند صحیح 'ایکس ویژن' است."
+      ]
+    },
+    {
+      "index": 9,
+      "raw_title": "اتو فلیپس  5040",
+      "catalog_name": "اتو بخار فیلیپس مدل DST5040",
+      "catalog_brand": "فیلیپس",
+      "discrepancies": [
+        "اشتباه املایی برند: در فاکتور 'فلیپس' خورده در حالی که املا صحیح 'فیلیپس' است."
+      ]
+    },
+    {
+      "index": 32,
+      "raw_title": "افریزر کلوراکونومی استیل27فوت",
+      "catalog_name": "یخچال و فریزر 27 فوت کلور مدل كمبي هوم بار روسو",
+      "catalog_brand": "کلور",
+      "discrepancies": [
+        "اشتباه تایپی عنوان: 'افریزر' به جای 'فریزر'."
+      ]
+    },
+    {
+      "index": 33,
+      "raw_title": "افریزراکونومی27فوت سفیدکلور",
+      "catalog_name": "یخچال و فریزر 27 فوت کلور مدل كمبي هوم بار روسو",
+      "catalog_brand": "کلور",
+      "discrepancies": [
+        "اشتباه تایپی عنوان: 'افریزر' به جای 'فریزر'."
+      ]
+    },
+    {
+      "index": 38,
+      "raw_title": "ال ای دی هاورسون75اینچ",
+      "catalog_name": "جاروبرقی ۲۴۰۰ وات دونالکس مدل DN-750 سوپرسایلنت",
+      "catalog_brand": "دونالکس",
+      "discrepancies": [
+        "اشتباه املایی برند: در فاکتور 'ال ای دی هاورسون75اینچ' خورده در حالی که برند استاندارد 'هاورسن' است."
+      ]
+    },
+    {
+      "index": 40,
+      "raw_title": "ایخچال اکونومی27فوت سفیدکلور/",
+      "catalog_name": "یخچال و فریزر 27 فوت کلور مدل كمبي هوم بار روسو",
+      "catalog_brand": "کلور",
+      "discrepancies": [
+        "اشتباه تایپی عنوان: 'ایخچال' به جای 'یخچال'."
+      ]
+    },
+    {
+      "index": 41,
+      "raw_title": "ایخچال کلوراکونومی استیل27فوت",
+      "catalog_name": "یخچال و فریزر 27 فوت کلور مدل كمبي هوم بار روسو",
+      "catalog_brand": "کلور",
+      "discrepancies": [
+        "اشتباه تایپی عنوان: 'ایخچال' به جای 'یخچال'."
+      ]
+    },
+    {
+      "index": 163,
+      "raw_title": "فریزردیپونت اکسپلورسفید",
+      "catalog_name": "یخچال و فریزر دوقلو دیپوینت مدل اکسپلور (Explore)",
+      "catalog_brand": "دیپوینت",
+      "discrepancies": [
+        "اشتباه املایی برند: در فاکتور 'دیپونت/Dipoent' خورده در حالی که املا صحیح 'دیپوینت' است."
+      ]
+    },
+    {
+      "index": 164,
+      "raw_title": "فریزردیپونت اکسپلورسیلور",
+      "catalog_name": "یخچال و فریزر دوقلو دیپوینت مدل اکسپلور (Explore)",
+      "catalog_brand": "دیپوینت",
+      "discrepancies": [
+        "اشتباه املایی برند: در فاکتور 'دیپونت/Dipoent' خورده در حالی که املا صحیح 'دیپوینت' است."
+      ]
+    },
+    {
+      "index": 259,
+      "raw_title": "یخچال دیپونت اکسپلورسفید",
+      "catalog_name": "یخچال و فریزر دوقلو دیپوینت مدل اکسپلور (Explore)",
+      "catalog_brand": "دیپوینت",
+      "discrepancies": [
+        "اشتباه املایی برند: در فاکتور 'دیپونت/Dipoent' خورده در حالی که املا صحیح 'دیپوینت' است."
+      ]
+    },
+    {
+      "index": 260,
+      "raw_title": "یخچال دیپونت اکسپلورسیلور",
+      "catalog_name": "یخچال و فریزر دوقلو دیپوینت مدل اکسپلور (Explore)",
+      "catalog_brand": "دیپوینت",
+      "discrepancies": [
+        "اشتباه املایی برند: در فاکتور 'دیپونت/Dipoent' خورده در حالی که املا صحیح 'دیپوینت' است."
+      ]
+    },
+    {
+      "index": 263,
+      "raw_title": "یخچال فریزر دیپونت BOSSسیلور",
+      "catalog_name": "یخچال فریزر 30 فوت دیپوینت مدل Boss Pro",
+      "catalog_brand": "دیپوینت",
+      "discrepancies": [
+        "اشتباه املایی برند: در فاکتور 'دیپونت/Dipoent' خورده در حالی که املا صحیح 'دیپوینت' است."
+      ]
+    },
+    {
+      "index": 276,
+      "raw_title": "یخچال فریزردیسنت استیل Dipoent",
+      "catalog_name": "یخچال و فریزر کمبی دیپوینت مدل دیسنت (Decent)",
+      "catalog_brand": "دیپوینت",
+      "discrepancies": [
+        "اشتباه املایی برند: در فاکتور 'دیپونت/Dipoent' خورده در حالی که املا صحیح 'دیپوینت' است."
+      ]
+    },
+    {
+      "index": 295,
+      "raw_title": "یخچال کلورمینی قرمزR)re01(",
+      "catalog_name": "↳ رنگ: قرمز",
+      "catalog_brand": "کلور",
+      "discrepancies": [
+        "اشتباه در کد مدل و پرانتز: 'R)re01(' به جای کد مدل استاندارد 'RE01' (رنگ قرمز)."
+      ]
+    }
+  ],
+  "new_products": [
+    {
+      "index": 14,
+      "raw_title": "اتودونالکس 895",
+      "qty": 4,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "895"
+      ]
+    },
+    {
+      "index": 15,
+      "raw_title": "اتورانکو",
+      "qty": 5,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": []
+    },
+    {
+      "index": 17,
+      "raw_title": "اتوکاخلر812سفید",
+      "qty": 2,
+      "detected_brand": "کاخلر",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "812"
+      ]
+    },
+    {
+      "index": 18,
+      "raw_title": "اتوکاخلر813مشکی نقره ای",
+      "qty": 2,
+      "detected_brand": "کاخلر",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "813"
+      ]
+    },
+    {
+      "index": 19,
+      "raw_title": "اتوکاخلر814مشکی رزگلد",
+      "qty": 2,
+      "detected_brand": "کاخلر",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "814"
+      ]
+    },
+    {
+      "index": 20,
+      "raw_title": "اتومخزن دارمدل2141",
+      "qty": 2,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "2141"
+      ]
+    },
+    {
+      "index": 24,
+      "raw_title": "اسپرسو مباشی",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 25,
+      "raw_title": "اسپرسودونالکس 465",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": [
+        "465"
+      ]
+    },
+    {
+      "index": 28,
+      "raw_title": "اسپرسوسازحرفه ای رانکو",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 29,
+      "raw_title": "اسپرسوسازموناکو",
+      "qty": 1,
+      "detected_brand": "موناکو",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 30,
+      "raw_title": "اسپرسوسازنارنجی گرنویک",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 31,
+      "raw_title": "اسیاب  ونتو",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 34,
+      "raw_title": "ال ای دی 32aversen",
+      "qty": 1,
+      "detected_brand": "هاورسن",
+      "suggested_cat": "صوتی و تصویری",
+      "models": [
+        "32aversen"
+      ]
+    },
+    {
+      "index": 42,
+      "raw_title": "آب  سردکن افترون رومیزی",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 44,
+      "raw_title": "آبسردکن نیکائی مدل1206ایستاده",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نامشخص",
+      "models": [
+        "1206"
+      ]
+    },
+    {
+      "index": 45,
+      "raw_title": "آبگرمکن الکترواستیل مخزن داردیوا",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 46,
+      "raw_title": "آبگرمکن پارس گرین120لیتربرقی",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "نامشخص",
+      "models": [
+        "120"
+      ]
+    },
+    {
+      "index": 47,
+      "raw_title": "آبگرمکن پارس گرین160لیتربرقی",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "نامشخص",
+      "models": [
+        "160"
+      ]
+    },
+    {
+      "index": 48,
+      "raw_title": "آبگرمکن پارس گرین30گالن گازی",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "30"
+      ]
+    },
+    {
+      "index": 49,
+      "raw_title": "آبگرمکن پارس گرین40گالن گازی",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "40"
+      ]
+    },
+    {
+      "index": 50,
+      "raw_title": "آبگرمکن پارس گرین50گالن گازی",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "50"
+      ]
+    },
+    {
+      "index": 51,
+      "raw_title": "آبگرمکن پارس گرین60گالن گازی",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "60"
+      ]
+    },
+    {
+      "index": 54,
+      "raw_title": "آبگرمکن گرین20لیتردیواری برقی",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "نامشخص",
+      "models": [
+        "20"
+      ]
+    },
+    {
+      "index": 55,
+      "raw_title": "آبگرمکن گرین30گالن دوگانه ایستاده",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "نامشخص",
+      "models": [
+        "30"
+      ]
+    },
+    {
+      "index": 56,
+      "raw_title": "آبگرمکن گرین60گالن دوگانه ایستاده",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "نامشخص",
+      "models": [
+        "60"
+      ]
+    },
+    {
+      "index": 57,
+      "raw_title": "آبگرمکن گرین70لیتردیواری برقی",
+      "qty": 1,
+      "detected_brand": "گرین",
+      "suggested_cat": "نامشخص",
+      "models": [
+        "70"
+      ]
+    },
+    {
+      "index": 59,
+      "raw_title": "آسیاب  قهوه مایر",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 60,
+      "raw_title": "آسیاب قهوه تولیپس 473",
+      "qty": 1,
+      "detected_brand": "تولیپس",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": [
+        "473"
+      ]
+    },
+    {
+      "index": 64,
+      "raw_title": "بخارگرابکازومدل2139",
+      "qty": 2,
+      "detected_brand": "ابکازو",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "2139"
+      ]
+    },
+    {
+      "index": 68,
+      "raw_title": "بخاری پلارسنگی بدون دودکش",
+      "qty": -1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "سرمایش و گرمایش",
+      "models": []
+    },
+    {
+      "index": 69,
+      "raw_title": "بخاری گرین فن دار",
+      "qty": 11,
+      "detected_brand": "گرین",
+      "suggested_cat": "سرمایش و گرمایش",
+      "models": []
+    },
+    {
+      "index": 70,
+      "raw_title": "بخاری گلدن لوکس",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "سرمایش و گرمایش",
+      "models": []
+    },
+    {
+      "index": 74,
+      "raw_title": "پمپ آب شیمجه تک اسب",
+      "qty": 1,
+      "detected_brand": "شیمجه",
+      "suggested_cat": "سرمایش و گرمایش",
+      "models": []
+    },
+    {
+      "index": 75,
+      "raw_title": "پمپ آب واتک تک اسب",
+      "qty": 1,
+      "detected_brand": "واتک",
+      "suggested_cat": "سرمایش و گرمایش",
+      "models": []
+    },
+    {
+      "index": 76,
+      "raw_title": "پنکه پارس خزرپایه بلند",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "سرمایش و گرمایش",
+      "models": []
+    },
+    {
+      "index": 79,
+      "raw_title": "پنکه ساتیا 1215",
+      "qty": 2,
+      "detected_brand": "ساتیا",
+      "suggested_cat": "سرمایش و گرمایش",
+      "models": [
+        "1215"
+      ]
+    },
+    {
+      "index": 81,
+      "raw_title": "پنکه ساینامدل کالیا",
+      "qty": 2,
+      "detected_brand": "ساینا",
+      "suggested_cat": "سرمایش و گرمایش",
+      "models": []
+    },
+    {
+      "index": 88,
+      "raw_title": "ترازومیکسی",
+      "qty": 1,
+      "detected_brand": "میکسی",
+      "suggested_cat": "زیبایی و سلامت فردی",
+      "models": []
+    },
+    {
+      "index": 89,
+      "raw_title": "تصفیه اب افترون",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "تصفیه کننده آب",
+      "models": []
+    },
+    {
+      "index": 92,
+      "raw_title": "توسترادمیلسون مدل820",
+      "qty": 1,
+      "detected_brand": "ادمیلسون",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "820"
+      ]
+    },
+    {
+      "index": 93,
+      "raw_title": "توسترسولارادمیلسون مدل827",
+      "qty": 1,
+      "detected_brand": "ادمیلسون",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "827"
+      ]
+    },
+    {
+      "index": 95,
+      "raw_title": "توستروستینگهوس آبی",
+      "qty": 1,
+      "detected_brand": "وستینگهاوس",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 96,
+      "raw_title": "توستروستینگهوس کرم",
+      "qty": 1,
+      "detected_brand": "وستینگهاوس",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 103,
+      "raw_title": "جارو دوو VC-LH22B",
+      "qty": 4,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "vc",
+        "lh22b"
+      ]
+    },
+    {
+      "index": 104,
+      "raw_title": "جاروبرقی تولیپس 625مشکی",
+      "qty": -1,
+      "detected_brand": "تولیپس",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "625"
+      ]
+    },
+    {
+      "index": 112,
+      "raw_title": "جاروبرقی کلورسطلی",
+      "qty": 8,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": []
+    },
+    {
+      "index": 114,
+      "raw_title": "جاروسطلی   BOST",
+      "qty": 18,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "bost"
+      ]
+    },
+    {
+      "index": 115,
+      "raw_title": "جاروشارژی ادمیلسون مدل811مشکی",
+      "qty": 4,
+      "detected_brand": "ادمیلسون",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "811"
+      ]
+    },
+    {
+      "index": 117,
+      "raw_title": "جاروشارژی سیماران",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": []
+    },
+    {
+      "index": 119,
+      "raw_title": "چای سازسماوری گرنویک",
+      "qty": 2,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 122,
+      "raw_title": "چرخ گوشت ویلز",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 124,
+      "raw_title": "خردکن بلانزومدل1136",
+      "qty": 2,
+      "detected_brand": "بلانزو",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "1136"
+      ]
+    },
+    {
+      "index": 125,
+      "raw_title": "خردکن بوش",
+      "qty": 2,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 130,
+      "raw_title": "زودپزکاخلر5512مشکی",
+      "qty": 2,
+      "detected_brand": "کاخلر",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "5512"
+      ]
+    },
+    {
+      "index": 132,
+      "raw_title": "سالادساز150سفید",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "150"
+      ]
+    },
+    {
+      "index": 133,
+      "raw_title": "سالادساز150مشکی",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "150"
+      ]
+    },
+    {
+      "index": 134,
+      "raw_title": "ساندویچ ساز",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 139,
+      "raw_title": "سرخ کن ایرفرایرخاکستری گنویک",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 140,
+      "raw_title": "سرخ کن تفال",
+      "qty": 1,
+      "detected_brand": "تفال",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 141,
+      "raw_title": "سرخ کن دونالکس",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 145,
+      "raw_title": "سرخ کن ساتیامدل9015",
+      "qty": 1,
+      "detected_brand": "ساتیا",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "9015"
+      ]
+    },
+    {
+      "index": 146,
+      "raw_title": "سرخ کن ساتیامدل9025",
+      "qty": 1,
+      "detected_brand": "ساتیا",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "9025"
+      ]
+    },
+    {
+      "index": 152,
+      "raw_title": "سشوارآتمن پاورفول538",
+      "qty": 3,
+      "detected_brand": "آتمن",
+      "suggested_cat": "زیبایی و سلامت فردی",
+      "models": [
+        "538"
+      ]
+    },
+    {
+      "index": 155,
+      "raw_title": "شیرجوش مشکی اویزپلاس",
+      "qty": 2,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 161,
+      "raw_title": "فرگازآلتون        MD5W",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "md5w"
+      ]
+    },
+    {
+      "index": 162,
+      "raw_title": "فریزر ریگور",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 190,
+      "raw_title": "کتری برقی پروکس",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 191,
+      "raw_title": "کتری برقی تفال 2.2 L",
+      "qty": 1,
+      "detected_brand": "تفال",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": [
+        "2",
+        "2",
+        "l"
+      ]
+    },
+    {
+      "index": 198,
+      "raw_title": "کتری برقی وستینگهوس آبی",
+      "qty": 1,
+      "detected_brand": "وستینگهاوس",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 199,
+      "raw_title": "کتری برقی وستینگهوس کرم",
+      "qty": 1,
+      "detected_brand": "وستینگهاوس",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 200,
+      "raw_title": "کتری برقی وگاتی",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 202,
+      "raw_title": "کتری برقی وولگا",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نوشیدنی ساز",
+      "models": []
+    },
+    {
+      "index": 206,
+      "raw_title": "کسرواضافات کالا",
+      "qty": -11,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 214,
+      "raw_title": "کولرآبی ریتون",
+      "qty": 7,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "سرمایش و گرمایش",
+      "models": []
+    },
+    {
+      "index": 215,
+      "raw_title": "گازصفحه ای التون 534مشکی",
+      "qty": -1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "534"
+      ]
+    },
+    {
+      "index": 217,
+      "raw_title": "گازصفحه ای آلتون           523",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "523"
+      ]
+    },
+    {
+      "index": 219,
+      "raw_title": "گوشت کوب وستینگ هوس قرمز",
+      "qty": 1,
+      "detected_brand": "وستینگهاوس",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 234,
+      "raw_title": "لباسشویی هیمالیا10kتسلاپرواستیل",
+      "qty": 2,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "10k"
+      ]
+    },
+    {
+      "index": 235,
+      "raw_title": "لباسشویی هیمالیاk10تسلاپروسفید",
+      "qty": 2,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "k10"
+      ]
+    },
+    {
+      "index": 236,
+      "raw_title": "لباسشویی9kکلورلمسی سفید9tw1",
+      "qty": 3,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "شستشو و نظافت",
+      "models": [
+        "9k",
+        "9tw1"
+      ]
+    },
+    {
+      "index": 237,
+      "raw_title": "ماشین اصلاح پروامگا تک",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "زیبایی و سلامت فردی",
+      "models": []
+    },
+    {
+      "index": 238,
+      "raw_title": "ماشین اصلاح وینسنت 3321",
+      "qty": 2,
+      "detected_brand": "وینسنت",
+      "suggested_cat": "زیبایی و سلامت فردی",
+      "models": [
+        "3321"
+      ]
+    },
+    {
+      "index": 241,
+      "raw_title": "مخلوط کن وستینگهوس آبی",
+      "qty": 1,
+      "detected_brand": "وستینگهاوس",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 242,
+      "raw_title": "مخلوط کن وستینگهوس کرم",
+      "qty": 1,
+      "detected_brand": "وستینگهاوس",
+      "suggested_cat": "نامشخص",
+      "models": []
+    },
+    {
+      "index": 245,
+      "raw_title": "همزن اوریکس  کاسه چرخ دار",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 247,
+      "raw_title": "همزن کاسه دارسفیدکاخلر134 W K4",
+      "qty": 1,
+      "detected_brand": "کاخلر",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "134",
+        "w",
+        "k4"
+      ]
+    },
+    {
+      "index": 249,
+      "raw_title": "همزن وستینگهوس آبی",
+      "qty": 1,
+      "detected_brand": "وستینگهاوس",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 250,
+      "raw_title": "همزن وستینگهوس کرم",
+      "qty": 1,
+      "detected_brand": "وستینگهاوس",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 255,
+      "raw_title": "هودآلتون                H703 B",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "h703",
+        "b"
+      ]
+    },
+    {
+      "index": 262,
+      "raw_title": "یخچال فریزر دیپونت BOOSسفید",
+      "qty": 5,
+      "detected_brand": "دیپوینت",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "boos"
+      ]
+    },
+    {
+      "index": 272,
+      "raw_title": "یخچال فریزرالکتروسفیدکمپکت",
+      "qty": 5,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": []
+    },
+    {
+      "index": 275,
+      "raw_title": "یخچال فریزردیپونت سفید T7",
+      "qty": 12,
+      "detected_brand": "دیپوینت",
+      "suggested_cat": "لوازم برقی و پخت و پز",
+      "models": [
+        "t7"
+      ]
+    },
+    {
+      "index": 290,
+      "raw_title": "یخچال کلورمینی آبی پاستیلی",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "یخچال و فریزر",
+      "models": []
+    },
+    {
+      "index": 291,
+      "raw_title": "یخچال کلورمینی آبی طرحدار",
+      "qty": 2,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "یخچال و فریزر",
+      "models": []
+    },
+    {
+      "index": 292,
+      "raw_title": "یخچال کلورمینی سبزپاستیلی",
+      "qty": 3,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "یخچال و فریزر",
+      "models": []
+    },
+    {
+      "index": 293,
+      "raw_title": "یخچال کلورمینی سبزطرحدار",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "یخچال و فریزر",
+      "models": []
+    },
+    {
+      "index": 294,
+      "raw_title": "یخچال کلورمینی سفیدطرحدار",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "یخچال و فریزر",
+      "models": []
+    },
+    {
+      "index": 296,
+      "raw_title": "یخچال کلورمینی مشکی طرحدار",
+      "qty": 1,
+      "detected_brand": "نامشخص",
+      "suggested_cat": "یخچال و فریزر",
+      "models": []
+    }
+  ]
+}

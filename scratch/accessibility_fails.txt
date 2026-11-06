@@ -1,0 +1,389 @@
+=== FAILING ACCESSIBILITY AUDITS ===
+
+[FAIL] color-contrast: Background and foreground colors do not have a sufficient contrast ratio. (score=0, weight=7)
+  Description: Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.13/color-contrast).
+  Total failing elements: 38
+    - Snippet: <input aria-label="Ø¬Ø³ØªØ¬Ù" type="text" class="s" placeholder="Ø¬Ø³ØªØ¬Ù Ø¨Ø±Ø§Û ÙØ­ØµÙÙØ§Øª" value="" name="s">
+      Selector: div.xts-search-wrapper > form.searchform > div.searchform-input > input.s
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.21 (foreground color: #777777, background color: #f8f8f8, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span>
+      Selector: div.xts-cat > div.xts-cat-content > div.xts-cat-count > span
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="xts-cat-count-text">
+      Selector: div.xts-cat > div.xts-cat-content > div.xts-cat-count > span.xts-cat-count-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span>
+      Selector: div.xts-cat > div.xts-cat-content > div.xts-cat-count > span
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span>
+      Selector: div.xts-cat > div.xts-cat-content > div.xts-cat-count > span
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span>
+      Selector: div.xts-cat > div.xts-cat-content > div.xts-cat-count > span
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span>
+      Selector: div.xts-cat > div.xts-cat-content > div.xts-cat-count > span
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-heading-title elementor-size-default">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > span.elementor-heading-title
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.99 (foreground color: #959595, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-button-text">
+      Selector: div.elementor-button-wrapper > a.elementor-button > span.elementor-button-content-wrapper > span.elementor-button-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.22 (foreground color: #534eff, background color: #e3e1ff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-heading-title elementor-size-default">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > span.elementor-heading-title
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.99 (foreground color: #959595, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-button-text">
+      Selector: div.elementor-button-wrapper > a.elementor-button > span.elementor-button-content-wrapper > span.elementor-button-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.22 (foreground color: #534eff, background color: #e3e1ff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-heading-title elementor-size-default">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > span.elementor-heading-title
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.99 (foreground color: #959595, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-button-text">
+      Selector: div.elementor-button-wrapper > a.elementor-button > span.elementor-button-content-wrapper > span.elementor-button-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.22 (foreground color: #534eff, background color: #e3e1ff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-heading-title elementor-size-default">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > span.elementor-heading-title
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.99 (foreground color: #959595, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-button-text">
+      Selector: div.elementor-button-wrapper > a.elementor-button > span.elementor-button-content-wrapper > span.elementor-button-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.22 (foreground color: #534eff, background color: #e3e1ff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-heading-title elementor-size-default">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > span.elementor-heading-title
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.99 (foreground color: #959595, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-button-text">
+      Selector: div.elementor-button-wrapper > a.elementor-button > span.elementor-button-content-wrapper > span.elementor-button-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.22 (foreground color: #534eff, background color: #e3e1ff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <bdi>
+      Selector: span.price > del > span.woocommerce-Price-amount > bdi
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 2.64 (foreground color: #9b9ca3, background color: #fbfbfc, font size: 7.4pt (9.9px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <p class="elementor-image-box-description">
+      Selector: div.elementor-widget-container > div.elementor-image-box-wrapper > div.elementor-image-box-content > p.elementor-image-box-description
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 3.35 (foreground color: #858585, background color: #f3f3ff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <p class="elementor-image-box-description">
+      Selector: div.elementor-widget-container > div.elementor-image-box-wrapper > div.elementor-image-box-content > p.elementor-image-box-description
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 3.35 (foreground color: #858585, background color: #f3f3ff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <p class="elementor-image-box-description">
+      Selector: div.elementor-widget-container > div.elementor-image-box-wrapper > div.elementor-image-box-content > p.elementor-image-box-description
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 3.35 (foreground color: #858585, background color: #f3f3ff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <p class="elementor-image-box-description">
+      Selector: div.elementor-widget-container > div.elementor-image-box-wrapper > div.elementor-image-box-content > p.elementor-image-box-description
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 3.35 (foreground color: #858585, background color: #f3f3ff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-icon-list-text">
+      Selector: ul.elementor-icon-list-items > li.elementor-icon-list-item > a > span.elementor-icon-list-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 3.69 (foreground color: #858585, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-icon-list-text">
+      Selector: ul.elementor-icon-list-items > li.elementor-icon-list-item > a > span.elementor-icon-list-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 3.69 (foreground color: #858585, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-icon-list-text">
+      Selector: ul.elementor-icon-list-items > li.elementor-icon-list-item > a > span.elementor-icon-list-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 3.69 (foreground color: #858585, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-icon-list-text">
+      Selector: ul.elementor-icon-list-items > li.elementor-icon-list-item > a > span.elementor-icon-list-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 3.69 (foreground color: #858585, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <span class="elementor-icon-list-text">
+      Selector: ul.elementor-icon-list-items > li.elementor-icon-list-item > a > span.elementor-icon-list-text
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 3.69 (foreground color: #858585, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1
+    - Snippet: <a href="https://mohamadhoseinsabour.github.io/myResume/">
+      Selector: div.elementor-element > div.elementor-widget-container > span.elementor-heading-title > a
+      Explanation: Fix any of the following:
+  Element has insufficient color contrast of 4.05 (foreground color: #7e7e7e, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1
+
+[FAIL] link-name: Links do not have a discernible name (score=0, weight=7)
+  Description: Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn how to make links accessible](https://dequeuniversity.com/rules/axe/4.13/link-name).
+  Total failing elements: 22
+    - Snippet: <a href="https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%dâ¦" class="xts-cat-link xts-fill">
+      Selector: div.xts-col > div.xts-cat > div.xts-cat-thumbnail > a.xts-cat-link
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/%d8%aa%d8%b5%d9%81%db%8c%d9%87-%dâ¦" class="xts-cat-link xts-fill">
+      Selector: div.xts-col > div.xts-cat > div.xts-cat-thumbnail > a.xts-cat-link
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%dâ¦" class="xts-cat-link xts-fill">
+      Selector: div.xts-col > div.xts-cat > div.xts-cat-thumbnail > a.xts-cat-link
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/%d9%84%d9%88%d8%a7%d8%b2%d9%85-%dâ¦" class="xts-cat-link xts-fill">
+      Selector: div.xts-col > div.xts-cat > div.xts-cat-thumbnail > a.xts-cat-link
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/washing-cleaning/" class="xts-cat-link xts-fill">
+      Selector: div.xts-col > div.xts-cat > div.xts-cat-thumbnail > a.xts-cat-link
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/drink-makers/" class="xts-cat-link xts-fill">
+      Selector: div.xts-col > div.xts-cat > div.xts-cat-thumbnail > a.xts-cat-link
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/heating-cooling/" class="xts-cat-link xts-fill">
+      Selector: div.xts-col > div.xts-cat > div.xts-cat-thumbnail > a.xts-cat-link
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/audio-video/" class="xts-cat-link xts-fill">
+      Selector: div.xts-col > div.xts-cat > div.xts-cat-thumbnail > a.xts-cat-link
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/%db%8c%d8%ae%da%86%d8%a7%d9%84-%dâ¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%dâ¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/%d9%85%d8%a7%d8%b4%db%8c%d9%86-%dâ¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/product-category/%da%a9%d9%88%d9%84%d8%b1-%d8%a2%dâ¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/%d8%aa%d8%ae%d9%81%db%8c%d9%81-%d9%87%d8%a7-%d9%88â¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/%d8%aa%d8%ae%d9%81%db%8c%d9%81-%d9%87%d8%a7-%d9%88â¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/%d8%aa%d8%ae%d9%81%db%8c%d9%81-%d9%87%d8%a7-%d9%88â¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/%d8%aa%d8%ae%d9%81%db%8c%d9%81-%d9%87%d8%a7-%d9%88â¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/%d8%aa%d8%ae%d9%81%db%8c%d9%81-%d9%87%d8%a7-%d9%88â¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/%d8%aa%d8%ae%d9%81%db%8c%d9%81-%d9%87%d8%a7-%d9%88â¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://hosseinykala.ir/%d8%aa%d8%ae%d9%81%db%8c%d9%81-%d9%87%d8%a7-%d9%88â¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="#">
+      Selector: div.e-con-inner > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="#">
+      Selector: div.e-con-inner > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+    - Snippet: <a href="https://trustseal.enamad.ir/?id=769041&amp;code=RqgiuOWPSKoCLDGZHtst5E2Z178dPTâ¦">
+      Selector: div.elementor-element > div.elementor-element > div.elementor-widget-container > a
+      Explanation: Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+
+[FAIL] meta-viewport: `[user-scalable="no"]` is used in the `<meta name="viewport">` element or the `[maximum-scale]` attribute is less than 5. (score=0, weight=10)
+  Description: Disabling zooming is problematic for users with low vision who rely on screen magnification to properly see the contents of a web page. [Learn more about the viewport meta tag](https://dequeuniversity.com/rules/axe/4.13/meta-viewport).
+  Total failing elements: 1
+    - Snippet: <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      Selector: head > meta
+      Explanation: Fix any of the following:
+  user-scalable=no on <meta> tag disables zooming on mobile devices

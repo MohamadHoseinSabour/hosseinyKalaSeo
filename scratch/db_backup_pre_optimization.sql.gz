@@ -1,0 +1,274 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>DirectAdmin v1.711</title>
+<link rel="stylesheet" type="text/css" href="/CSS_STYLES_RTL">
+<script type="text/javascript" src="/IMG_JQ"></script>
+<script type="text/javascript" src="/IMG_TOOLTIP"></script>
+<script type="text/javascript" src="/IMG_MAINJS"></script>
+<script type="text/javascript" src="/IMG_JS_CHARTS"></script>
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/CSS_STYLES_IE">
+<![endif]-->
+<script language="JavaScript" type="text/javascript">
+<!--
+function log_me_out()           {
+
+                        fetch("/api/logout",{method:"POST"})
+                                .then(x=>x.json())
+                                .then(x=>{window.location.href = x.logoutURL || "/"})
+                                .catch(x=>{window.location.href = "/"})
+
+}
+setTimeout('log_me_out();', 300*60*1000);
+//-->
+</script>
+</head>
+<body  bgcolor="#FFFFFF" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0" onLoad="javascript:TB_unload();" onBeforeUnLoad="javascript:TB_load();">
+<div id="mail_frame">
+  <div id="pageloading">لطفا کمی صبر کنید</div>
+  <div id="main_top">
+    <div style="height:65px;">
+      <div id="top_user">
+        <a href="./">صفحه اصلی</a> | <a href="/CMD_LOGOUT" onclick="log_me_out();return false">خروج</a><span class="langbox">
+
+
+
+
+<select id="changeLang"><option value="" selected="selected">Change language...</option><option value="en">en</option><option value="fa">fa</option></select>
+</span>
+        <br />
+        خوش آمدید <b>hosse285</b>
+      </div>
+      <div id="top_logo" style="background-image: url(/IMG_SKIN_HEADER);"></div> 
+    </div>
+    <div style="height:25px;" align="left">
+      <div id="level_menu">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <a onclick="javascript:window.location='/CMD_TICKET?sort1=-1';" class="lmsg" style="background-image: url(/IMG_LV_BT_MSG1);" title="System messages</br>3 جدید"></a>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+$(function(){$('a.lmsg').ToolTip({className: 'tooltip', position: 'mouse',delay: 200});});
+//-->
+</script>
+
+      </div>
+      <div id="top_menu">
+        <a href="/HTM_INDEX_USER" class="lhome">صفحه اصلی</a>
+
+        <a href="https://server152c.irwebspace.com/roundcube" target="_blank" class="lwmail">وب میل</a>
+
+
+	<a href="/CMD_PLUGINS/axfilepro/index.raw" target=_blank class="laxfp">مدیریت فایل</a>
+        <a href="/CMD_FILE_MANAGER/" class="lfiles">مدیریت فایل قدیمی</a>
+
+        <a href="/HTM_PASSWD" class="lpass">رمزعبور</a>
+      </div>
+    </div>
+  </div>
+  <div id="main_contents">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="leftPanel">
+      <div class="panelBox">
+        <div class="title"><span>گزینه ها</span></div>
+        <a href="/CMD_DB_CREATE"><img src="/IMG_IC_ADD_MYSQL"><br />ساختن یک دیتابیس جدید</a>
+	
+        <div class="cf cleft"></div>
+      </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      <div id= "account-summary-box" class="panelBox">
+        <div class="title"><span>خلاصه اکانت</span></div>
+        <ul id="summaryList">
+
+          <li><span>&#10148;</span><span>فضای دیسک</span><div class="progress"><div class="progress-bar" data-value="1965.1" data-max="3072.0"></div></div><div class="stats">1965.1 / 3072.0 MB</div></li>
+
+
+          <li><span>&#10148;</span><span>Inodes</span><div class="progress"><div class="progress-bar" data-value="39195" data-max="131072"></div></div><div class="stats">39195 / 131072</div></li>
+
+
+          <li><span>&#10148;</span><span>ترافیک</span><div class="progress"><div class="progress-bar" data-value="1909.6" data-max="122880"></div></div><div class="stats"> 1909.6 / 122880 MB </div></li>
+
+          <li><span>&#10148;</span><span>دامین‌های اصلی</span><div class="progress"><div class="progress-bar" data-value="1" data-max="1"></div></div><div class="stats">1 / 1</div></li>
+
+          <li><span>&#10148;</span><span>دیتابیس‌ها</span><div class="progress"><div class="progress-bar" data-value="1" data-max="2"></div></div><div class="stats">1 / 2</div></li>
+
+          <li><span>&#10148;</span><span>FTP اکانت‌های</span><div class="progress"><div class="progress-bar" data-value="1" data-max="10"></div></div><div class="stats">1 / 10</div></li>
+
+          <li><span>&#10148;</span><span>اکانت‌های ایمیل</span><div class="progress"><div class="progress-bar" data-value="2" data-max="11"></div></div><div class="stats">2 / 11</div></li>
+
+          <li><span>&#10148;</span><span>سابدامین‌ها</span><div class="progress"><div class="progress-bar" data-value="0" data-max="10"></div></div><div class="stats">0 / 10</div></li>
+
+          <li><span>&#10148;</span><span>دامین‌های پارک شده</span><div class="progress"><div class="progress-bar" data-value="0" data-max="10"></div></div><div class="stats">0 / 10</div></li>
+
+        </ul>
+      </div>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+$(function(){$("body").find(".bbar").each(function(){$(this).animate({width:$(this).attr("ancho")+"px"},2000).animate({opacity:"toggle"},200).animate({opacity:"toggle"},200).animate({opacity:"toggle"},200).animate({opacity:"toggle"},200);});});
+//-->
+</script>
+
+</div>
+<div id="rightPanel">
+
+<div class="pageTit"><span>MySQL مدیریت</span>
+<div><a href="/"><img title="صفحه اصلی" style="vertical-align:middle" src="IMG_USER_HOME" /></a> &#10132; <a class=tree href="/CMD_DB">MySQL مدیریت</a></div>
+</div>
+  <div class="table75">
+
+
+
+
+
+
+<br>
+<script>
+function pma_login(event) {
+        event.preventDefault();
+        fetch('/api/phpmyadmin-sso/account-access', {method: 'POST'})
+                .then((res) => res.json())
+                .then((data) => window.open(data.url, '_blank').focus())
+                .catch((err) => console.error(err));
+}
+</script>
+<form onsubmit='pma_login(event)'>
+        <input type="submit" value="phpMyAdmin SSO"> ورود به <span dir="ltr">phpMyAdmin</span> بدون نیاز به رمز عبور
+</form>
+
+
+ 
+  <form action="/CMD_DB" method="POST" name="tableform"><table cellpadding="3" cellspacing="1" class="list table-highlight"><tr><td class="listtitle">دیتابیس</td><td class="listtitle">تعداد کاربران</td><td class="listtitle">دانلود نسخه پشتیبان</td><td class="listtitle">حجم</td><td class="listtitle" align="center"><a class="listtitle" data-select-name="select" href="#" onclick="
+const form = this.closest(&#34;form&#34;);
+const inputs = Array.from(form?.querySelectorAll(&#34;input&#34;) || []);
+const checkboxes = inputs.filter(v =&gt; v.type === &#34;checkbox&#34; &amp;&amp; v.name.startsWith(this.dataset.selectName));
+const allChecked = checkboxes.reduce((acc, v) =&gt; acc &amp;&amp; v.checked, true);
+checkboxes.forEach(v =&gt; v.checked = !allChecked);
+return false;">انتخاب</a></td></tr><tr><td class="list"><a href="/CMD_DB_VIEW?name=hosse285_wp">hosse285_wp</a></td><td class="list">1</td><td class="list"><a href="/api/db-manage/databases/hosse285_wp/export?gzip=true">دانلود .gz</a> <a href="/api/db-manage/databases/hosse285_wp/export?gzip=false"> .sql</a></td><td class="list">31.8 MiB</td><td align="center" class="list"><input name="select0" type="checkbox" value="hosse285_wp" /></td></tr><tr><td align="right" class="listtitle" colspan="5"><input name="repair" style="margin-left:0.1em; margin-right:0.1em;" type="submit" value="اصلاح" /><input name="check" style="margin-left:0.1em; margin-right:0.1em;" type="submit" value="بررسی" /><input name="optimize" style="margin-left:0.1em; margin-right:0.11em;" type="submit" value="بهینه‌سازی" /><span style="margin-left:4em; margin-right:2em;">سایز کلی: 31.8 MiB</span><input name="delete_db" onclick="return confirm(&#34;آیا مطمئن هستید که می خواهید دیتابیس\u200Cهای انتخاب شده را حذف کنید؟&#34;)" type="submit" value="حذف" /></td></tr></table><input name="action" type="hidden" value="select" /></form>
+  
+  <div class="tip" style="width:534px;margin-top:10px;">جهت مدیریت کاربران و پسورد های هر دیتابیس، بر روی نام هر دیتابیس کلیک کنید</div>
+  
+  <form name=backupform action="/CMD_DB" enctype="multipart/form-data" method="post">
+  <input type=hidden name=action value="restore">
+  <table class="config" cellspacing=0 style="margin-top:20px;">
+  <thead>
+  <tr><td colspan=2>آپلود کردن بکاپ دیتابیس <span dir="ltr">(.gz)</span></td></tr>
+  </thead>
+  <tbody>
+  <tr><td style="width:12%">انتخاب دیتابیس:</td><td><select class="selectclass" name="name"><option value="hosse285_wp" selected>hosse285_wp</option></select></td></tr>
+  <tr><td style="width:12%" >انتخاب فایل بکاپ:</td><td><input type=file name="file1" size=40 class="combot"></td></tr>
+  <tr><td colspan=2>
+   <fieldset style="margin-top:15px;margin-top:15px;margin-bottom:15px;">
+  <legend>روش اتصال به دیتابیس را انتخاب کنید</legend> 
+  <table style="width:100%">
+  <tr><td colspan=2><input type=radio name=method value=default checked onclick="setuserpass(true);"><label>اطلاعات لاگین دایرکت‌ادمین سرویس هاستینگ شما</label></td></tr>
+  <tr><td><input type=radio name=method value=custom onclick="setuserpass(false);"> MySQL اطلاعات لاگین یک کاربر <span dir="ltr">[ نام کاربری: <input type=text size=16 class="combot" name=dbuser value="" disabled onclick="this.select()"> &nbsp; &nbsp; <span dir="rtl">رمز عبور</span>: <input type=password class="combot" size=16 name=dbpass value="" disabled> ]</span></td>
+  </tr>
+  </table>
+  </fieldset>
+  </td></tr>
+  </tbody>
+  <tfoot>
+  <tr><td colspan=2><input type=submit value="آپلود"></td></tr>
+  </tfoot>
+  </table>
+  </form>
+  
+  </div>
+
+</div>
+<script language="javascript">
+function setuserpass(truefalse){
+if (document.backupform)
+with (document.backupform)
+for (var i=0; i < elements.length; i++)
+if (elements[i].name == 'dbuser' || elements[i].name == 'dbpass')
+elements[i].disabled=truefalse;
+}
+</script>
+
+    <div class="cleft"></div><div class="cright"></div><div class="cf"></div>
+  </div>
+  <div id="main_bottom">
+    <a class="white" href="http://www.directadmin.com/">DirectAdmin</a> Web Control Panel &copy; 2009-2022 JBMC Software
+  </div>
+</div>
+<script>
+	$(document).ready(function() {
+		$('#account-summary-box .progress-bar').each(function () {
+			var percentage = 0;
+			var value = $(this).attr('data-value');
+			var max   = $(this).attr('data-max');
+
+			if (max != "unlimited") {
+				percentage = (value * 100) / max;
+			}
+
+			if (percentage > 100) {
+				percentage = 100;
+			}
+			
+			var progress_level = "progress-level" + Math.floor(percentage / 10);
+
+			$(this).addClass(progress_level);
+
+			$(this).animate({ width: percentage + "%"}, 800);
+		});
+	});
+</script>
+</body>
+</html>
+
